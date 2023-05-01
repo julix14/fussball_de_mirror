@@ -1,0 +1,39 @@
+{
+	"Mannschaftsart": {
+		"_47": "F-Junioren",
+		"_48": "G-Junioren"
+	},
+	"Spielklasse": {
+		"47": {
+			"_99": "Kreisliga A",
+			"_100": "Kreisliga B",
+			"_101": "Kreisliga C"
+		},
+		"48": {
+			"_99": "Kreisliga A"
+		}
+	},
+	"Gebiet": {
+		"47": {
+			"99": {
+				"_00ES8GMVUO000003VV0AG08LVUPGND5I": "Kreis Bielefeld",
+				"_00ES8GMVKO000002VV0AG08LVUPGND5I": "Kreis Unna-Hamm"
+			},
+			"100": {
+				"_00ES8GMVUO000003VV0AG08LVUPGND5I": "Kreis Bielefeld",
+				"_00ES8GMVKO000002VV0AG08LVUPGND5I": "Kreis Unna-Hamm"
+			},
+			"101": {
+				"_00ES8GMVUO000003VV0AG08LVUPGND5I": "Kreis Bielefeld",
+				"_00ES8GMVKO000002VV0AG08LVUPGND5I": "Kreis Unna-Hamm"
+			}
+		},
+		"48": {
+			"99": {
+				"_00ES8GMVTG000004VV0AG08LVUPGND5I": "Kreis Iserlohn",
+				"_00ES8GMVTG000002VV0AG08LVUPGND5I": "Kreis Lippstadt",
+				"_00ES8GMVKO000002VV0AG08LVUPGND5I": "Kreis Unna-Hamm"
+			}
+		}
+	}
+}

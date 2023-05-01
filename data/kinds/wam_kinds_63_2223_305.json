@@ -1,0 +1,27 @@
+{
+	"Mannschaftsart": {
+		"_218": "F-Junioren",
+		"_219": "G-Junioren"
+	},
+	"Spielklasse": {
+		"218": {
+			"_277": "1.Kreisklasse"
+		},
+		"219": {
+			"_273": "1.Kreisliga (A)"
+		}
+	},
+	"Gebiet": {
+		"218": {
+			"277": {
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland"
+			}
+		},
+		"219": {
+			"273": {
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen"
+			}
+		}
+	}
+}

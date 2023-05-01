@@ -1,0 +1,47 @@
+{
+	"Mannschaftsart": {
+		"_259": "E-Junioren",
+		"_260": "F-Junioren",
+		"_276": "Bambini",
+		"_742": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"259": {
+			"_202": "Kreisstaffel"
+		},
+		"260": {
+			"_202": "Kreisstaffel"
+		},
+		"276": {
+			"_202": "Kreisstaffel"
+		},
+		"742": {
+			"_202": "Kreisstaffel"
+		}
+	},
+	"Gebiet": {
+		"259": {
+			"202": {
+				"_00GQ4EBK0K000000VTVG0001VS1O0TGP": "Bezirk Neckar/Fils (KL)"
+			}
+		},
+		"260": {
+			"202": {
+				"_00GQ4EBK28000000VTVG0001VS1O0TGP": "Bezirk Böblingen/Calw (KL)",
+				"_00GQ4EBK0K000000VTVG0001VS1O0TGP": "Bezirk Neckar/Fils (KL)",
+				"_00GQ4EBJVC000000VTVG0001VS1O0TGP": "Bezirk Stuttgart (KL)"
+			}
+		},
+		"276": {
+			"202": {
+				"_00GQ4EBK28000000VTVG0001VS1O0TGP": "Bezirk Böblingen/Calw (KL)",
+				"_00GQ4EBK0K000000VTVG0001VS1O0TGP": "Bezirk Neckar/Fils (KL)"
+			}
+		},
+		"742": {
+			"202": {
+				"_00GQ4EBK0K000000VTVG0001VS1O0TGP": "Bezirk Neckar/Fils (KL)"
+			}
+		}
+	}
+}

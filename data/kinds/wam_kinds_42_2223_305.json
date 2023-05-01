@@ -1,0 +1,36 @@
+{
+	"Mannschaftsart": {
+		"_148": "F-Junioren",
+		"_149": "G-Junioren"
+	},
+	"Spielklasse": {
+		"148": {
+			"_228": "Kreisliga",
+			"_230": "2.Kreisklasse"
+		},
+		"149": {
+			"_229": "1.Kreisklasse",
+			"_230": "2.Kreisklasse"
+		}
+	},
+	"Gebiet": {
+		"148": {
+			"228": {
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt"
+			},
+			"230": {
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt"
+			}
+		},
+		"149": {
+			"229": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt"
+			},
+			"230": {
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt"
+			}
+		}
+	}
+}

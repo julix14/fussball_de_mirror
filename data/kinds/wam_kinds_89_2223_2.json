@@ -1,0 +1,71 @@
+{
+	"Mannschaftsart": {
+		"_3": "A-Junioren",
+		"_6": "B-Junioren",
+		"_8": "C-Junioren",
+		"_10": "D-Junioren",
+		"_4": "Frauen",
+		"_7": "B-Juniorinnen",
+		"_9": "C-Juniorinnen"
+	},
+	"Spielklasse": {
+		"3": {
+			"_71": "Hallen-Regionalturnier"
+		},
+		"4": {
+			"_71": "Hallen-Regionalturnier"
+		},
+		"6": {
+			"_71": "Hallen-Regionalturnier"
+		},
+		"7": {
+			"_71": "Hallen-Regionalturnier"
+		},
+		"8": {
+			"_71": "Hallen-Regionalturnier"
+		},
+		"9": {
+			"_71": "Hallen-Regionalturnier"
+		},
+		"10": {
+			"_71": "Hallen-Regionalturnier"
+		}
+	},
+	"Gebiet": {
+		"3": {
+			"71": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"4": {
+			"71": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"6": {
+			"71": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"7": {
+			"71": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"8": {
+			"71": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"9": {
+			"71": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"10": {
+			"71": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		}
+	}
+}

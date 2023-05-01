@@ -1,0 +1,202 @@
+{
+	"Mannschaftsart": {
+		"_126": "Altherren",
+		"_127": "Herren",
+		"_128": "A-Junioren",
+		"_129": "B-Junioren",
+		"_130": "C-Junioren",
+		"_131": "D-Junioren",
+		"_132": "E-Junioren",
+		"_133": "F-Junioren",
+		"_135": "Frauen",
+		"_136": "B-Juniorinnen",
+		"_945": "Freizeit Herren"
+	},
+	"Spielklasse": {
+		"126": {
+			"_285": "Kreispokal"
+		},
+		"127": {
+			"_281": "Sachsen-Anhalt-Pokal",
+			"_285": "Kreispokal"
+		},
+		"128": {
+			"_281": "Sachsen-Anhalt-Pokal",
+			"_285": "Kreispokal"
+		},
+		"129": {
+			"_281": "Sachsen-Anhalt-Pokal",
+			"_285": "Kreispokal"
+		},
+		"130": {
+			"_281": "Sachsen-Anhalt-Pokal",
+			"_285": "Kreispokal"
+		},
+		"131": {
+			"_281": "Sachsen-Anhalt-Pokal",
+			"_285": "Kreispokal"
+		},
+		"132": {
+			"_285": "Kreispokal"
+		},
+		"133": {
+			"_285": "Kreispokal"
+		},
+		"135": {
+			"_281": "Sachsen-Anhalt-Pokal"
+		},
+		"136": {
+			"_281": "Sachsen-Anhalt-Pokal"
+		},
+		"945": {
+			"_285": "Kreispokal"
+		}
+	},
+	"Gebiet": {
+		"126": {
+			"285": {
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg"
+			}
+		},
+		"127": {
+			"281": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"285": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000005VV0AG08LVUPGND5I": "Kreis Anhalt",
+				"_00ES8GN19C000007VV0AG08LVUPGND5I": "Kreis Anhalt-Bitterfeld",
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN394000008VV0AG08LVUPGND5I": "Kreis Jerichower Land",
+				"_00ES8GN19C000002VV0AG08LVUPGND5I": "Kreis Mansfeld-Südharz",
+				"_00ES8GN19C000004VV0AG08LVUPGND5I": "Kreis SFV Halle",
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg",
+				"_00ES8GN19C000001VV0AG08LVUPGND5I": "Kreis Saalekreis",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland",
+				"_00ES8GN18400000IVV0AG08LVUPGND5I": "Kreis Wittenberg"
+			}
+		},
+		"128": {
+			"281": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"285": {
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000007VV0AG08LVUPGND5I": "Kreis Anhalt-Bitterfeld",
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN394000008VV0AG08LVUPGND5I": "Kreis Jerichower Land",
+				"_00ES8GN19C000002VV0AG08LVUPGND5I": "Kreis Mansfeld-Südharz",
+				"_00ES8GN19C000004VV0AG08LVUPGND5I": "Kreis SFV Halle",
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg",
+				"_00ES8GN19C000001VV0AG08LVUPGND5I": "Kreis Saalekreis",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			}
+		},
+		"129": {
+			"281": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"285": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000007VV0AG08LVUPGND5I": "Kreis Anhalt-Bitterfeld",
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN394000008VV0AG08LVUPGND5I": "Kreis Jerichower Land",
+				"_00ES8GN19C000002VV0AG08LVUPGND5I": "Kreis Mansfeld-Südharz",
+				"_00ES8GN19C000004VV0AG08LVUPGND5I": "Kreis SFV Halle",
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg",
+				"_00ES8GN19C000001VV0AG08LVUPGND5I": "Kreis Saalekreis",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland",
+				"_00ES8GN18400000IVV0AG08LVUPGND5I": "Kreis Wittenberg"
+			}
+		},
+		"130": {
+			"281": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"285": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000007VV0AG08LVUPGND5I": "Kreis Anhalt-Bitterfeld",
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN394000008VV0AG08LVUPGND5I": "Kreis Jerichower Land",
+				"_00ES8GN19C000002VV0AG08LVUPGND5I": "Kreis Mansfeld-Südharz",
+				"_00ES8GN19C000004VV0AG08LVUPGND5I": "Kreis SFV Halle",
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg",
+				"_00ES8GN19C000001VV0AG08LVUPGND5I": "Kreis Saalekreis",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland",
+				"_00ES8GN18400000IVV0AG08LVUPGND5I": "Kreis Wittenberg"
+			}
+		},
+		"131": {
+			"281": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"285": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000007VV0AG08LVUPGND5I": "Kreis Anhalt-Bitterfeld",
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN394000008VV0AG08LVUPGND5I": "Kreis Jerichower Land",
+				"_00ES8GN19C000002VV0AG08LVUPGND5I": "Kreis Mansfeld-Südharz",
+				"_00ES8GN19C000004VV0AG08LVUPGND5I": "Kreis SFV Halle",
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg",
+				"_00ES8GN19C000001VV0AG08LVUPGND5I": "Kreis Saalekreis",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland",
+				"_00ES8GN18400000IVV0AG08LVUPGND5I": "Kreis Wittenberg"
+			}
+		},
+		"132": {
+			"285": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000007VV0AG08LVUPGND5I": "Kreis Anhalt-Bitterfeld",
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN394000008VV0AG08LVUPGND5I": "Kreis Jerichower Land",
+				"_00ES8GN19C000002VV0AG08LVUPGND5I": "Kreis Mansfeld-Südharz",
+				"_00ES8GN19C000004VV0AG08LVUPGND5I": "Kreis SFV Halle",
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg",
+				"_00ES8GN19C000001VV0AG08LVUPGND5I": "Kreis Saalekreis",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland",
+				"_00ES8GN18400000IVV0AG08LVUPGND5I": "Kreis Wittenberg"
+			}
+		},
+		"133": {
+			"285": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN19C000002VV0AG08LVUPGND5I": "Kreis Mansfeld-Südharz",
+				"_00ES8GN18400000IVV0AG08LVUPGND5I": "Kreis Wittenberg"
+			}
+		},
+		"135": {
+			"281": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			}
+		},
+		"136": {
+			"281": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			}
+		},
+		"945": {
+			"285": {
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg"
+			}
+		}
+	}
+}

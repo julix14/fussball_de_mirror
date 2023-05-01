@@ -1,0 +1,127 @@
+{
+	"Mannschaftsart": {
+		"_27": "Herren",
+		"_28": "A-Junioren",
+		"_29": "B-Junioren",
+		"_30": "C-Junioren",
+		"_31": "D-Junioren",
+		"_32": "E-Junioren",
+		"_33": "F-Junioren",
+		"_385": "G-Junioren",
+		"_34": "Frauen",
+		"_35": "B-Juniorinnen",
+		"_36": "C-Juniorinnen"
+	},
+	"Spielklasse": {
+		"27": {
+			"_958": "Landesturnier",
+			"_959": "Bezirksturnier",
+			"_960": "Kreisturnier"
+		},
+		"28": {
+			"_960": "Kreisturnier"
+		},
+		"29": {
+			"_958": "Landesturnier",
+			"_960": "Kreisturnier"
+		},
+		"30": {
+			"_958": "Landesturnier",
+			"_960": "Kreisturnier"
+		},
+		"31": {
+			"_960": "Kreisturnier",
+			"_1021": "Vereinsturnier"
+		},
+		"32": {
+			"_1021": "Vereinsturnier"
+		},
+		"33": {
+			"_1021": "Vereinsturnier"
+		},
+		"34": {
+			"_958": "Landesturnier"
+		},
+		"35": {
+			"_958": "Landesturnier"
+		},
+		"36": {
+			"_958": "Landesturnier"
+		},
+		"385": {
+			"_1021": "Vereinsturnier"
+		}
+	},
+	"Gebiet": {
+		"27": {
+			"958": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"959": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"960": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"28": {
+			"960": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"29": {
+			"958": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"960": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"30": {
+			"958": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"960": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"31": {
+			"960": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"1021": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"32": {
+			"1021": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"33": {
+			"1021": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"34": {
+			"958": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"35": {
+			"958": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"36": {
+			"958": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"385": {
+			"1021": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		}
+	}
+}

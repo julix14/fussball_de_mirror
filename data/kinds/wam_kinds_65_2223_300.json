@@ -1,0 +1,198 @@
+{
+	"Mannschaftsart": {
+		"_196": "Alte Herren Ü35",
+		"_197": "Herren",
+		"_198": "A-Junioren",
+		"_199": "B-Junioren",
+		"_200": "C-Junioren",
+		"_201": "D-Junioren",
+		"_202": "E-Junioren",
+		"_203": "F-Junioren",
+		"_204": "G-Junioren",
+		"_993": "Frauen Ü35",
+		"_205": "Frauen",
+		"_413": "E-Juniorinnen",
+		"_209": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"196": {
+			"_1024": "Vereinsturnier"
+		},
+		"197": {
+			"_961": "Landesturnier",
+			"_963": "Kreisturnier",
+			"_1024": "Vereinsturnier"
+		},
+		"198": {
+			"_1024": "Vereinsturnier"
+		},
+		"199": {
+			"_1024": "Vereinsturnier"
+		},
+		"200": {
+			"_1024": "Vereinsturnier"
+		},
+		"201": {
+			"_1024": "Vereinsturnier"
+		},
+		"202": {
+			"_963": "Kreisturnier",
+			"_1024": "Vereinsturnier"
+		},
+		"203": {
+			"_963": "Kreisturnier",
+			"_1024": "Vereinsturnier"
+		},
+		"204": {
+			"_963": "Kreisturnier",
+			"_1024": "Vereinsturnier"
+		},
+		"205": {
+			"_1024": "Vereinsturnier"
+		},
+		"209": {
+			"_961": "Landesturnier",
+			"_1024": "Vereinsturnier"
+		},
+		"413": {
+			"_961": "Landesturnier"
+		},
+		"993": {
+			"_1024": "Vereinsturnier"
+		}
+	},
+	"Gebiet": {
+		"196": {
+			"1024": {
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"197": {
+			"961": {
+				"_0123456789ABCDEF0123456700004260": "Thüringen"
+			},
+			"963": {
+				"_01CQI7CQ5G000000VTVG0001VTC9GP5F": "Kreis Südthüringen"
+			},
+			"1024": {
+				"_01CQI7CMR8000000VTVG0001VTC9GP5F": "Kreis Eichsf.-Unstrut-Hainich",
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CPT8000000VTVG0001VTC9GP5F": "Kreis Jena-Saale-Orla",
+				"_01CQI7CPUS000000VTVG0001VTC9GP5F": "Kreis Mittelthüringen",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ28000000VTVG0001VTC9GP5F": "Kreis Ostthüringen",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ5G000000VTVG0001VTC9GP5F": "Kreis Südthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"198": {
+			"1024": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CPT8000000VTVG0001VTC9GP5F": "Kreis Jena-Saale-Orla",
+				"_01CQI7CQ28000000VTVG0001VTC9GP5F": "Kreis Ostthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"199": {
+			"1024": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CQ28000000VTVG0001VTC9GP5F": "Kreis Ostthüringen",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ5G000000VTVG0001VTC9GP5F": "Kreis Südthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"200": {
+			"1024": {
+				"_01CQI7CMR8000000VTVG0001VTC9GP5F": "Kreis Eichsf.-Unstrut-Hainich",
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CPT8000000VTVG0001VTC9GP5F": "Kreis Jena-Saale-Orla",
+				"_01CQI7CPUS000000VTVG0001VTC9GP5F": "Kreis Mittelthüringen",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ28000000VTVG0001VTC9GP5F": "Kreis Ostthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"201": {
+			"1024": {
+				"_01CQI7CMR8000000VTVG0001VTC9GP5F": "Kreis Eichsf.-Unstrut-Hainich",
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CPT8000000VTVG0001VTC9GP5F": "Kreis Jena-Saale-Orla",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"202": {
+			"963": {
+				"_01CQI7CQ28000000VTVG0001VTC9GP5F": "Kreis Ostthüringen"
+			},
+			"1024": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CPT8000000VTVG0001VTC9GP5F": "Kreis Jena-Saale-Orla",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ28000000VTVG0001VTC9GP5F": "Kreis Ostthüringen",
+				"_01CQI7CQ5G000000VTVG0001VTC9GP5F": "Kreis Südthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"203": {
+			"963": {
+				"_01CQI7CQ28000000VTVG0001VTC9GP5F": "Kreis Ostthüringen",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			},
+			"1024": {
+				"_01CQI7CMR8000000VTVG0001VTC9GP5F": "Kreis Eichsf.-Unstrut-Hainich",
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ5G000000VTVG0001VTC9GP5F": "Kreis Südthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"204": {
+			"963": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CPUS000000VTVG0001VTC9GP5F": "Kreis Mittelthüringen",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			},
+			"1024": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ28000000VTVG0001VTC9GP5F": "Kreis Ostthüringen",
+				"_01CQI7CQ5G000000VTVG0001VTC9GP5F": "Kreis Südthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"205": {
+			"1024": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CQ5G000000VTVG0001VTC9GP5F": "Kreis Südthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"209": {
+			"961": {
+				"_0123456789ABCDEF0123456700004260": "Thüringen"
+			},
+			"1024": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CPT8000000VTVG0001VTC9GP5F": "Kreis Jena-Saale-Orla",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen"
+			}
+		},
+		"413": {
+			"961": {
+				"_0123456789ABCDEF0123456700004260": "Thüringen"
+			}
+		},
+		"993": {
+			"1024": {
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		}
+	}
+}

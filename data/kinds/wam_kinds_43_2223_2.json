@@ -1,0 +1,164 @@
+{
+	"Mannschaftsart": {
+		"_159": "A-Junioren",
+		"_160": "B-Junioren",
+		"_161": "C-Junioren",
+		"_162": "D-Junioren",
+		"_163": "E-Junioren",
+		"_164": "F-Junioren",
+		"_165": "G-Junioren",
+		"_167": "B-Juniorinnen",
+		"_168": "C-Juniorinnen",
+		"_169": "D-Juniorinnen",
+		"_171": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"159": {
+			"_562": "Hallen-Landesturnier",
+			"_564": "Hallen-Kreisturnier"
+		},
+		"160": {
+			"_562": "Hallen-Landesturnier",
+			"_564": "Hallen-Kreisturnier"
+		},
+		"161": {
+			"_562": "Hallen-Landesturnier",
+			"_564": "Hallen-Kreisturnier",
+			"_1041": "Hallen-Vereinsturnier"
+		},
+		"162": {
+			"_562": "Hallen-Landesturnier",
+			"_564": "Hallen-Kreisturnier",
+			"_1041": "Hallen-Vereinsturnier"
+		},
+		"163": {
+			"_562": "Hallen-Landesturnier",
+			"_564": "Hallen-Kreisturnier",
+			"_1041": "Hallen-Vereinsturnier"
+		},
+		"164": {
+			"_564": "Hallen-Kreisturnier"
+		},
+		"165": {
+			"_564": "Hallen-Kreisturnier"
+		},
+		"167": {
+			"_562": "Hallen-Landesturnier"
+		},
+		"168": {
+			"_562": "Hallen-Landesturnier"
+		},
+		"169": {
+			"_562": "Hallen-Landesturnier",
+			"_563": "Hallen-Bezirksturnier"
+		},
+		"171": {
+			"_562": "Hallen-Landesturnier"
+		}
+	},
+	"Gebiet": {
+		"159": {
+			"562": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"564": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"160": {
+			"562": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"564": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"161": {
+			"562": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"564": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			},
+			"1041": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar"
+			}
+		},
+		"162": {
+			"562": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"564": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			},
+			"1041": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar"
+			}
+		},
+		"163": {
+			"562": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"564": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			},
+			"1041": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar"
+			}
+		},
+		"164": {
+			"564": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"165": {
+			"564": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"167": {
+			"562": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			}
+		},
+		"168": {
+			"562": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			}
+		},
+		"169": {
+			"562": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"563": {
+				"_00GQ4EOC10000000VTVG0001VS1O0TGP": "Bezirk Saarland"
+			}
+		},
+		"171": {
+			"562": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			}
+		}
+	}
+}

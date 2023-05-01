@@ -1,0 +1,62 @@
+{
+	"Mannschaftsart": {
+		"_9": "Herren",
+		"_10": "A-Junioren",
+		"_11": "B-Junioren",
+		"_12": "C-Junioren",
+		"_13": "D-Junioren",
+		"_18": "B-Juniorinnen"
+	},
+	"Spielklasse": {
+		"9": {
+			"_937": "Futsal-Verbandsliga"
+		},
+		"10": {
+			"_931": "Futsal-Kreisliga"
+		},
+		"11": {
+			"_931": "Futsal-Kreisliga"
+		},
+		"12": {
+			"_931": "Futsal-Kreisliga"
+		},
+		"13": {
+			"_931": "Futsal-Kreisliga"
+		},
+		"18": {
+			"_931": "Futsal-Kreisliga"
+		}
+	},
+	"Gebiet": {
+		"9": {
+			"937": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			}
+		},
+		"10": {
+			"931": {
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven"
+			}
+		},
+		"11": {
+			"931": {
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven"
+			}
+		},
+		"12": {
+			"931": {
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven"
+			}
+		},
+		"13": {
+			"931": {
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven"
+			}
+		},
+		"18": {
+			"931": {
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven"
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"Mannschaftsart": {
+		"_180": "F-Junioren"
+	},
+	"Spielklasse": {
+		"180": {
+			"_54": "1.Kreisklasse",
+			"_55": "2.Kreisklasse"
+		}
+	},
+	"Gebiet": {
+		"180": {
+			"54": {
+				"_00ES8GMVI8000002VV0AG08LVUPGND5I": "Kreis Bremen-Nord",
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			},
+			"55": {
+				"_00ES8GMVI8000002VV0AG08LVUPGND5I": "Kreis Bremen-Nord"
+			}
+		}
+	}
+}

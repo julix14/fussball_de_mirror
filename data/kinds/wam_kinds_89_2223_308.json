@@ -1,0 +1,48 @@
+{
+	"Mannschaftsart": {
+		"_1": "Herren",
+		"_3": "A-Junioren",
+		"_6": "B-Junioren",
+		"_4": "Frauen"
+	},
+	"Spielklasse": {
+		"1": {
+			"_110": "Supercups",
+			"_3": "DFB-Pokal"
+		},
+		"3": {
+			"_3": "DFB-Pokal"
+		},
+		"4": {
+			"_3": "DFB-Pokal"
+		},
+		"6": {
+			"_5": "Regional Pokal"
+		}
+	},
+	"Gebiet": {
+		"1": {
+			"3": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			},
+			"110": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"3": {
+			"3": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"4": {
+			"3": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"6": {
+			"5": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		}
+	}
+}

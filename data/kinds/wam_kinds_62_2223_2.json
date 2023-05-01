@@ -1,0 +1,275 @@
+{
+	"Mannschaftsart": {
+		"_328": "Alte Herren Ü50",
+		"_329": "Alte Herren Ü40",
+		"_330": "Alte Herren Ü35",
+		"_331": "Herren",
+		"_296": "A-Junioren",
+		"_297": "B-Junioren",
+		"_332": "C-Junioren",
+		"_333": "D-Junioren",
+		"_298": "E-Junioren",
+		"_299": "F-Junioren",
+		"_334": "G-Junioren",
+		"_999": "Frauen Ü35",
+		"_335": "Frauen",
+		"_300": "B-Juniorinnen",
+		"_336": "C-Juniorinnen",
+		"_337": "D-Juniorinnen",
+		"_340": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"296": {
+			"_567": "Hallen-Landesturnier",
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"297": {
+			"_567": "Hallen-Landesturnier",
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"298": {
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"299": {
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"300": {
+			"_567": "Hallen-Landesturnier"
+		},
+		"328": {
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"329": {
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"330": {
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"331": {
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"332": {
+			"_567": "Hallen-Landesturnier",
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"333": {
+			"_567": "Hallen-Landesturnier",
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"334": {
+			"_569": "Hallen-Kreisturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"335": {
+			"_567": "Hallen-Landesturnier",
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"336": {
+			"_567": "Hallen-Landesturnier"
+		},
+		"337": {
+			"_567": "Hallen-Landesturnier"
+		},
+		"340": {
+			"_1035": "Hallen-Vereinsturnier"
+		},
+		"999": {
+			"_567": "Hallen-Landesturnier"
+		}
+	},
+	"Gebiet": {
+		"296": {
+			"567": {
+				"_0123456789ABCDEF0123456700004220": "Mecklenburg-Vorpommern"
+			},
+			"569": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl."
+			},
+			"1035": {
+				"_012HJ0SV34000000VTVG0001VVED51K1": "Kreis Nordvorpommern-Rügen",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			}
+		},
+		"297": {
+			"567": {
+				"_0123456789ABCDEF0123456700004220": "Mecklenburg-Vorpommern"
+			},
+			"569": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			},
+			"1035": {
+				"_012HJ0SV34000000VTVG0001VVED51K1": "Kreis Nordvorpommern-Rügen",
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow"
+			}
+		},
+		"298": {
+			"569": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			},
+			"1035": {
+				"_012HJ0SSO0000000VTVG0001VVED51K1": "Kreis Mecklenburg. Seenplatte",
+				"_012HJ0SV34000000VTVG0001VVED51K1": "Kreis Nordvorpommern-Rügen",
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			}
+		},
+		"299": {
+			"569": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			},
+			"1035": {
+				"_012HJ0SSO0000000VTVG0001VVED51K1": "Kreis Mecklenburg. Seenplatte",
+				"_012HJ0SV34000000VTVG0001VVED51K1": "Kreis Nordvorpommern-Rügen",
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			}
+		},
+		"300": {
+			"567": {
+				"_0123456789ABCDEF0123456700004220": "Mecklenburg-Vorpommern"
+			}
+		},
+		"328": {
+			"569": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl."
+			},
+			"1035": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl."
+			}
+		},
+		"329": {
+			"569": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl."
+			},
+			"1035": {
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow"
+			}
+		},
+		"330": {
+			"569": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			},
+			"1035": {
+				"_012HJ0SSO0000000VTVG0001VVED51K1": "Kreis Mecklenburg. Seenplatte",
+				"_012HJ0SV34000000VTVG0001VVED51K1": "Kreis Nordvorpommern-Rügen",
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			}
+		},
+		"331": {
+			"569": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			},
+			"1035": {
+				"_012HJ0SSO0000000VTVG0001VVED51K1": "Kreis Mecklenburg. Seenplatte",
+				"_012HJ0SV34000000VTVG0001VVED51K1": "Kreis Nordvorpommern-Rügen",
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			}
+		},
+		"332": {
+			"567": {
+				"_0123456789ABCDEF0123456700004220": "Mecklenburg-Vorpommern"
+			},
+			"569": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			},
+			"1035": {
+				"_012HJ0SSO0000000VTVG0001VVED51K1": "Kreis Mecklenburg. Seenplatte",
+				"_012HJ0SV34000000VTVG0001VVED51K1": "Kreis Nordvorpommern-Rügen",
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow"
+			}
+		},
+		"333": {
+			"567": {
+				"_0123456789ABCDEF0123456700004220": "Mecklenburg-Vorpommern"
+			},
+			"569": {
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow",
+				"_012HJ0SVIC000000VTVG0001VVED51K1": "Kreis Westmecklenburg"
+			},
+			"1035": {
+				"_012HJ0SSO0000000VTVG0001VVED51K1": "Kreis Mecklenburg. Seenplatte",
+				"_012HJ0SV34000000VTVG0001VVED51K1": "Kreis Nordvorpommern-Rügen",
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow"
+			}
+		},
+		"334": {
+			"569": {
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald"
+			},
+			"1035": {
+				"_012HJ0SV34000000VTVG0001VVED51K1": "Kreis Nordvorpommern-Rügen",
+				"_012HJ0SV6S000000VTVG0001VVED51K1": "Kreis Schwerin-Nordwestmeckl.",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow"
+			}
+		},
+		"335": {
+			"567": {
+				"_0123456789ABCDEF0123456700004220": "Mecklenburg-Vorpommern"
+			},
+			"1035": {
+				"_012HJ0SV34000000VTVG0001VVED51K1": "Kreis Nordvorpommern-Rügen",
+				"_012HJ0SVAO000000VTVG0001VVED51K1": "Kreis Vorpommern-Greifswald",
+				"_012HJ0SVEK000000VTVG0001VVED51K1": "Kreis Warnow"
+			}
+		},
+		"336": {
+			"567": {
+				"_0123456789ABCDEF0123456700004220": "Mecklenburg-Vorpommern"
+			}
+		},
+		"337": {
+			"567": {
+				"_0123456789ABCDEF0123456700004220": "Mecklenburg-Vorpommern"
+			}
+		},
+		"340": {
+			"1035": {
+				"_012HJ0SSO0000000VTVG0001VVED51K1": "Kreis Mecklenburg. Seenplatte"
+			}
+		},
+		"999": {
+			"567": {
+				"_0123456789ABCDEF0123456700004220": "Mecklenburg-Vorpommern"
+			}
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"Mannschaftsart": {
+		"_163": "E-Junioren",
+		"_164": "F-Junioren",
+		"_165": "G-Junioren",
+		"_170": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"163": {
+			"_240": "2.Kreisklasse"
+		},
+		"164": {
+			"_238": "Kreisliga A / Kreisliga",
+			"_239": "Kreisliga B / 1.Kreisklasse"
+		},
+		"165": {
+			"_239": "Kreisliga B / 1.Kreisklasse"
+		},
+		"170": {
+			"_233": "Landesliga"
+		}
+	},
+	"Gebiet": {
+		"163": {
+			"240": {
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"164": {
+			"238": {
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar"
+			},
+			"239": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"165": {
+			"239": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"170": {
+			"233": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			}
+		}
+	}
+}

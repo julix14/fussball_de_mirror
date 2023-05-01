@@ -1,0 +1,170 @@
+{
+	"Mannschaftsart": {
+		"_381": "Altliga Ü 60",
+		"_23": "Altliga Ü 50",
+		"_25": "Altliga Ü 40",
+		"_26": "Senioren Ü 32",
+		"_27": "Herren",
+		"_994": "Altliga Ü 60-Freizeit/Betrieb",
+		"_995": "Altliga Ü 50-Freizeit/Betrieb",
+		"_996": "Altliga Ü 40-Freizeit/Betrieb",
+		"_997": "Senioren Ü 32-Freizeit/Betrieb",
+		"_998": "Herren - Freizeit/Betrieb",
+		"_28": "A-Junioren",
+		"_29": "B-Junioren",
+		"_30": "C-Junioren",
+		"_31": "D-Junioren",
+		"_34": "Frauen",
+		"_35": "B-Juniorinnen",
+		"_36": "C-Juniorinnen",
+		"_37": "D-Juniorinnen"
+	},
+	"Spielklasse": {
+		"23": {
+			"_304": "Berlin-Pokal"
+		},
+		"25": {
+			"_304": "Berlin-Pokal"
+		},
+		"26": {
+			"_304": "Berlin-Pokal"
+		},
+		"27": {
+			"_304": "Berlin-Pokal"
+		},
+		"28": {
+			"_304": "Berlin-Pokal"
+		},
+		"29": {
+			"_304": "Berlin-Pokal"
+		},
+		"30": {
+			"_304": "Berlin-Pokal"
+		},
+		"31": {
+			"_304": "Berlin-Pokal"
+		},
+		"34": {
+			"_304": "Berlin-Pokal"
+		},
+		"35": {
+			"_304": "Berlin-Pokal"
+		},
+		"36": {
+			"_304": "Berlin-Pokal"
+		},
+		"37": {
+			"_304": "Berlin-Pokal"
+		},
+		"381": {
+			"_304": "Berlin-Pokal"
+		},
+		"994": {
+			"_1017": "Verbandspokal Freiz./Betr."
+		},
+		"995": {
+			"_1017": "Verbandspokal Freiz./Betr."
+		},
+		"996": {
+			"_1017": "Verbandspokal Freiz./Betr."
+		},
+		"997": {
+			"_1017": "Verbandspokal Freiz./Betr."
+		},
+		"998": {
+			"_1017": "Verbandspokal Freiz./Betr."
+		}
+	},
+	"Gebiet": {
+		"23": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"25": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"26": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"27": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"28": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"29": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"30": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"31": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"34": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"35": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"36": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"37": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"381": {
+			"304": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"994": {
+			"1017": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"995": {
+			"1017": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"996": {
+			"1017": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"997": {
+			"1017": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"998": {
+			"1017": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		}
+	}
+}

@@ -1,0 +1,146 @@
+{
+	"Mannschaftsart": {
+		"_126": "Altherren",
+		"_127": "Herren",
+		"_129": "B-Junioren",
+		"_130": "C-Junioren",
+		"_131": "D-Junioren",
+		"_132": "E-Junioren",
+		"_133": "F-Junioren",
+		"_134": "G-Junioren",
+		"_135": "Frauen",
+		"_137": "C-Juniorinnen",
+		"_138": "D-Juniorinnen",
+		"_945": "Freizeit Herren"
+	},
+	"Spielklasse": {
+		"126": {
+			"_1027": "Vereinsturnier"
+		},
+		"127": {
+			"_964": "Landesturnier",
+			"_965": "Kreisturnier",
+			"_1027": "Vereinsturnier"
+		},
+		"129": {
+			"_1027": "Vereinsturnier"
+		},
+		"130": {
+			"_964": "Landesturnier",
+			"_1027": "Vereinsturnier"
+		},
+		"131": {
+			"_965": "Kreisturnier",
+			"_1027": "Vereinsturnier"
+		},
+		"132": {
+			"_965": "Kreisturnier"
+		},
+		"133": {
+			"_965": "Kreisturnier",
+			"_1027": "Vereinsturnier"
+		},
+		"134": {
+			"_965": "Kreisturnier"
+		},
+		"135": {
+			"_964": "Landesturnier",
+			"_965": "Kreisturnier"
+		},
+		"137": {
+			"_964": "Landesturnier"
+		},
+		"138": {
+			"_964": "Landesturnier"
+		},
+		"945": {
+			"_964": "Landesturnier"
+		}
+	},
+	"Gebiet": {
+		"126": {
+			"1027": {
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			}
+		},
+		"127": {
+			"964": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"965": {
+				"_00ES8GN19C000005VV0AG08LVUPGND5I": "Kreis Anhalt",
+				"_00ES8GN18400000IVV0AG08LVUPGND5I": "Kreis Wittenberg"
+			},
+			"1027": {
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz"
+			}
+		},
+		"129": {
+			"1027": {
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland"
+			}
+		},
+		"130": {
+			"964": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"1027": {
+				"_00ES8GN19C000004VV0AG08LVUPGND5I": "Kreis SFV Halle"
+			}
+		},
+		"131": {
+			"965": {
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland"
+			},
+			"1027": {
+				"_00ES8GN19C000004VV0AG08LVUPGND5I": "Kreis SFV Halle"
+			}
+		},
+		"132": {
+			"965": {
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000005VV0AG08LVUPGND5I": "Kreis Anhalt"
+			}
+		},
+		"133": {
+			"965": {
+				"_00ES8GN19C000005VV0AG08LVUPGND5I": "Kreis Anhalt",
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			},
+			"1027": {
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg"
+			}
+		},
+		"134": {
+			"965": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000007VV0AG08LVUPGND5I": "Kreis SFV Magdeburg",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			}
+		},
+		"135": {
+			"964": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"965": {
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			}
+		},
+		"137": {
+			"964": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			}
+		},
+		"138": {
+			"964": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			}
+		},
+		"945": {
+			"964": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"Mannschaftsart": {
+		"_343": "Herren"
+	},
+	"Spielklasse": {
+		"343": {
+			"_914": "Futsal-Niederrheinliga",
+			"_915": "Futsal-Landesliga"
+		}
+	},
+	"Gebiet": {
+		"343": {
+			"914": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			},
+			"915": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			}
+		}
+	}
+}

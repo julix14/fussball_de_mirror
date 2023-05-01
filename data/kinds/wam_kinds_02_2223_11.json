@@ -1,0 +1,30 @@
+{
+	"Mannschaftsart": {
+		"_174": "Herren",
+		"_178": "D-Junioren"
+	},
+	"Spielklasse": {
+		"174": {
+			"_926": "Futsal-Verbandsliga",
+			"_928": "Futsal-Stadtliga"
+		},
+		"178": {
+			"_928": "Futsal-Stadtliga"
+		}
+	},
+	"Gebiet": {
+		"174": {
+			"926": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"928": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			}
+		},
+		"178": {
+			"928": {
+				"_00ES8GMVI8000002VV0AG08LVUPGND5I": "Kreis Bremen-Nord"
+			}
+		}
+	}
+}

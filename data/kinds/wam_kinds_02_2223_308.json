@@ -1,0 +1,142 @@
+{
+	"Mannschaftsart": {
+		"_172": "Alte-Herren Ü40",
+		"_174": "Herren",
+		"_175": "A-Junioren",
+		"_176": "B-Junioren",
+		"_177": "C-Junioren",
+		"_178": "D-Junioren",
+		"_179": "E-Junioren",
+		"_182": "Frauen",
+		"_183": "B-Juniorinnen",
+		"_376": "C-Juniorinnen",
+		"_377": "D-Juniorinnen",
+		"_378": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"172": {
+			"_50": "Kreispokal"
+		},
+		"174": {
+			"_45": "Bremen-Pokal",
+			"_50": "Kreispokal"
+		},
+		"175": {
+			"_45": "Bremen-Pokal",
+			"_48": "Bezirkspokal"
+		},
+		"176": {
+			"_45": "Bremen-Pokal",
+			"_48": "Bezirkspokal",
+			"_50": "Kreispokal"
+		},
+		"177": {
+			"_45": "Bremen-Pokal",
+			"_48": "Bezirkspokal",
+			"_50": "Kreispokal"
+		},
+		"178": {
+			"_50": "Kreispokal"
+		},
+		"179": {
+			"_50": "Kreispokal"
+		},
+		"182": {
+			"_45": "Bremen-Pokal"
+		},
+		"183": {
+			"_45": "Bremen-Pokal"
+		},
+		"376": {
+			"_45": "Bremen-Pokal"
+		},
+		"377": {
+			"_45": "Bremen-Pokal"
+		},
+		"378": {
+			"_50": "Kreispokal"
+		}
+	},
+	"Gebiet": {
+		"172": {
+			"50": {
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			}
+		},
+		"174": {
+			"45": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"50": {
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			}
+		},
+		"175": {
+			"45": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"48": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			}
+		},
+		"176": {
+			"45": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"48": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			},
+			"50": {
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			}
+		},
+		"177": {
+			"45": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"48": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			},
+			"50": {
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			}
+		},
+		"178": {
+			"50": {
+				"_00ES8GMVI8000002VV0AG08LVUPGND5I": "Kreis Bremen-Nord",
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt",
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			}
+		},
+		"179": {
+			"50": {
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			}
+		},
+		"182": {
+			"45": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			}
+		},
+		"183": {
+			"45": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			}
+		},
+		"376": {
+			"45": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			}
+		},
+		"377": {
+			"45": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			}
+		},
+		"378": {
+			"50": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			}
+		}
+	}
+}

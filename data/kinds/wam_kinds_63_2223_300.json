@@ -1,0 +1,136 @@
+{
+	"Mannschaftsart": {
+		"_212": "Herren",
+		"_214": "B-Junioren",
+		"_215": "C-Junioren",
+		"_216": "D-Junioren",
+		"_217": "E-Junioren",
+		"_218": "F-Junioren",
+		"_219": "G-Junioren",
+		"_222": "C-Juniorinnen",
+		"_223": "D-Juniorinnen",
+		"_224": "E-Juniorinnen",
+		"_226": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"212": {
+			"_968": "Kreisturnier"
+		},
+		"214": {
+			"_968": "Kreisturnier"
+		},
+		"215": {
+			"_966": "Landesturnier"
+		},
+		"216": {
+			"_966": "Landesturnier",
+			"_968": "Kreisturnier"
+		},
+		"217": {
+			"_968": "Kreisturnier",
+			"_1030": "Vereinsturnier"
+		},
+		"218": {
+			"_968": "Kreisturnier",
+			"_1030": "Vereinsturnier"
+		},
+		"219": {
+			"_968": "Kreisturnier",
+			"_1030": "Vereinsturnier"
+		},
+		"222": {
+			"_966": "Landesturnier"
+		},
+		"223": {
+			"_966": "Landesturnier"
+		},
+		"224": {
+			"_968": "Kreisturnier"
+		},
+		"226": {
+			"_1030": "Vereinsturnier"
+		}
+	},
+	"Gebiet": {
+		"212": {
+			"968": {
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge"
+			}
+		},
+		"214": {
+			"968": {
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge"
+			}
+		},
+		"215": {
+			"966": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"216": {
+			"966": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			},
+			"968": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz"
+			}
+		},
+		"217": {
+			"968": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb."
+			},
+			"1030": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb.",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			}
+		},
+		"218": {
+			"968": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen"
+			},
+			"1030": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb.",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			}
+		},
+		"219": {
+			"968": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen"
+			},
+			"1030": {
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb.",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			}
+		},
+		"222": {
+			"966": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"223": {
+			"966": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"224": {
+			"968": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden"
+			}
+		},
+		"226": {
+			"1030": {
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig"
+			}
+		}
+	}
+}

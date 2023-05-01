@@ -1,0 +1,182 @@
+{
+	"Mannschaftsart": {
+		"_196": "Alte Herren Ü35",
+		"_197": "Herren",
+		"_198": "A-Junioren",
+		"_199": "B-Junioren",
+		"_200": "C-Junioren",
+		"_201": "D-Junioren",
+		"_202": "E-Junioren",
+		"_203": "F-Junioren",
+		"_204": "G-Junioren",
+		"_205": "Frauen",
+		"_207": "C-Juniorinnen",
+		"_208": "D-Juniorinnen",
+		"_209": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"196": {
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"197": {
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"198": {
+			"_577": "Hallen-Kreisturnier",
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"199": {
+			"_577": "Hallen-Kreisturnier",
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"200": {
+			"_577": "Hallen-Kreisturnier",
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"201": {
+			"_577": "Hallen-Kreisturnier",
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"202": {
+			"_577": "Hallen-Kreisturnier",
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"203": {
+			"_577": "Hallen-Kreisturnier",
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"204": {
+			"_577": "Hallen-Kreisturnier",
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"205": {
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"207": {
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"208": {
+			"_1026": "Hallen-Vereinsturnier"
+		},
+		"209": {
+			"_1026": "Hallen-Vereinsturnier"
+		}
+	},
+	"Gebiet": {
+		"196": {
+			"1026": {
+				"_01CQI7CPUS000000VTVG0001VTC9GP5F": "Kreis Mittelthüringen",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"197": {
+			"1026": {
+				"_01CQI7CMR8000000VTVG0001VTC9GP5F": "Kreis Eichsf.-Unstrut-Hainich",
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"198": {
+			"577": {
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig"
+			},
+			"1026": {
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"199": {
+			"577": {
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig"
+			},
+			"1026": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"200": {
+			"577": {
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig"
+			},
+			"1026": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"201": {
+			"577": {
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig"
+			},
+			"1026": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CPUS000000VTVG0001VTC9GP5F": "Kreis Mittelthüringen",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"202": {
+			"577": {
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig"
+			},
+			"1026": {
+				"_01CQI7CMR8000000VTVG0001VTC9GP5F": "Kreis Eichsf.-Unstrut-Hainich",
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CPT8000000VTVG0001VTC9GP5F": "Kreis Jena-Saale-Orla",
+				"_01CQI7CPUS000000VTVG0001VTC9GP5F": "Kreis Mittelthüringen",
+				"_01CQI7CQ0G000000VTVG0001VTC9GP5F": "Kreis Nordthüringen",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"203": {
+			"577": {
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig"
+			},
+			"1026": {
+				"_01CQI7CMR8000000VTVG0001VTC9GP5F": "Kreis Eichsf.-Unstrut-Hainich",
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CPT8000000VTVG0001VTC9GP5F": "Kreis Jena-Saale-Orla",
+				"_01CQI7CPUS000000VTVG0001VTC9GP5F": "Kreis Mittelthüringen",
+				"_01CQI7CQ28000000VTVG0001VTC9GP5F": "Kreis Ostthüringen",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"204": {
+			"577": {
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig"
+			},
+			"1026": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"205": {
+			"1026": {
+				"_01CQI7CPQK000000VTVG0001VTC9GP5F": "Kreis Erfurt-Sömmerda",
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"207": {
+			"1026": {
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"208": {
+			"1026": {
+				"_01CQI7CQ74000000VTVG0001VTC9GP5F": "Kreis Westthüringen"
+			}
+		},
+		"209": {
+			"1026": {
+				"_01CQI7CQ3S000000VTVG0001VTC9GP5F": "Kreis Rhön-Rennsteig"
+			}
+		}
+	}
+}

@@ -1,0 +1,173 @@
+{
+	"Mannschaftsart": {
+		"_141": "Ü32 Senioren",
+		"_142": "Herren",
+		"_143": "A-Junioren",
+		"_144": "B-Junioren",
+		"_145": "C-Junioren",
+		"_146": "D-Junioren",
+		"_147": "E-Junioren",
+		"_148": "F-Junioren",
+		"_149": "G-Junioren",
+		"_151": "B-Juniorinnen",
+		"_152": "C-Juniorinnen",
+		"_153": "D-Juniorinnen",
+		"_155": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"141": {
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"142": {
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"143": {
+			"_561": "Hallen-Kreisturnier",
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"144": {
+			"_561": "Hallen-Kreisturnier",
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"145": {
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"146": {
+			"_561": "Hallen-Kreisturnier",
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"147": {
+			"_561": "Hallen-Kreisturnier",
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"148": {
+			"_561": "Hallen-Kreisturnier",
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"149": {
+			"_561": "Hallen-Kreisturnier",
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"151": {
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"152": {
+			"_561": "Hallen-Kreisturnier",
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"153": {
+			"_1044": "Hallen-Vereinsturnier"
+		},
+		"155": {
+			"_559": "Hallen-Landesturnier"
+		}
+	},
+	"Gebiet": {
+		"141": {
+			"1044": {
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern"
+			}
+		},
+		"142": {
+			"1044": {
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach"
+			}
+		},
+		"143": {
+			"561": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld"
+			},
+			"1044": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen"
+			}
+		},
+		"144": {
+			"561": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld"
+			},
+			"1044": {
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen"
+			}
+		},
+		"145": {
+			"1044": {
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen"
+			}
+		},
+		"146": {
+			"561": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld"
+			},
+			"1044": {
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen"
+			}
+		},
+		"147": {
+			"561": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld"
+			},
+			"1044": {
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen"
+			}
+		},
+		"148": {
+			"561": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld"
+			},
+			"1044": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern"
+			}
+		},
+		"149": {
+			"561": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld"
+			},
+			"1044": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern"
+			}
+		},
+		"151": {
+			"1044": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld"
+			}
+		},
+		"152": {
+			"561": {
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg"
+			},
+			"1044": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld"
+			}
+		},
+		"153": {
+			"1044": {
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen"
+			}
+		},
+		"155": {
+			"559": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			}
+		}
+	}
+}

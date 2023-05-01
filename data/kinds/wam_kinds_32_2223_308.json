@@ -1,0 +1,137 @@
+{
+	"Mannschaftsart": {
+		"_228": "Herren",
+		"_229": "A-Junioren",
+		"_230": "B-Junioren",
+		"_231": "C-Junioren",
+		"_232": "D-Junioren",
+		"_235": "Frauen",
+		"_236": "B-Juniorinnen",
+		"_237": "C-Juniorinnen"
+	},
+	"Spielklasse": {
+		"228": {
+			"_144": "Verbands-Pokal",
+			"_149": "Kreispokal"
+		},
+		"229": {
+			"_144": "Verbands-Pokal",
+			"_149": "Kreispokal"
+		},
+		"230": {
+			"_144": "Verbands-Pokal",
+			"_149": "Kreispokal"
+		},
+		"231": {
+			"_144": "Verbands-Pokal",
+			"_149": "Kreispokal"
+		},
+		"232": {
+			"_149": "Kreispokal"
+		},
+		"235": {
+			"_144": "Verbands-Pokal",
+			"_149": "Kreispokal"
+		},
+		"236": {
+			"_144": "Verbands-Pokal"
+		},
+		"237": {
+			"_144": "Verbands-Pokal"
+		}
+	},
+	"Gebiet": {
+		"228": {
+			"144": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			},
+			"149": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000004VV0AG08LVUPGND5I": "Kreis Buchen",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg",
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN02G000000VV0AG08LVUPGND5I": "Kreis Mannheim",
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim",
+				"_00ES8GN02G000002VV0AG08LVUPGND5I": "Kreis Sinsheim",
+				"_00ES8GN02G000005VV0AG08LVUPGND5I": "Kreis Tauberbischofsheim"
+			}
+		},
+		"229": {
+			"144": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			},
+			"149": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000004VV0AG08LVUPGND5I": "Kreis Buchen",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg",
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN02G000000VV0AG08LVUPGND5I": "Kreis Mannheim",
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim",
+				"_00ES8GN02G000002VV0AG08LVUPGND5I": "Kreis Sinsheim",
+				"_00ES8GN02G000005VV0AG08LVUPGND5I": "Kreis Tauberbischofsheim"
+			}
+		},
+		"230": {
+			"144": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			},
+			"149": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000004VV0AG08LVUPGND5I": "Kreis Buchen",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg",
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN02G000000VV0AG08LVUPGND5I": "Kreis Mannheim",
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim",
+				"_00ES8GN02G000002VV0AG08LVUPGND5I": "Kreis Sinsheim",
+				"_00ES8GN02G000005VV0AG08LVUPGND5I": "Kreis Tauberbischofsheim"
+			}
+		},
+		"231": {
+			"144": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			},
+			"149": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000004VV0AG08LVUPGND5I": "Kreis Buchen",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg",
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN02G000000VV0AG08LVUPGND5I": "Kreis Mannheim",
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim",
+				"_00ES8GN02G000002VV0AG08LVUPGND5I": "Kreis Sinsheim",
+				"_00ES8GN02G000005VV0AG08LVUPGND5I": "Kreis Tauberbischofsheim"
+			}
+		},
+		"232": {
+			"149": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg",
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim",
+				"_00ES8GN02G000002VV0AG08LVUPGND5I": "Kreis Sinsheim"
+			}
+		},
+		"235": {
+			"144": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			},
+			"149": {
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach"
+			}
+		},
+		"236": {
+			"144": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			}
+		},
+		"237": {
+			"144": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			}
+		}
+	}
+}

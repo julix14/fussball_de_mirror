@@ -1,0 +1,591 @@
+{
+	"Mannschaftsart": {
+		"_1161": "Altsenioren Ü60",
+		"_802": "Altsenioren Ü50",
+		"_7": "Altsenioren Ü40",
+		"_8": "Altherren",
+		"_9": "Herren",
+		"_10": "A-Junioren",
+		"_11": "B-Junioren",
+		"_12": "C-Junioren",
+		"_13": "D-Junioren",
+		"_14": "E-Junioren",
+		"_15": "F-Junioren",
+		"_16": "G-Junioren",
+		"_17": "Frauen",
+		"_432": "A-Juniorinnen",
+		"_18": "B-Juniorinnen",
+		"_19": "C-Juniorinnen",
+		"_20": "D-Juniorinnen",
+		"_21": "E-Juniorinnen",
+		"_387": "F-Juniorinnen",
+		"_388": "G-Juniorinnen",
+		"_22": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"7": {
+			"_1014": "Landesturnier",
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"8": {
+			"_1014": "Landesturnier",
+			"_1015": "Bezirksturnier",
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"9": {
+			"_1014": "Landesturnier",
+			"_1015": "Bezirksturnier",
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"10": {
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"11": {
+			"_1014": "Landesturnier",
+			"_1015": "Bezirksturnier",
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"12": {
+			"_1014": "Landesturnier",
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"13": {
+			"_1014": "Landesturnier",
+			"_1015": "Bezirksturnier",
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"14": {
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"15": {
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"16": {
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"17": {
+			"_1014": "Landesturnier",
+			"_1015": "Bezirksturnier",
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"18": {
+			"_1014": "Landesturnier",
+			"_1015": "Bezirksturnier",
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"19": {
+			"_1015": "Bezirksturnier",
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"20": {
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"21": {
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"22": {
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"387": {
+			"_1078": "Vereinsturnier"
+		},
+		"388": {
+			"_1078": "Vereinsturnier"
+		},
+		"432": {
+			"_1014": "Landesturnier"
+		},
+		"802": {
+			"_1014": "Landesturnier",
+			"_1016": "Kreisturnier",
+			"_1078": "Vereinsturnier"
+		},
+		"1161": {
+			"_1014": "Landesturnier",
+			"_1078": "Vereinsturnier"
+		}
+	},
+	"Gebiet": {
+		"7": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			},
+			"1016": {
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta"
+			},
+			"1078": {
+				"_00ES8GMVAO000002VV0AG08LVUPGND5I": "Kreis Celle",
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMVD8000001VV0AG08LVUPGND5I": "Kreis Helmstedt",
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover",
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg"
+			}
+		},
+		"8": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			},
+			"1015": {
+				"_00ES8GMVC0000007VV0AG08LVUPGND5I": "Bezirk Hannover"
+			},
+			"1016": {
+				"_00ES8GMV70000003VV0AG08LVUPGND5I": "Kreis Bentheim",
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_00ES8GMVD8000000VV0AG08LVUPGND5I": "Kreis Northeim-Einbeck",
+				"_01D5QBJDJ0000000VTVG0001VSR2902F": "Kreis Oldenburg-L./Delmenhorst",
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta"
+			},
+			"1078": {
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_00ES8GMVD8000001VV0AG08LVUPGND5I": "Kreis Helmstedt",
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_00ES8GMVC0000001VV0AG08LVUPGND5I": "Kreis Holzminden",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg",
+				"_00ES8GMVC0000008VV0AG08LVUPGND5I": "Kreis Wolfsburg"
+			}
+		},
+		"9": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			},
+			"1015": {
+				"_00ES8GMVD8000006VV0AG08LVUPGND5I": "Bezirk Braunschweig",
+				"_00ES8GMVC0000007VV0AG08LVUPGND5I": "Bezirk Hannover",
+				"_00ES8GMVAO000003VV0AG08LVUPGND5I": "Bezirk Lüneburg",
+				"_00ES8GMV70000006VV0AG08LVUPGND5I": "Bezirk Weser-Ems"
+			},
+			"1016": {
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_00ES8GMVD8000001VV0AG08LVUPGND5I": "Kreis Helmstedt",
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_00ES8GMVC0000001VV0AG08LVUPGND5I": "Kreis Holzminden",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_00ES8GMVD8000000VV0AG08LVUPGND5I": "Kreis Northeim-Einbeck",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland",
+				"_00ES8GMVC000000BVV0AG08LVUPGND5I": "Kreis Peine",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg",
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta"
+			},
+			"1078": {
+				"_00ES8GMV70000003VV0AG08LVUPGND5I": "Kreis Bentheim",
+				"_00ES8GMVAO000002VV0AG08LVUPGND5I": "Kreis Celle",
+				"_00ES8GMV70000002VV0AG08LVUPGND5I": "Kreis Cloppenburg",
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMVC0000006VV0AG08LVUPGND5I": "Kreis Diepholz",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_00ES8GMVC0000005VV0AG08LVUPGND5I": "Kreis Hameln-Pyrmont",
+				"_00ES8GMV7000000EVV0AG08LVUPGND5I": "Kreis Harburg",
+				"_0227FI1258000000VTVG0001VSTPT9U2": "Kreis Heide-Wendland",
+				"_00ES8GMVAO000000VV0AG08LVUPGND5I": "Kreis Heidekreis",
+				"_00ES8GMVD8000001VV0AG08LVUPGND5I": "Kreis Helmstedt",
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_00ES8GMVC0000001VV0AG08LVUPGND5I": "Kreis Holzminden",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVC0000000VV0AG08LVUPGND5I": "Kreis Nienburg",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_00ES8GMVD8000000VV0AG08LVUPGND5I": "Kreis Northeim-Einbeck",
+				"_01D5QBJDJ0000000VTVG0001VSR2902F": "Kreis Oldenburg-L./Delmenhorst",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_00ES8GMV7000000BVV0AG08LVUPGND5I": "Kreis Osterholz",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland",
+				"_00ES8GMVC000000BVV0AG08LVUPGND5I": "Kreis Peine",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg",
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg",
+				"_00ES8GMV70000009VV0AG08LVUPGND5I": "Kreis Stade",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta",
+				"_00ES8GMV70000007VV0AG08LVUPGND5I": "Kreis Verden",
+				"_00ES8GMVC0000008VV0AG08LVUPGND5I": "Kreis Wolfsburg"
+			}
+		},
+		"10": {
+			"1016": {
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg"
+			},
+			"1078": {
+				"_00ES8GMVD8000005VV0AG08LVUPGND5I": "Kreis Braunschweig",
+				"_00ES8GMV70000002VV0AG08LVUPGND5I": "Kreis Cloppenburg",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta"
+			}
+		},
+		"11": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			},
+			"1015": {
+				"_00ES8GMVD8000006VV0AG08LVUPGND5I": "Bezirk Braunschweig"
+			},
+			"1016": {
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVD8000000VV0AG08LVUPGND5I": "Kreis Northeim-Einbeck",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover"
+			},
+			"1078": {
+				"_00ES8GMV70000003VV0AG08LVUPGND5I": "Kreis Bentheim",
+				"_00ES8GMVD8000005VV0AG08LVUPGND5I": "Kreis Braunschweig",
+				"_00ES8GMV70000002VV0AG08LVUPGND5I": "Kreis Cloppenburg",
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMVC0000006VV0AG08LVUPGND5I": "Kreis Diepholz",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_0227FI1258000000VTVG0001VSTPT9U2": "Kreis Heide-Wendland",
+				"_00ES8GMVAO000000VV0AG08LVUPGND5I": "Kreis Heidekreis",
+				"_00ES8GMVD8000001VV0AG08LVUPGND5I": "Kreis Helmstedt",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVC0000000VV0AG08LVUPGND5I": "Kreis Nienburg",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_01D5QBJDJ0000000VTVG0001VSR2902F": "Kreis Oldenburg-L./Delmenhorst",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta"
+			}
+		},
+		"12": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			},
+			"1016": {
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_00ES8GMVC0000005VV0AG08LVUPGND5I": "Kreis Hameln-Pyrmont",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte"
+			},
+			"1078": {
+				"_00ES8GMVD8000005VV0AG08LVUPGND5I": "Kreis Braunschweig",
+				"_00ES8GMVAO000002VV0AG08LVUPGND5I": "Kreis Celle",
+				"_00ES8GMV70000002VV0AG08LVUPGND5I": "Kreis Cloppenburg",
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMVC0000006VV0AG08LVUPGND5I": "Kreis Diepholz",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_00ES8GMVC0000005VV0AG08LVUPGND5I": "Kreis Hameln-Pyrmont",
+				"_0227FI1258000000VTVG0001VSTPT9U2": "Kreis Heide-Wendland",
+				"_00ES8GMVAO000000VV0AG08LVUPGND5I": "Kreis Heidekreis",
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_01D5QBJDJ0000000VTVG0001VSR2902F": "Kreis Oldenburg-L./Delmenhorst",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland",
+				"_00ES8GMVC000000BVV0AG08LVUPGND5I": "Kreis Peine",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover",
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg",
+				"_00ES8GMV70000009VV0AG08LVUPGND5I": "Kreis Stade",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta",
+				"_00ES8GMV70000007VV0AG08LVUPGND5I": "Kreis Verden"
+			}
+		},
+		"13": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			},
+			"1015": {
+				"_00ES8GMVAO000003VV0AG08LVUPGND5I": "Bezirk Lüneburg"
+			},
+			"1016": {
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVD8000000VV0AG08LVUPGND5I": "Kreis Northeim-Einbeck"
+			},
+			"1078": {
+				"_00ES8GMVD8000005VV0AG08LVUPGND5I": "Kreis Braunschweig",
+				"_00ES8GMVAO000002VV0AG08LVUPGND5I": "Kreis Celle",
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMVC0000006VV0AG08LVUPGND5I": "Kreis Diepholz",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_00ES8GMVC0000005VV0AG08LVUPGND5I": "Kreis Hameln-Pyrmont",
+				"_00ES8GMV7000000EVV0AG08LVUPGND5I": "Kreis Harburg",
+				"_00ES8GMVAO000000VV0AG08LVUPGND5I": "Kreis Heidekreis",
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_00ES8GMVC0000001VV0AG08LVUPGND5I": "Kreis Holzminden",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_01D5QBJDJ0000000VTVG0001VSR2902F": "Kreis Oldenburg-L./Delmenhorst",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg",
+				"_00ES8GMV70000009VV0AG08LVUPGND5I": "Kreis Stade",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta",
+				"_00ES8GMVC0000008VV0AG08LVUPGND5I": "Kreis Wolfsburg"
+			}
+		},
+		"14": {
+			"1016": {
+				"_00ES8GMV70000002VV0AG08LVUPGND5I": "Kreis Cloppenburg",
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMV7000000EVV0AG08LVUPGND5I": "Kreis Harburg",
+				"_00ES8GMVC0000001VV0AG08LVUPGND5I": "Kreis Holzminden",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVC0000000VV0AG08LVUPGND5I": "Kreis Nienburg",
+				"_00ES8GMVD8000000VV0AG08LVUPGND5I": "Kreis Northeim-Einbeck",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta"
+			},
+			"1078": {
+				"_00ES8GMVD8000005VV0AG08LVUPGND5I": "Kreis Braunschweig",
+				"_00ES8GMVAO000002VV0AG08LVUPGND5I": "Kreis Celle",
+				"_00ES8GMV70000002VV0AG08LVUPGND5I": "Kreis Cloppenburg",
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMVC0000006VV0AG08LVUPGND5I": "Kreis Diepholz",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_00ES8GMV7000000EVV0AG08LVUPGND5I": "Kreis Harburg",
+				"_0227FI1258000000VTVG0001VSTPT9U2": "Kreis Heide-Wendland",
+				"_00ES8GMVAO000000VV0AG08LVUPGND5I": "Kreis Heidekreis",
+				"_00ES8GMVD8000001VV0AG08LVUPGND5I": "Kreis Helmstedt",
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVC0000000VV0AG08LVUPGND5I": "Kreis Nienburg",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_00ES8GMV7000000BVV0AG08LVUPGND5I": "Kreis Osterholz",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland",
+				"_00ES8GMVC000000BVV0AG08LVUPGND5I": "Kreis Peine",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg",
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg",
+				"_00ES8GMV70000009VV0AG08LVUPGND5I": "Kreis Stade",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta",
+				"_00ES8GMVC0000008VV0AG08LVUPGND5I": "Kreis Wolfsburg"
+			}
+		},
+		"15": {
+			"1016": {
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland"
+			},
+			"1078": {
+				"_00ES8GMVD8000005VV0AG08LVUPGND5I": "Kreis Braunschweig",
+				"_00ES8GMV70000002VV0AG08LVUPGND5I": "Kreis Cloppenburg",
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMVC0000006VV0AG08LVUPGND5I": "Kreis Diepholz",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_00ES8GMV7000000EVV0AG08LVUPGND5I": "Kreis Harburg",
+				"_0227FI1258000000VTVG0001VSTPT9U2": "Kreis Heide-Wendland",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVC0000000VV0AG08LVUPGND5I": "Kreis Nienburg",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_01D5QBJDJ0000000VTVG0001VSR2902F": "Kreis Oldenburg-L./Delmenhorst",
+				"_00ES8GMV7000000BVV0AG08LVUPGND5I": "Kreis Osterholz",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland",
+				"_00ES8GMVC000000BVV0AG08LVUPGND5I": "Kreis Peine",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover",
+				"_00ES8GMV70000007VV0AG08LVUPGND5I": "Kreis Verden",
+				"_00ES8GMVC0000008VV0AG08LVUPGND5I": "Kreis Wolfsburg"
+			}
+		},
+		"16": {
+			"1016": {
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg",
+				"_00ES8GMVC0000008VV0AG08LVUPGND5I": "Kreis Wolfsburg"
+			},
+			"1078": {
+				"_00ES8GMVD8000005VV0AG08LVUPGND5I": "Kreis Braunschweig",
+				"_00ES8GMVC0000006VV0AG08LVUPGND5I": "Kreis Diepholz",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_00ES8GMV7000000EVV0AG08LVUPGND5I": "Kreis Harburg",
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVC0000000VV0AG08LVUPGND5I": "Kreis Nienburg",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_01D5QBJDJ0000000VTVG0001VSR2902F": "Kreis Oldenburg-L./Delmenhorst",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg",
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg",
+				"_00ES8GMV70000007VV0AG08LVUPGND5I": "Kreis Verden"
+			}
+		},
+		"17": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			},
+			"1015": {
+				"_00ES8GMVC0000007VV0AG08LVUPGND5I": "Bezirk Hannover"
+			},
+			"1016": {
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_00ES8GMVD8000000VV0AG08LVUPGND5I": "Kreis Northeim-Einbeck",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg",
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta"
+			},
+			"1078": {
+				"_00ES8GMVAO000002VV0AG08LVUPGND5I": "Kreis Celle",
+				"_00ES8GMV70000002VV0AG08LVUPGND5I": "Kreis Cloppenburg",
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_00ES8GMV38000000VV0AG08LVUPGND5I": "Kreis Emsland",
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn",
+				"_01GT77M4KK000000VTVG0001VTC48VI3": "Kreis Göttingen-Osterode",
+				"_00ES8GMVC0000005VV0AG08LVUPGND5I": "Kreis Hameln-Pyrmont",
+				"_00ES8GMVAO000000VV0AG08LVUPGND5I": "Kreis Heidekreis",
+				"_00ES8GMVD8000001VV0AG08LVUPGND5I": "Kreis Helmstedt",
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVC0000000VV0AG08LVUPGND5I": "Kreis Nienburg",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg",
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg",
+				"_00ES8GMV70000009VV0AG08LVUPGND5I": "Kreis Stade",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta",
+				"_00ES8GMV70000007VV0AG08LVUPGND5I": "Kreis Verden",
+				"_00ES8GMVC0000008VV0AG08LVUPGND5I": "Kreis Wolfsburg"
+			}
+		},
+		"18": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			},
+			"1015": {
+				"_00ES8GMVC0000007VV0AG08LVUPGND5I": "Bezirk Hannover"
+			},
+			"1016": {
+				"_00ES8GMVAO000004VV0AG08LVUPGND5I": "Kreis Schaumburg"
+			},
+			"1078": {
+				"_00ES8GMVC0000000VV0AG08LVUPGND5I": "Kreis Nienburg",
+				"_01D5QBJDJ0000000VTVG0001VSR2902F": "Kreis Oldenburg-L./Delmenhorst",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland"
+			}
+		},
+		"19": {
+			"1015": {
+				"_00ES8GMVC0000007VV0AG08LVUPGND5I": "Bezirk Hannover",
+				"_00ES8GMV70000006VV0AG08LVUPGND5I": "Bezirk Weser-Ems"
+			},
+			"1016": {
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz"
+			},
+			"1078": {
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVC0000000VV0AG08LVUPGND5I": "Kreis Nienburg",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_00ES8GMV70000007VV0AG08LVUPGND5I": "Kreis Verden"
+			}
+		},
+		"20": {
+			"1016": {
+				"_00ES8GMV7000000EVV0AG08LVUPGND5I": "Kreis Harburg"
+			},
+			"1078": {
+				"_0227FI1258000000VTVG0001VSTPT9U2": "Kreis Heide-Wendland",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta",
+				"_00ES8GMV70000007VV0AG08LVUPGND5I": "Kreis Verden"
+			}
+		},
+		"21": {
+			"1016": {
+				"_00ES8GMV7000000EVV0AG08LVUPGND5I": "Kreis Harburg"
+			},
+			"1078": {
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte"
+			}
+		},
+		"22": {
+			"1016": {
+				"_00ES8GMVC0000006VV0AG08LVUPGND5I": "Kreis Diepholz",
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück"
+			},
+			"1078": {
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_01D5QBJDJ0000000VTVG0001VSR2902F": "Kreis Oldenburg-L./Delmenhorst",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland"
+			}
+		},
+		"387": {
+			"1078": {
+				"_00ES8GMVAO000001VV0AG08LVUPGND5I": "Kreis Cuxhaven",
+				"_0227FI1258000000VTVG0001VSTPT9U2": "Kreis Heide-Wendland"
+			}
+		},
+		"388": {
+			"1078": {
+				"_0227FI1258000000VTVG0001VSTPT9U2": "Kreis Heide-Wendland",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte"
+			}
+		},
+		"432": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			}
+		},
+		"802": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			},
+			"1016": {
+				"_01CQI7FGDG000000VTVG0001VTKE9GKI": "Kreis Nordharz",
+				"_00ES8GMV20000003VV0AG08LVUPGND5I": "Kreis Vechta"
+			},
+			"1078": {
+				"_00ES8GMVD8000004VV0AG08LVUPGND5I": "Kreis Gifhorn"
+			}
+		},
+		"1161": {
+			"1014": {
+				"_0123456789ABCDEF0123456700004100": "Niedersachsen"
+			},
+			"1078": {
+				"_028TGSTTUK000000VS5489B1VTQF76TK": "Kreis Osnabrück"
+			}
+		}
+	}
+}

@@ -1,0 +1,106 @@
+{
+	"Mannschaftsart": {
+		"_96": "A-Junioren",
+		"_97": "B-Junioren",
+		"_98": "C-Junioren",
+		"_99": "D-Junioren",
+		"_103": "Frauen",
+		"_104": "B-Juniorinnen",
+		"_105": "C-Juniorinnen",
+		"_106": "D-Juniorinnen",
+		"_107": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"96": {
+			"_539": "Hallen-Landesturnier"
+		},
+		"97": {
+			"_539": "Hallen-Landesturnier"
+		},
+		"98": {
+			"_539": "Hallen-Landesturnier",
+			"_541": "Hallen-Kreisturnier"
+		},
+		"99": {
+			"_540": "Hallen-Bezirksturnier",
+			"_541": "Hallen-Kreisturnier"
+		},
+		"103": {
+			"_541": "Hallen-Kreisturnier"
+		},
+		"104": {
+			"_539": "Hallen-Landesturnier",
+			"_541": "Hallen-Kreisturnier"
+		},
+		"105": {
+			"_539": "Hallen-Landesturnier",
+			"_541": "Hallen-Kreisturnier"
+		},
+		"106": {
+			"_541": "Hallen-Kreisturnier"
+		},
+		"107": {
+			"_541": "Hallen-Kreisturnier"
+		}
+	},
+	"Gebiet": {
+		"96": {
+			"539": {
+				"_0123456789ABCDEF0123456700004120": "Mittelrhein"
+			}
+		},
+		"97": {
+			"539": {
+				"_0123456789ABCDEF0123456700004120": "Mittelrhein"
+			}
+		},
+		"98": {
+			"539": {
+				"_0123456789ABCDEF0123456700004120": "Mittelrhein"
+			},
+			"541": {
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren"
+			}
+		},
+		"99": {
+			"540": {
+				"_00GQ4DHRSS000000VTVG0001VS1O0TGP": "Bezirk Mittelrhein"
+			},
+			"541": {
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren"
+			}
+		},
+		"103": {
+			"541": {
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren"
+			}
+		},
+		"104": {
+			"539": {
+				"_0123456789ABCDEF0123456700004120": "Mittelrhein"
+			},
+			"541": {
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft"
+			}
+		},
+		"105": {
+			"539": {
+				"_0123456789ABCDEF0123456700004120": "Mittelrhein"
+			},
+			"541": {
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft"
+			}
+		},
+		"106": {
+			"541": {
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"107": {
+			"541": {
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft"
+			}
+		}
+	}
+}

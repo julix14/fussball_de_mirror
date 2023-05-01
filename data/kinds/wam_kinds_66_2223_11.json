@@ -1,0 +1,43 @@
+{
+	"Mannschaftsart": {
+		"_27": "Herren",
+		"_28": "A-Junioren",
+		"_31": "D-Junioren"
+	},
+	"Spielklasse": {
+		"27": {
+			"_943": "Futsal-Berlin-Pokal",
+			"_945": "Futsal-Landesfreundschaftssp.",
+			"_881": "Futsal-Verbandsliga"
+		},
+		"28": {
+			"_944": "Futsal-Landesturnier"
+		},
+		"31": {
+			"_945": "Futsal-Landesfreundschaftssp."
+		}
+	},
+	"Gebiet": {
+		"27": {
+			"881": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"943": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"945": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"28": {
+			"944": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"31": {
+			"945": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		}
+	}
+}

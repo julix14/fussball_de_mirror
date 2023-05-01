@@ -1,0 +1,36 @@
+{
+	"Mannschaftsart": {
+		"_286": "D-Junioren",
+		"_287": "E-Junioren",
+		"_288": "F-Junioren"
+	},
+	"Spielklasse": {
+		"286": {
+			"_188": "1.Kreisklasse/Kreisklasse"
+		},
+		"287": {
+			"_188": "1.Kreisklasse/Kreisklasse"
+		},
+		"288": {
+			"_188": "1.Kreisklasse/Kreisklasse"
+		}
+	},
+	"Gebiet": {
+		"286": {
+			"188": {
+				"_00ES8GN0A000000DVV0AG08LVUPGND5I": "Kreis Darmstadt"
+			}
+		},
+		"287": {
+			"188": {
+				"_00ES8GN0DO000000VV0AG08LVUPGND5I": "Kreis Offenbach"
+			}
+		},
+		"288": {
+			"188": {
+				"_00ES8GN0A000000DVV0AG08LVUPGND5I": "Kreis Darmstadt",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg"
+			}
+		}
+	}
+}

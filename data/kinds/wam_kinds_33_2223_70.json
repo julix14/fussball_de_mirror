@@ -1,0 +1,191 @@
+{
+	"Mannschaftsart": {
+		"_1153": "Senioren Ü35",
+		"_241": "Herren",
+		"_242": "A-Junioren",
+		"_243": "B-Junioren",
+		"_244": "C-Junioren",
+		"_245": "D-Junioren",
+		"_246": "E-Junioren",
+		"_248": "Frauen",
+		"_249": "B-Juniorinnen",
+		"_250": "C-Juniorinnen",
+		"_251": "D-Juniorinnen",
+		"_384": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"241": {
+			"_777": "Landesfreundschaftsspiele",
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"242": {
+			"_777": "Landesfreundschaftsspiele",
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"243": {
+			"_777": "Landesfreundschaftsspiele",
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"244": {
+			"_777": "Landesfreundschaftsspiele",
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"245": {
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"246": {
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"248": {
+			"_777": "Landesfreundschaftsspiele",
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"249": {
+			"_777": "Landesfreundschaftsspiele",
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"250": {
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"251": {
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"384": {
+			"_778": "Bezirksfreundschaftsspiele"
+		},
+		"1153": {
+			"_779": "Kreisfreundschaftsspiele"
+		}
+	},
+	"Gebiet": {
+		"241": {
+			"777": {
+				"_0123456789ABCDEF0123456700004190": "Südbaden"
+			},
+			"778": {
+				"_00ES8GN02G00000HVV0AG08LVUPGND5I": "Bezirk Baden-Baden",
+				"_00ES8GN02G00000CVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg",
+				"_00ES8GN02G00000EVV0AG08LVUPGND5I": "Bezirk Hochrhein",
+				"_00ES8GN02G00000GVV0AG08LVUPGND5I": "Bezirk Offenburg",
+				"_00ES8GN02G00000DVV0AG08LVUPGND5I": "Bezirk Schwarzwald"
+			}
+		},
+		"242": {
+			"777": {
+				"_0123456789ABCDEF0123456700004190": "Südbaden"
+			},
+			"778": {
+				"_00ES8GN02G00000HVV0AG08LVUPGND5I": "Bezirk Baden-Baden",
+				"_00ES8GN02G00000CVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg",
+				"_00ES8GN02G00000EVV0AG08LVUPGND5I": "Bezirk Hochrhein",
+				"_00ES8GN02G00000GVV0AG08LVUPGND5I": "Bezirk Offenburg",
+				"_00ES8GN02G00000DVV0AG08LVUPGND5I": "Bezirk Schwarzwald"
+			}
+		},
+		"243": {
+			"777": {
+				"_0123456789ABCDEF0123456700004190": "Südbaden"
+			},
+			"778": {
+				"_00ES8GN02G00000HVV0AG08LVUPGND5I": "Bezirk Baden-Baden",
+				"_00ES8GN02G00000CVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg",
+				"_00ES8GN02G00000EVV0AG08LVUPGND5I": "Bezirk Hochrhein",
+				"_00ES8GN02G00000GVV0AG08LVUPGND5I": "Bezirk Offenburg",
+				"_00ES8GN02G00000DVV0AG08LVUPGND5I": "Bezirk Schwarzwald"
+			}
+		},
+		"244": {
+			"777": {
+				"_0123456789ABCDEF0123456700004190": "Südbaden"
+			},
+			"778": {
+				"_00ES8GN02G00000HVV0AG08LVUPGND5I": "Bezirk Baden-Baden",
+				"_00ES8GN02G00000CVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg",
+				"_00ES8GN02G00000EVV0AG08LVUPGND5I": "Bezirk Hochrhein",
+				"_00ES8GN02G00000GVV0AG08LVUPGND5I": "Bezirk Offenburg",
+				"_00ES8GN02G00000DVV0AG08LVUPGND5I": "Bezirk Schwarzwald"
+			}
+		},
+		"245": {
+			"778": {
+				"_00ES8GN02G00000HVV0AG08LVUPGND5I": "Bezirk Baden-Baden",
+				"_00ES8GN02G00000CVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg",
+				"_00ES8GN02G00000EVV0AG08LVUPGND5I": "Bezirk Hochrhein",
+				"_00ES8GN02G00000GVV0AG08LVUPGND5I": "Bezirk Offenburg",
+				"_00ES8GN02G00000DVV0AG08LVUPGND5I": "Bezirk Schwarzwald"
+			}
+		},
+		"246": {
+			"778": {
+				"_00ES8GN02G00000HVV0AG08LVUPGND5I": "Bezirk Baden-Baden",
+				"_00ES8GN02G00000CVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg",
+				"_00ES8GN02G00000EVV0AG08LVUPGND5I": "Bezirk Hochrhein",
+				"_00ES8GN02G00000GVV0AG08LVUPGND5I": "Bezirk Offenburg",
+				"_00ES8GN02G00000DVV0AG08LVUPGND5I": "Bezirk Schwarzwald"
+			}
+		},
+		"248": {
+			"777": {
+				"_0123456789ABCDEF0123456700004190": "Südbaden"
+			},
+			"778": {
+				"_00ES8GN02G00000HVV0AG08LVUPGND5I": "Bezirk Baden-Baden",
+				"_00ES8GN02G00000CVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg",
+				"_00ES8GN02G00000EVV0AG08LVUPGND5I": "Bezirk Hochrhein",
+				"_00ES8GN02G00000GVV0AG08LVUPGND5I": "Bezirk Offenburg",
+				"_00ES8GN02G00000DVV0AG08LVUPGND5I": "Bezirk Schwarzwald"
+			}
+		},
+		"249": {
+			"777": {
+				"_0123456789ABCDEF0123456700004190": "Südbaden"
+			},
+			"778": {
+				"_00ES8GN02G00000HVV0AG08LVUPGND5I": "Bezirk Baden-Baden",
+				"_00ES8GN02G00000CVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg",
+				"_00ES8GN02G00000EVV0AG08LVUPGND5I": "Bezirk Hochrhein",
+				"_00ES8GN02G00000GVV0AG08LVUPGND5I": "Bezirk Offenburg",
+				"_00ES8GN02G00000DVV0AG08LVUPGND5I": "Bezirk Schwarzwald"
+			}
+		},
+		"250": {
+			"778": {
+				"_00ES8GN02G00000HVV0AG08LVUPGND5I": "Bezirk Baden-Baden",
+				"_00ES8GN02G00000CVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg",
+				"_00ES8GN02G00000EVV0AG08LVUPGND5I": "Bezirk Hochrhein",
+				"_00ES8GN02G00000GVV0AG08LVUPGND5I": "Bezirk Offenburg",
+				"_00ES8GN02G00000DVV0AG08LVUPGND5I": "Bezirk Schwarzwald"
+			}
+		},
+		"251": {
+			"778": {
+				"_00ES8GN02G00000HVV0AG08LVUPGND5I": "Bezirk Baden-Baden",
+				"_00ES8GN02G00000CVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg",
+				"_00ES8GN02G00000EVV0AG08LVUPGND5I": "Bezirk Hochrhein",
+				"_00ES8GN02G00000GVV0AG08LVUPGND5I": "Bezirk Offenburg"
+			}
+		},
+		"384": {
+			"778": {
+				"_00ES8GN02G00000FVV0AG08LVUPGND5I": "Bezirk Freiburg"
+			}
+		},
+		"1153": {
+			"779": {
+				"_00ES8GN02G000006VV0AG08LVUPGND5I": "Bodensee",
+				"_00ES8GN02G000009VV0AG08LVUPGND5I": "Freiburg",
+				"_00ES8GN02G000008VV0AG08LVUPGND5I": "Hochrhein"
+			}
+		}
+	}
+}

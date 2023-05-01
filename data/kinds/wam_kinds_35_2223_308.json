@@ -1,0 +1,245 @@
+{
+	"Mannschaftsart": {
+		"_275": "Senioren Ü32",
+		"_254": "Herren",
+		"_255": "A-Junioren",
+		"_256": "B-Junioren",
+		"_257": "C-Junioren",
+		"_258": "D-Junioren",
+		"_259": "E-Junioren",
+		"_261": "Frauen",
+		"_262": "B-Juniorinnen",
+		"_263": "C-Juniorinnen",
+		"_264": "D-Juniorinnen",
+		"_277": "Freizeit Herren",
+		"_278": "Freizeit Frauen"
+	},
+	"Spielklasse": {
+		"254": {
+			"_189": "Verbands-Pokal",
+			"_194": "Bezirkspokal"
+		},
+		"255": {
+			"_189": "Verbands-Pokal",
+			"_194": "Bezirkspokal"
+		},
+		"256": {
+			"_189": "Verbands-Pokal",
+			"_194": "Bezirkspokal"
+		},
+		"257": {
+			"_189": "Verbands-Pokal",
+			"_194": "Bezirkspokal"
+		},
+		"258": {
+			"_194": "Bezirkspokal"
+		},
+		"259": {
+			"_194": "Bezirkspokal"
+		},
+		"261": {
+			"_189": "Verbands-Pokal",
+			"_194": "Bezirkspokal"
+		},
+		"262": {
+			"_189": "Verbands-Pokal",
+			"_194": "Bezirkspokal"
+		},
+		"263": {
+			"_189": "Verbands-Pokal",
+			"_194": "Bezirkspokal"
+		},
+		"264": {
+			"_194": "Bezirkspokal"
+		},
+		"275": {
+			"_189": "Verbands-Pokal",
+			"_194": "Bezirkspokal"
+		},
+		"277": {
+			"_189": "Verbands-Pokal"
+		},
+		"278": {
+			"_189": "Verbands-Pokal"
+		}
+	},
+	"Gebiet": {
+		"254": {
+			"189": {
+				"_0123456789ABCDEF0123456700004200": "Württemberg"
+			},
+			"194": {
+				"_00ES8GN0HG000000VV0AG08LVUPGND5I": "Bezirk Alb",
+				"_00ES8GN0G800000FVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN0G800000DVV0AG08LVUPGND5I": "Bezirk Böblingen/Calw",
+				"_00ES8GN0G800000EVV0AG08LVUPGND5I": "Bezirk Donau",
+				"_00ES8GN0HG000002VV0AG08LVUPGND5I": "Bezirk Donau/Iller",
+				"_00ES8GN0HG000006VV0AG08LVUPGND5I": "Bezirk Enz/Murr",
+				"_00ES8GN0HG000001VV0AG08LVUPGND5I": "Bezirk Hohenlohe",
+				"_00ES8GN0HG000003VV0AG08LVUPGND5I": "Bezirk Neckar/Fils",
+				"_00ES8GN0G800000AVV0AG08LVUPGND5I": "Bezirk Nördlicher Schwarzwald",
+				"_00ES8GN0HG000004VV0AG08LVUPGND5I": "Bezirk Ostwürttemberg",
+				"_00ES8GN0G8000008VV0AG08LVUPGND5I": "Bezirk Rems/Murr",
+				"_00ES8GN0G800000CVV0AG08LVUPGND5I": "Bezirk Riß",
+				"_00ES8GN0G800000BVV0AG08LVUPGND5I": "Bezirk Schwarzwald",
+				"_00ES8GN0HG000007VV0AG08LVUPGND5I": "Bezirk Stuttgart",
+				"_00ES8GN0HG000005VV0AG08LVUPGND5I": "Bezirk Unterland",
+				"_00ES8GN0G8000009VV0AG08LVUPGND5I": "Bezirk Zollern"
+			}
+		},
+		"255": {
+			"189": {
+				"_0123456789ABCDEF0123456700004200": "Württemberg"
+			},
+			"194": {
+				"_00ES8GN0HG000000VV0AG08LVUPGND5I": "Bezirk Alb",
+				"_00ES8GN0G800000FVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN0G800000DVV0AG08LVUPGND5I": "Bezirk Böblingen/Calw",
+				"_00ES8GN0G800000EVV0AG08LVUPGND5I": "Bezirk Donau",
+				"_00ES8GN0HG000002VV0AG08LVUPGND5I": "Bezirk Donau/Iller",
+				"_00ES8GN0HG000006VV0AG08LVUPGND5I": "Bezirk Enz/Murr",
+				"_00ES8GN0HG000001VV0AG08LVUPGND5I": "Bezirk Hohenlohe",
+				"_00ES8GN0HG000003VV0AG08LVUPGND5I": "Bezirk Neckar/Fils",
+				"_00ES8GN0G800000AVV0AG08LVUPGND5I": "Bezirk Nördlicher Schwarzwald",
+				"_00ES8GN0HG000004VV0AG08LVUPGND5I": "Bezirk Ostwürttemberg",
+				"_00ES8GN0G8000008VV0AG08LVUPGND5I": "Bezirk Rems/Murr",
+				"_00ES8GN0G800000CVV0AG08LVUPGND5I": "Bezirk Riß",
+				"_00ES8GN0G800000BVV0AG08LVUPGND5I": "Bezirk Schwarzwald",
+				"_00ES8GN0HG000007VV0AG08LVUPGND5I": "Bezirk Stuttgart",
+				"_00ES8GN0HG000005VV0AG08LVUPGND5I": "Bezirk Unterland",
+				"_00ES8GN0G8000009VV0AG08LVUPGND5I": "Bezirk Zollern"
+			}
+		},
+		"256": {
+			"189": {
+				"_0123456789ABCDEF0123456700004200": "Württemberg"
+			},
+			"194": {
+				"_00ES8GN0HG000000VV0AG08LVUPGND5I": "Bezirk Alb",
+				"_00ES8GN0G800000FVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN0G800000DVV0AG08LVUPGND5I": "Bezirk Böblingen/Calw",
+				"_00ES8GN0G800000EVV0AG08LVUPGND5I": "Bezirk Donau",
+				"_00ES8GN0HG000002VV0AG08LVUPGND5I": "Bezirk Donau/Iller",
+				"_00ES8GN0HG000006VV0AG08LVUPGND5I": "Bezirk Enz/Murr",
+				"_00ES8GN0HG000001VV0AG08LVUPGND5I": "Bezirk Hohenlohe",
+				"_00ES8GN0HG000003VV0AG08LVUPGND5I": "Bezirk Neckar/Fils",
+				"_00ES8GN0G800000AVV0AG08LVUPGND5I": "Bezirk Nördlicher Schwarzwald",
+				"_00ES8GN0HG000004VV0AG08LVUPGND5I": "Bezirk Ostwürttemberg",
+				"_00ES8GN0G8000008VV0AG08LVUPGND5I": "Bezirk Rems/Murr",
+				"_00ES8GN0G800000CVV0AG08LVUPGND5I": "Bezirk Riß",
+				"_00ES8GN0G800000BVV0AG08LVUPGND5I": "Bezirk Schwarzwald",
+				"_00ES8GN0HG000007VV0AG08LVUPGND5I": "Bezirk Stuttgart",
+				"_00ES8GN0HG000005VV0AG08LVUPGND5I": "Bezirk Unterland",
+				"_00ES8GN0G8000009VV0AG08LVUPGND5I": "Bezirk Zollern"
+			}
+		},
+		"257": {
+			"189": {
+				"_0123456789ABCDEF0123456700004200": "Württemberg"
+			},
+			"194": {
+				"_00ES8GN0HG000000VV0AG08LVUPGND5I": "Bezirk Alb",
+				"_00ES8GN0G800000FVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN0G800000DVV0AG08LVUPGND5I": "Bezirk Böblingen/Calw",
+				"_00ES8GN0G800000EVV0AG08LVUPGND5I": "Bezirk Donau",
+				"_00ES8GN0HG000002VV0AG08LVUPGND5I": "Bezirk Donau/Iller",
+				"_00ES8GN0HG000006VV0AG08LVUPGND5I": "Bezirk Enz/Murr",
+				"_00ES8GN0HG000003VV0AG08LVUPGND5I": "Bezirk Neckar/Fils",
+				"_00ES8GN0G800000AVV0AG08LVUPGND5I": "Bezirk Nördlicher Schwarzwald",
+				"_00ES8GN0HG000004VV0AG08LVUPGND5I": "Bezirk Ostwürttemberg",
+				"_00ES8GN0G8000008VV0AG08LVUPGND5I": "Bezirk Rems/Murr",
+				"_00ES8GN0G800000CVV0AG08LVUPGND5I": "Bezirk Riß",
+				"_00ES8GN0G800000BVV0AG08LVUPGND5I": "Bezirk Schwarzwald",
+				"_00ES8GN0HG000007VV0AG08LVUPGND5I": "Bezirk Stuttgart",
+				"_00ES8GN0G8000009VV0AG08LVUPGND5I": "Bezirk Zollern"
+			}
+		},
+		"258": {
+			"194": {
+				"_00ES8GN0HG000004VV0AG08LVUPGND5I": "Bezirk Ostwürttemberg",
+				"_00ES8GN0G8000008VV0AG08LVUPGND5I": "Bezirk Rems/Murr",
+				"_00ES8GN0G800000CVV0AG08LVUPGND5I": "Bezirk Riß"
+			}
+		},
+		"259": {
+			"194": {
+				"_00ES8GN0HG000004VV0AG08LVUPGND5I": "Bezirk Ostwürttemberg",
+				"_00ES8GN0G8000008VV0AG08LVUPGND5I": "Bezirk Rems/Murr",
+				"_00ES8GN0G800000CVV0AG08LVUPGND5I": "Bezirk Riß"
+			}
+		},
+		"261": {
+			"189": {
+				"_0123456789ABCDEF0123456700004200": "Württemberg"
+			},
+			"194": {
+				"_00ES8GN0HG000000VV0AG08LVUPGND5I": "Bezirk Alb",
+				"_00ES8GN0G800000FVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN0G800000DVV0AG08LVUPGND5I": "Bezirk Böblingen/Calw",
+				"_00ES8GN0G800000EVV0AG08LVUPGND5I": "Bezirk Donau",
+				"_00ES8GN0HG000002VV0AG08LVUPGND5I": "Bezirk Donau/Iller",
+				"_00ES8GN0HG000006VV0AG08LVUPGND5I": "Bezirk Enz/Murr",
+				"_00ES8GN0HG000001VV0AG08LVUPGND5I": "Bezirk Hohenlohe",
+				"_00ES8GN0HG000003VV0AG08LVUPGND5I": "Bezirk Neckar/Fils",
+				"_00ES8GN0G800000AVV0AG08LVUPGND5I": "Bezirk Nördlicher Schwarzwald",
+				"_00ES8GN0HG000004VV0AG08LVUPGND5I": "Bezirk Ostwürttemberg",
+				"_00ES8GN0G8000008VV0AG08LVUPGND5I": "Bezirk Rems/Murr",
+				"_00ES8GN0G800000CVV0AG08LVUPGND5I": "Bezirk Riß",
+				"_00ES8GN0G800000BVV0AG08LVUPGND5I": "Bezirk Schwarzwald",
+				"_00ES8GN0HG000007VV0AG08LVUPGND5I": "Bezirk Stuttgart",
+				"_00ES8GN0HG000005VV0AG08LVUPGND5I": "Bezirk Unterland"
+			}
+		},
+		"262": {
+			"189": {
+				"_0123456789ABCDEF0123456700004200": "Württemberg"
+			},
+			"194": {
+				"_00ES8GN0G800000FVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN0G800000EVV0AG08LVUPGND5I": "Bezirk Donau",
+				"_00ES8GN0HG000001VV0AG08LVUPGND5I": "Bezirk Hohenlohe",
+				"_00ES8GN0HG000003VV0AG08LVUPGND5I": "Bezirk Neckar/Fils",
+				"_00ES8GN0HG000004VV0AG08LVUPGND5I": "Bezirk Ostwürttemberg"
+			}
+		},
+		"263": {
+			"189": {
+				"_0123456789ABCDEF0123456700004200": "Württemberg"
+			},
+			"194": {
+				"_00ES8GN0G800000FVV0AG08LVUPGND5I": "Bezirk Bodensee",
+				"_00ES8GN0HG000003VV0AG08LVUPGND5I": "Bezirk Neckar/Fils",
+				"_00ES8GN0G800000CVV0AG08LVUPGND5I": "Bezirk Riß",
+				"_00ES8GN0HG000005VV0AG08LVUPGND5I": "Bezirk Unterland"
+			}
+		},
+		"264": {
+			"194": {
+				"_00ES8GN0G800000CVV0AG08LVUPGND5I": "Bezirk Riß"
+			}
+		},
+		"275": {
+			"189": {
+				"_0123456789ABCDEF0123456700004200": "Württemberg"
+			},
+			"194": {
+				"_00ES8GN0HG000006VV0AG08LVUPGND5I": "Bezirk Enz/Murr",
+				"_00ES8GN0HG000001VV0AG08LVUPGND5I": "Bezirk Hohenlohe",
+				"_00ES8GN0HG000004VV0AG08LVUPGND5I": "Bezirk Ostwürttemberg",
+				"_00ES8GN0G8000008VV0AG08LVUPGND5I": "Bezirk Rems/Murr",
+				"_00ES8GN0G800000BVV0AG08LVUPGND5I": "Bezirk Schwarzwald",
+				"_00ES8GN0HG000005VV0AG08LVUPGND5I": "Bezirk Unterland"
+			}
+		},
+		"277": {
+			"189": {
+				"_0123456789ABCDEF0123456700004200": "Württemberg"
+			}
+		},
+		"278": {
+			"189": {
+				"_0123456789ABCDEF0123456700004200": "Württemberg"
+			}
+		}
+	}
+}

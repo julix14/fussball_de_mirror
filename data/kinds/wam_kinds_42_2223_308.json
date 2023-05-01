@@ -1,0 +1,246 @@
+{
+	"Mannschaftsart": {
+		"_925": "Ü60 Senioren",
+		"_926": "Ü50 Senioren",
+		"_140": "Ü40 Senioren",
+		"_141": "Ü32 Senioren",
+		"_142": "Herren",
+		"_143": "A-Junioren",
+		"_144": "B-Junioren",
+		"_145": "C-Junioren",
+		"_146": "D-Junioren",
+		"_147": "E-Junioren",
+		"_150": "Frauen",
+		"_151": "B-Juniorinnen",
+		"_152": "C-Juniorinnen",
+		"_153": "D-Juniorinnen",
+		"_154": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"140": {
+			"_227": "Kreispokal"
+		},
+		"141": {
+			"_227": "Kreispokal"
+		},
+		"142": {
+			"_220": "Südwestdeutscher-Pokal",
+			"_227": "Kreispokal"
+		},
+		"143": {
+			"_220": "Südwestdeutscher-Pokal",
+			"_227": "Kreispokal"
+		},
+		"144": {
+			"_220": "Südwestdeutscher-Pokal",
+			"_227": "Kreispokal"
+		},
+		"145": {
+			"_220": "Südwestdeutscher-Pokal",
+			"_227": "Kreispokal"
+		},
+		"146": {
+			"_220": "Südwestdeutscher-Pokal",
+			"_227": "Kreispokal"
+		},
+		"147": {
+			"_227": "Kreispokal"
+		},
+		"150": {
+			"_220": "Südwestdeutscher-Pokal"
+		},
+		"151": {
+			"_220": "Südwestdeutscher-Pokal",
+			"_227": "Kreispokal"
+		},
+		"152": {
+			"_220": "Südwestdeutscher-Pokal"
+		},
+		"153": {
+			"_220": "Südwestdeutscher-Pokal",
+			"_227": "Kreispokal"
+		},
+		"154": {
+			"_220": "Südwestdeutscher-Pokal"
+		},
+		"925": {
+			"_227": "Kreispokal"
+		},
+		"926": {
+			"_227": "Kreispokal"
+		}
+	},
+	"Gebiet": {
+		"140": {
+			"227": {
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen",
+				"_00ES8GN0K0000002VV0AG08LVUPGND5I": "Kreis Pirmasens/Zweibrücken",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt",
+				"_016FQ2N48C000000VTVG0001VS7OQRVF": "Kreis Rhein-Pfalz",
+				"_00ES8GN0K0000007VV0AG08LVUPGND5I": "Kreis Südpfalz"
+			}
+		},
+		"141": {
+			"227": {
+				"_016FQ2N5CK000000VTVG0001VS7OQRVF": "Kreis Alzey-Worms",
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen",
+				"_00ES8GN0K0000002VV0AG08LVUPGND5I": "Kreis Pirmasens/Zweibrücken",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt",
+				"_016FQ2N48C000000VTVG0001VS7OQRVF": "Kreis Rhein-Pfalz",
+				"_00ES8GN0K0000007VV0AG08LVUPGND5I": "Kreis Südpfalz"
+			}
+		},
+		"142": {
+			"220": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			},
+			"227": {
+				"_016FQ2N5CK000000VTVG0001VS7OQRVF": "Kreis Alzey-Worms",
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen",
+				"_00ES8GN0K0000002VV0AG08LVUPGND5I": "Kreis Pirmasens/Zweibrücken",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt",
+				"_016FQ2N48C000000VTVG0001VS7OQRVF": "Kreis Rhein-Pfalz",
+				"_00ES8GN0K0000007VV0AG08LVUPGND5I": "Kreis Südpfalz"
+			}
+		},
+		"143": {
+			"220": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			},
+			"227": {
+				"_016FQ2N5CK000000VTVG0001VS7OQRVF": "Kreis Alzey-Worms",
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen",
+				"_00ES8GN0K0000002VV0AG08LVUPGND5I": "Kreis Pirmasens/Zweibrücken",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt",
+				"_016FQ2N48C000000VTVG0001VS7OQRVF": "Kreis Rhein-Pfalz",
+				"_00ES8GN0K0000007VV0AG08LVUPGND5I": "Kreis Südpfalz"
+			}
+		},
+		"144": {
+			"220": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			},
+			"227": {
+				"_016FQ2N5CK000000VTVG0001VS7OQRVF": "Kreis Alzey-Worms",
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen",
+				"_00ES8GN0K0000002VV0AG08LVUPGND5I": "Kreis Pirmasens/Zweibrücken",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt",
+				"_016FQ2N48C000000VTVG0001VS7OQRVF": "Kreis Rhein-Pfalz",
+				"_00ES8GN0K0000007VV0AG08LVUPGND5I": "Kreis Südpfalz"
+			}
+		},
+		"145": {
+			"220": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			},
+			"227": {
+				"_016FQ2N5CK000000VTVG0001VS7OQRVF": "Kreis Alzey-Worms",
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen",
+				"_00ES8GN0K0000002VV0AG08LVUPGND5I": "Kreis Pirmasens/Zweibrücken",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt",
+				"_016FQ2N48C000000VTVG0001VS7OQRVF": "Kreis Rhein-Pfalz",
+				"_00ES8GN0K0000007VV0AG08LVUPGND5I": "Kreis Südpfalz"
+			}
+		},
+		"146": {
+			"220": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			},
+			"227": {
+				"_016FQ2N5CK000000VTVG0001VS7OQRVF": "Kreis Alzey-Worms",
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen",
+				"_00ES8GN0K0000002VV0AG08LVUPGND5I": "Kreis Pirmasens/Zweibrücken",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt",
+				"_016FQ2N48C000000VTVG0001VS7OQRVF": "Kreis Rhein-Pfalz",
+				"_00ES8GN0K0000007VV0AG08LVUPGND5I": "Kreis Südpfalz"
+			}
+		},
+		"147": {
+			"227": {
+				"_016FQ2N5CK000000VTVG0001VS7OQRVF": "Kreis Alzey-Worms",
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach",
+				"_00ES8GN0IO000001VV0AG08LVUPGND5I": "Kreis Birkenfeld",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen",
+				"_00ES8GN0K0000002VV0AG08LVUPGND5I": "Kreis Pirmasens/Zweibrücken",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt",
+				"_016FQ2N48C000000VTVG0001VS7OQRVF": "Kreis Rhein-Pfalz"
+			}
+		},
+		"150": {
+			"220": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			}
+		},
+		"151": {
+			"220": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			},
+			"227": {
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach"
+			}
+		},
+		"152": {
+			"220": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			}
+		},
+		"153": {
+			"220": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			},
+			"227": {
+				"_00ES8GN0IO000002VV0AG08LVUPGND5I": "Kreis Bad Kreuznach"
+			}
+		},
+		"154": {
+			"220": {
+				"_0123456789ABCDEF0123456700004160": "Südwest"
+			}
+		},
+		"925": {
+			"227": {
+				"_016FQ2N48C000000VTVG0001VS7OQRVF": "Kreis Rhein-Pfalz"
+			}
+		},
+		"926": {
+			"227": {
+				"_016FQ2N5CK000000VTVG0001VS7OQRVF": "Kreis Alzey-Worms",
+				"_016FQ2N4VS000000VTVG0001VS7OQRVF": "Kreis Kaiserslaut.-Donnersberg",
+				"_016FQ2N5AS000000VTVG0001VS7OQRVF": "Kreis Kusel-Kaiserslautern",
+				"_016FQ2N5FC000000VTVG0001VS7OQRVF": "Kreis Mainz-Bingen",
+				"_016FQ2N4S4000000VTVG0001VS7OQRVF": "Kreis Rhein-Mittelhaardt",
+				"_016FQ2N48C000000VTVG0001VS7OQRVF": "Kreis Rhein-Pfalz",
+				"_00ES8GN0K0000007VV0AG08LVUPGND5I": "Kreis Südpfalz"
+			}
+		}
+	}
+}

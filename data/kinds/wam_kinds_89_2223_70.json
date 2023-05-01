@@ -1,0 +1,91 @@
+{
+	"Mannschaftsart": {
+		"_1": "Herren",
+		"_3": "A-Junioren",
+		"_6": "B-Junioren",
+		"_8": "C-Junioren",
+		"_10": "D-Junioren",
+		"_4": "Frauen",
+		"_7": "B-Juniorinnen"
+	},
+	"Spielklasse": {
+		"1": {
+			"_52": "Freundschaftsspiele",
+			"_53": "regionale Freundschaftsspiele"
+		},
+		"3": {
+			"_52": "Freundschaftsspiele",
+			"_53": "regionale Freundschaftsspiele"
+		},
+		"4": {
+			"_52": "Freundschaftsspiele",
+			"_53": "regionale Freundschaftsspiele"
+		},
+		"6": {
+			"_52": "Freundschaftsspiele",
+			"_53": "regionale Freundschaftsspiele"
+		},
+		"7": {
+			"_52": "Freundschaftsspiele",
+			"_53": "regionale Freundschaftsspiele"
+		},
+		"8": {
+			"_53": "regionale Freundschaftsspiele"
+		},
+		"10": {
+			"_53": "regionale Freundschaftsspiele"
+		}
+	},
+	"Gebiet": {
+		"1": {
+			"52": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			},
+			"53": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"3": {
+			"52": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			},
+			"53": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"4": {
+			"52": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			},
+			"53": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"6": {
+			"52": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			},
+			"53": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"7": {
+			"52": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			},
+			"53": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"8": {
+			"53": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"10": {
+			"53": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		}
+	}
+}

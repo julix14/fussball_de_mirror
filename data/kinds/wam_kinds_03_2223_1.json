@@ -1,0 +1,237 @@
+{
+	"Mannschaftsart": {
+		"_302": "Super-Senioren",
+		"_303": "Senioren",
+		"_304": "Alte Herren",
+		"_305": "Herren",
+		"_307": "A-Junioren",
+		"_308": "B-Junioren",
+		"_309": "C-Junioren",
+		"_310": "D-Junioren",
+		"_314": "Frauen",
+		"_315": "B-Juniorinnen",
+		"_316": "C-Juniorinnen",
+		"_317": "D-Juniorinnen",
+		"_319": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"302": {
+			"_65": "Verbandsliga",
+			"_66": "Landesliga",
+			"_67": "Bezirksliga",
+			"_74": "Kreisklasse"
+		},
+		"303": {
+			"_65": "Verbandsliga",
+			"_66": "Landesliga",
+			"_67": "Bezirksliga"
+		},
+		"304": {
+			"_65": "Verbandsliga",
+			"_66": "Landesliga",
+			"_67": "Bezirksliga"
+		},
+		"305": {
+			"_65": "Verbandsliga",
+			"_66": "Landesliga",
+			"_67": "Bezirksliga",
+			"_69": "Kreisliga",
+			"_74": "Kreisklasse",
+			"_942": "Kreisklasse B"
+		},
+		"307": {
+			"_65": "Verbandsliga",
+			"_66": "Landesliga",
+			"_67": "Bezirksliga",
+			"_74": "Kreisklasse"
+		},
+		"308": {
+			"_65": "Verbandsliga",
+			"_66": "Landesliga",
+			"_67": "Bezirksliga",
+			"_74": "Kreisklasse"
+		},
+		"309": {
+			"_65": "Verbandsliga",
+			"_66": "Landesliga",
+			"_67": "Bezirksliga",
+			"_74": "Kreisklasse"
+		},
+		"310": {
+			"_67": "Bezirksliga",
+			"_74": "Kreisklasse"
+		},
+		"314": {
+			"_65": "Verbandsliga",
+			"_66": "Landesliga",
+			"_67": "Bezirksliga",
+			"_69": "Kreisliga",
+			"_73": "Sonderklasse"
+		},
+		"315": {
+			"_65": "Verbandsliga",
+			"_74": "Kreisklasse"
+		},
+		"316": {
+			"_65": "Verbandsliga",
+			"_74": "Kreisklasse"
+		},
+		"317": {
+			"_74": "Kreisklasse"
+		},
+		"319": {
+			"_63": "Verbandsoberliga (Freizeit)"
+		}
+	},
+	"Gebiet": {
+		"302": {
+			"65": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"66": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"67": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"74": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"303": {
+			"65": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"66": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"67": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			}
+		},
+		"304": {
+			"65": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"66": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"67": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			}
+		},
+		"305": {
+			"65": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"66": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"67": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"69": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			},
+			"74": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			},
+			"942": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"307": {
+			"65": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"66": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"67": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"74": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"308": {
+			"65": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"66": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"67": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"74": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"309": {
+			"65": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"66": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"67": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"74": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"310": {
+			"67": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"74": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"314": {
+			"65": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"66": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"67": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"69": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			},
+			"73": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"315": {
+			"65": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"74": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"316": {
+			"65": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"74": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"317": {
+			"74": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"319": {
+			"63": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			}
+		}
+	}
+}

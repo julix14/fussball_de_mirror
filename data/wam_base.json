@@ -1,0 +1,3694 @@
+{
+	"currentSaison": "2223",
+	"defaultCompetitionType": "1",
+	"Mandanten": {
+		"_89": "Deutschland",
+		"_32": "Baden",
+		"_31": "Bayern",
+		"_66": "Berlin",
+		"_61": "Brandenburg",
+		"_02": "Bremen",
+		"_03": "Hamburg",
+		"_34": "Hessen",
+		"_62": "Mecklenburg-Vorpommern",
+		"_23": "Mittelrhein",
+		"_22": "Niederrhein",
+		"_01": "Niedersachsen",
+		"_41": "Rheinland",
+		"_43": "Saarland",
+		"_63": "Sachsen",
+		"_64": "Sachsen-Anhalt",
+		"_04": "Schleswig-Holstein",
+		"_33": "Südbaden",
+		"_42": "Südwest",
+		"_65": "Thüringen",
+		"_21": "Westfalen",
+		"_35": "Württemberg"
+	},
+	"Saisons": {
+		"21": {
+			"_2324": "23/24",
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03",
+			"_0102": "01/02"
+		},
+		"22": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04"
+		},
+		"23": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03"
+		},
+		"31": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05"
+		},
+		"32": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03"
+		},
+		"33": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04"
+		},
+		"34": {
+			"_2324": "23/24",
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03"
+		},
+		"35": {
+			"_2324": "23/24",
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04"
+		},
+		"41": {
+			"_2324": "23/24",
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03",
+			"_0102": "01/02"
+		},
+		"42": {
+			"_2324": "23/24",
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04"
+		},
+		"43": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03"
+		},
+		"61": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03",
+			"_0102": "01/02"
+		},
+		"62": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04"
+		},
+		"63": {
+			"_2324": "23/24",
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03"
+		},
+		"64": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03",
+			"_0102": "01/02"
+		},
+		"65": {
+			"_2324": "23/24",
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03"
+		},
+		"66": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03",
+			"_0102": "01/02"
+		},
+		"89": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03",
+			"_0102": "01/02"
+		},
+		"01": {
+			"_2324": "23/24",
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03",
+			"_0102": "01/02"
+		},
+		"02": {
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03",
+			"_0102": "01/02"
+		},
+		"03": {
+			"_2324": "23/24",
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04"
+		},
+		"04": {
+			"_2324": "23/24",
+			"_2223": "22/23",
+			"_2122": "21/22",
+			"_2021": "20/21",
+			"_1920": "19/20",
+			"_1819": "18/19",
+			"_1718": "17/18",
+			"_1617": "16/17",
+			"_1516": "15/16",
+			"_1415": "14/15",
+			"_1314": "13/14",
+			"_1213": "12/13",
+			"_1112": "11/12",
+			"_1011": "10/11",
+			"_0910": "09/10",
+			"_0809": "08/09",
+			"_0708": "07/08",
+			"_0607": "06/07",
+			"_0506": "05/06",
+			"_0405": "04/05",
+			"_0304": "03/04",
+			"_0203": "02/03"
+		}
+	},
+	"CompetitionTypes": {
+		"21": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2324": {
+				"_300": "Turniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0102": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"22": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_70": "Freundschaftsspiele"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften"
+			}
+		},
+		"23": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			}
+		},
+		"31": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften"
+			}
+		},
+		"32": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"33": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften"
+			}
+		},
+		"34": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2324": {
+				"_300": "Turniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0506": {
+				"_1": "Meisterschaften"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"35": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2324": {
+				"_300": "Turniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_70": "Freundschaftsspiele"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften"
+			}
+		},
+		"41": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2324": {
+				"_300": "Turniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0102": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"42": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2324": {
+				"_300": "Turniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften"
+			}
+		},
+		"43": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"61": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0102": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"62": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0304": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere"
+			},
+			"0506": {
+				"_1": "Meisterschaften"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0405": {
+				"_1": "Meisterschaften"
+			}
+		},
+		"63": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2324": {
+				"_300": "Turniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			}
+		},
+		"64": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0102": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"65": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2324": {
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"66": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0102": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften"
+			}
+		},
+		"89": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere",
+				"_12": "Beachsoccer-Meisterschaften"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_12": "Beachsoccer-Meisterschaften"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_12": "Beachsoccer-Meisterschaften"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0102": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"01": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2324": {
+				"_300": "Turniere",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0203": {
+				"_1": "Meisterschaften",
+				"_70": "Freundschaftsspiele"
+			},
+			"0102": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"02": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_12": "Beachsoccer-Meisterschaften"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0102": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere"
+			},
+			"0506": {
+				"_1": "Meisterschaften"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften"
+			}
+		},
+		"03": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere",
+				"_12": "Beachsoccer-Meisterschaften"
+			},
+			"2324": {
+				"_300": "Turniere",
+				"_2": "Hallenturniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		},
+		"04": {
+			"1011": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1112": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1213": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1314": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1415": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1516": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1617": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"1718": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1819": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_2": "Hallenturniere"
+			},
+			"1920": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere",
+				"_12": "Beachsoccer-Meisterschaften"
+			},
+			"2021": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2122": {
+				"_1": "Meisterschaften",
+				"_305": "Spielnachmittage",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"2223": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele",
+				"_11": "Futsal-Ligabetrieb",
+				"_2": "Hallenturniere"
+			},
+			"2324": {
+				"_300": "Turniere"
+			},
+			"0809": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0304": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0203": {
+				"_1": "Meisterschaften"
+			},
+			"0708": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0607": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_70": "Freundschaftsspiele"
+			},
+			"0506": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			},
+			"0910": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale",
+				"_300": "Turniere",
+				"_70": "Freundschaftsspiele"
+			},
+			"0405": {
+				"_1": "Meisterschaften",
+				"_308": "Pokale"
+			}
+		}
+	}
+}

@@ -1,0 +1,177 @@
+{
+	"Mannschaftsart": {
+		"_229": "A-Junioren",
+		"_230": "B-Junioren",
+		"_231": "C-Junioren",
+		"_232": "D-Junioren",
+		"_233": "E-Junioren",
+		"_234": "F-Junioren",
+		"_235": "Frauen",
+		"_391": "A-Juniorinnen",
+		"_236": "B-Juniorinnen",
+		"_237": "C-Juniorinnen",
+		"_238": "D-Juniorinnen",
+		"_382": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"229": {
+			"_545": "Hallen-Landesturnier",
+			"_546": "Hallen-Kreisturnier"
+		},
+		"230": {
+			"_545": "Hallen-Landesturnier",
+			"_546": "Hallen-Kreisturnier"
+		},
+		"231": {
+			"_545": "Hallen-Landesturnier",
+			"_546": "Hallen-Kreisturnier"
+		},
+		"232": {
+			"_546": "Hallen-Kreisturnier",
+			"_1056": "Hallen-Vereinsturnier"
+		},
+		"233": {
+			"_546": "Hallen-Kreisturnier",
+			"_1056": "Hallen-Vereinsturnier"
+		},
+		"234": {
+			"_546": "Hallen-Kreisturnier"
+		},
+		"235": {
+			"_545": "Hallen-Landesturnier",
+			"_1056": "Hallen-Vereinsturnier"
+		},
+		"236": {
+			"_545": "Hallen-Landesturnier"
+		},
+		"237": {
+			"_545": "Hallen-Landesturnier"
+		},
+		"238": {
+			"_545": "Hallen-Landesturnier"
+		},
+		"382": {
+			"_545": "Hallen-Landesturnier"
+		},
+		"391": {
+			"_545": "Hallen-Landesturnier"
+		}
+	},
+	"Gebiet": {
+		"229": {
+			"545": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			},
+			"546": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000004VV0AG08LVUPGND5I": "Kreis Buchen",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg",
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN02G000000VV0AG08LVUPGND5I": "Kreis Mannheim",
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim",
+				"_00ES8GN02G000002VV0AG08LVUPGND5I": "Kreis Sinsheim",
+				"_00ES8GN02G000005VV0AG08LVUPGND5I": "Kreis Tauberbischofsheim"
+			}
+		},
+		"230": {
+			"545": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			},
+			"546": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000004VV0AG08LVUPGND5I": "Kreis Buchen",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg",
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN02G000000VV0AG08LVUPGND5I": "Kreis Mannheim",
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim",
+				"_00ES8GN02G000002VV0AG08LVUPGND5I": "Kreis Sinsheim",
+				"_00ES8GN02G000005VV0AG08LVUPGND5I": "Kreis Tauberbischofsheim"
+			}
+		},
+		"231": {
+			"545": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			},
+			"546": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000004VV0AG08LVUPGND5I": "Kreis Buchen",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg",
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN02G000000VV0AG08LVUPGND5I": "Kreis Mannheim",
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim",
+				"_00ES8GN02G000002VV0AG08LVUPGND5I": "Kreis Sinsheim",
+				"_00ES8GN02G000005VV0AG08LVUPGND5I": "Kreis Tauberbischofsheim"
+			}
+		},
+		"232": {
+			"546": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000004VV0AG08LVUPGND5I": "Kreis Buchen",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg",
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN02G000000VV0AG08LVUPGND5I": "Kreis Mannheim",
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim",
+				"_00ES8GN02G000002VV0AG08LVUPGND5I": "Kreis Sinsheim",
+				"_00ES8GN02G000005VV0AG08LVUPGND5I": "Kreis Tauberbischofsheim"
+			},
+			"1056": {
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim"
+			}
+		},
+		"233": {
+			"546": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN02G000003VV0AG08LVUPGND5I": "Kreis Mosbach",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim",
+				"_00ES8GN02G000005VV0AG08LVUPGND5I": "Kreis Tauberbischofsheim"
+			},
+			"1056": {
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim"
+			}
+		},
+		"234": {
+			"546": {
+				"_00ES8GN018000006VV0AG08LVUPGND5I": "Kreis Karlsruhe",
+				"_00ES8GN018000005VV0AG08LVUPGND5I": "Kreis Pforzheim"
+			}
+		},
+		"235": {
+			"545": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			},
+			"1056": {
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg"
+			}
+		},
+		"236": {
+			"545": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			}
+		},
+		"237": {
+			"545": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			}
+		},
+		"238": {
+			"545": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			}
+		},
+		"382": {
+			"545": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			}
+		},
+		"391": {
+			"545": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			}
+		}
+	}
+}

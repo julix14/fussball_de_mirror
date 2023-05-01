@@ -1,0 +1,26 @@
+{
+	"Mannschaftsart": {
+		"_80": "F-Junioren",
+		"_81": "Bambini"
+	},
+	"Spielklasse": {
+		"80": {
+			"_218": "Kreisklasse"
+		},
+		"81": {
+			"_218": "Kreisklasse"
+		}
+	},
+	"Gebiet": {
+		"80": {
+			"218": {
+				"_00ES8GN0HG000009VV0AG08LVUPGND5I": "Kreis Eifel"
+			}
+		},
+		"81": {
+			"218": {
+				"_00ES8GN0HG000009VV0AG08LVUPGND5I": "Kreis Eifel"
+			}
+		}
+	}
+}

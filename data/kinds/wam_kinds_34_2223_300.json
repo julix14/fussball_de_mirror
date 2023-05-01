@@ -1,0 +1,163 @@
+{
+	"Mannschaftsart": {
+		"_280": "Alte Herren",
+		"_281": "Herren",
+		"_283": "A-Junioren",
+		"_284": "B-Junioren",
+		"_285": "C-Junioren",
+		"_286": "D-Junioren",
+		"_287": "E-Junioren",
+		"_288": "F-Junioren",
+		"_289": "G-Junioren"
+	},
+	"Spielklasse": {
+		"280": {
+			"_1048": "Vereinsturnier"
+		},
+		"281": {
+			"_987": "Kreisturnier",
+			"_1048": "Vereinsturnier"
+		},
+		"283": {
+			"_1048": "Vereinsturnier"
+		},
+		"284": {
+			"_1048": "Vereinsturnier"
+		},
+		"285": {
+			"_1048": "Vereinsturnier"
+		},
+		"286": {
+			"_987": "Kreisturnier",
+			"_1048": "Vereinsturnier"
+		},
+		"287": {
+			"_987": "Kreisturnier",
+			"_1048": "Vereinsturnier"
+		},
+		"288": {
+			"_987": "Kreisturnier",
+			"_1048": "Vereinsturnier"
+		},
+		"289": {
+			"_987": "Kreisturnier",
+			"_1048": "Vereinsturnier"
+		}
+	},
+	"Gebiet": {
+		"280": {
+			"1048": {
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0G8000007VV0AG08LVUPGND5I": "Kreis Kassel"
+			}
+		},
+		"281": {
+			"987": {
+				"_00ES8GN0F0000000VV0AG08LVUPGND5I": "Kreis Dillenburg",
+				"_00ES8GN0A000000EVV0AG08LVUPGND5I": "Kreis Hochtaunus",
+				"_00ES8GN0G8000001VV0AG08LVUPGND5I": "Kreis Waldeck"
+			},
+			"1048": {
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0A000000BVV0AG08LVUPGND5I": "Kreis Odenwald",
+				"_00ES8GN0DO000000VV0AG08LVUPGND5I": "Kreis Offenbach"
+			}
+		},
+		"283": {
+			"1048": {
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg"
+			}
+		},
+		"284": {
+			"1048": {
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0F0000004VV0AG08LVUPGND5I": "Kreis Marburg"
+			}
+		},
+		"285": {
+			"1048": {
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0F0000004VV0AG08LVUPGND5I": "Kreis Marburg"
+			}
+		},
+		"286": {
+			"987": {
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus"
+			},
+			"1048": {
+				"_00ES8GN0F0000000VV0AG08LVUPGND5I": "Kreis Dillenburg",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0F0000004VV0AG08LVUPGND5I": "Kreis Marburg",
+				"_00ES8GN0A000000BVV0AG08LVUPGND5I": "Kreis Odenwald"
+			}
+		},
+		"287": {
+			"987": {
+				"_00ES8GN0A000000AVV0AG08LVUPGND5I": "Kreis Bergstraße",
+				"_00ES8GN0G8000007VV0AG08LVUPGND5I": "Kreis Kassel"
+			},
+			"1048": {
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0G8000007VV0AG08LVUPGND5I": "Kreis Kassel",
+				"_00ES8GN0F0000004VV0AG08LVUPGND5I": "Kreis Marburg"
+			}
+		},
+		"288": {
+			"987": {
+				"_00ES8GN0A000000AVV0AG08LVUPGND5I": "Kreis Bergstraße",
+				"_00ES8GN0DO000003VV0AG08LVUPGND5I": "Kreis Büdingen",
+				"_00ES8GN0A000000DVV0AG08LVUPGND5I": "Kreis Darmstadt",
+				"_00ES8GN0A000000CVV0AG08LVUPGND5I": "Kreis Dieburg",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000005VV0AG08LVUPGND5I": "Kreis Frankfurt",
+				"_00ES8GN0DO00000AVV0AG08LVUPGND5I": "Kreis Fulda",
+				"_00ES8GN0DO000002VV0AG08LVUPGND5I": "Kreis Gelnhausen",
+				"_00ES8GN0F0000002VV0AG08LVUPGND5I": "Kreis Gießen",
+				"_00ES8GN0A0000009VV0AG08LVUPGND5I": "Kreis Groß-Gerau",
+				"_00ES8GN0G8000007VV0AG08LVUPGND5I": "Kreis Kassel",
+				"_00ES8GN0DO000008VV0AG08LVUPGND5I": "Kreis Lauterbach-Hünfeld",
+				"_00ES8GN0A0000006VV0AG08LVUPGND5I": "Kreis Limburg-Weilburg",
+				"_00ES8GN0A000000BVV0AG08LVUPGND5I": "Kreis Odenwald",
+				"_00ES8GN0DO000000VV0AG08LVUPGND5I": "Kreis Offenbach",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus",
+				"_00ES8GN0DO000009VV0AG08LVUPGND5I": "Kreis Schlüchtern",
+				"_00ES8GN0F0000001VV0AG08LVUPGND5I": "Kreis Wetzlar",
+				"_00ES8GN0A0000008VV0AG08LVUPGND5I": "Kreis Wiesbaden"
+			},
+			"1048": {
+				"_00ES8GN0G8000007VV0AG08LVUPGND5I": "Kreis Kassel"
+			}
+		},
+		"289": {
+			"987": {
+				"_00ES8GN0A000000AVV0AG08LVUPGND5I": "Kreis Bergstraße",
+				"_00ES8GN0A000000DVV0AG08LVUPGND5I": "Kreis Darmstadt",
+				"_00ES8GN0A000000CVV0AG08LVUPGND5I": "Kreis Dieburg",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000005VV0AG08LVUPGND5I": "Kreis Frankfurt",
+				"_00ES8GN0DO00000AVV0AG08LVUPGND5I": "Kreis Fulda",
+				"_00ES8GN0DO000002VV0AG08LVUPGND5I": "Kreis Gelnhausen",
+				"_00ES8GN0F0000002VV0AG08LVUPGND5I": "Kreis Gießen",
+				"_00ES8GN0A0000009VV0AG08LVUPGND5I": "Kreis Groß-Gerau",
+				"_00ES8GN0A000000EVV0AG08LVUPGND5I": "Kreis Hochtaunus",
+				"_00ES8GN0G8000000VV0AG08LVUPGND5I": "Kreis Hofgeismar-Wolfhagen",
+				"_00ES8GN0G8000007VV0AG08LVUPGND5I": "Kreis Kassel",
+				"_00ES8GN0DO000008VV0AG08LVUPGND5I": "Kreis Lauterbach-Hünfeld",
+				"_00ES8GN0A0000006VV0AG08LVUPGND5I": "Kreis Limburg-Weilburg",
+				"_00ES8GN0A000000FVV0AG08LVUPGND5I": "Kreis Maintaunus",
+				"_00ES8GN0A000000BVV0AG08LVUPGND5I": "Kreis Odenwald",
+				"_00ES8GN0DO000000VV0AG08LVUPGND5I": "Kreis Offenbach",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus",
+				"_00ES8GN0DO000009VV0AG08LVUPGND5I": "Kreis Schlüchtern",
+				"_00ES8GN0G8000004VV0AG08LVUPGND5I": "Kreis Schwalm-Eder",
+				"_00ES8GN0G8000006VV0AG08LVUPGND5I": "Kreis Werra/Meißner",
+				"_00ES8GN0F0000001VV0AG08LVUPGND5I": "Kreis Wetzlar",
+				"_00ES8GN0A0000008VV0AG08LVUPGND5I": "Kreis Wiesbaden"
+			},
+			"1048": {
+				"_00ES8GN0A000000FVV0AG08LVUPGND5I": "Kreis Maintaunus",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus"
+			}
+		}
+	}
+}

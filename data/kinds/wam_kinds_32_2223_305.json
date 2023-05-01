@@ -1,0 +1,61 @@
+{
+	"Mannschaftsart": {
+		"_229": "A-Junioren",
+		"_232": "D-Junioren",
+		"_233": "E-Junioren",
+		"_234": "F-Junioren",
+		"_382": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"229": {
+			"_153": "Kreisklasse A"
+		},
+		"232": {
+			"_150": "Kreisliga"
+		},
+		"233": {
+			"_150": "Kreisliga",
+			"_153": "Kreisklasse A"
+		},
+		"234": {
+			"_153": "Kreisklasse A"
+		},
+		"382": {
+			"_146": "Landesliga"
+		}
+	},
+	"Gebiet": {
+		"229": {
+			"153": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal"
+			}
+		},
+		"232": {
+			"150": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal"
+			}
+		},
+		"233": {
+			"150": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000004VV0AG08LVUPGND5I": "Kreis Buchen"
+			},
+			"153": {
+				"_00ES8GN018000007VV0AG08LVUPGND5I": "Kreis Bruchsal",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg",
+				"_00ES8GN02G000005VV0AG08LVUPGND5I": "Kreis Tauberbischofsheim"
+			}
+		},
+		"234": {
+			"153": {
+				"_00ES8GN02G000004VV0AG08LVUPGND5I": "Kreis Buchen",
+				"_00ES8GN02G000001VV0AG08LVUPGND5I": "Kreis Heidelberg"
+			}
+		},
+		"382": {
+			"146": {
+				"_0123456789ABCDEF0123456700004180": "Baden"
+			}
+		}
+	}
+}

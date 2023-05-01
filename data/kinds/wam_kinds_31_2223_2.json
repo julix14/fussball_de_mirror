@@ -1,0 +1,659 @@
+{
+	"Mannschaftsart": {
+		"_435": "Senioren B",
+		"_358": "Senioren A",
+		"_359": "Herren",
+		"_379": "Herren-Reserve",
+		"_360": "A-Junioren",
+		"_361": "B-Junioren",
+		"_362": "C-Junioren",
+		"_363": "D-Junioren",
+		"_364": "E-Junioren",
+		"_365": "F-Junioren",
+		"_366": "G-Junioren",
+		"_367": "Frauen",
+		"_368": "B-Juniorinnen",
+		"_369": "C-Juniorinnen",
+		"_370": "D-Juniorinnen",
+		"_371": "E-Juniorinnen",
+		"_372": "Freizeit Herren"
+	},
+	"Spielklasse": {
+		"358": {
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"359": {
+			"_542": "Hallen-Landesturnier",
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"360": {
+			"_542": "Hallen-Landesturnier",
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"361": {
+			"_542": "Hallen-Landesturnier",
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"362": {
+			"_542": "Hallen-Landesturnier",
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"363": {
+			"_542": "Hallen-Landesturnier",
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"364": {
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"365": {
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"366": {
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"367": {
+			"_542": "Hallen-Landesturnier",
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"368": {
+			"_542": "Hallen-Landesturnier",
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"369": {
+			"_542": "Hallen-Landesturnier",
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"370": {
+			"_543": "Hallen-Bezirksturnier",
+			"_544": "Hallen-Kreisturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"371": {
+			"_543": "Hallen-Bezirksturnier",
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"372": {
+			"_544": "Hallen-Kreisturnier"
+		},
+		"379": {
+			"_1059": "Hallen-Vereinsturnier"
+		},
+		"435": {
+			"_544": "Hallen-Kreisturnier"
+		}
+	},
+	"Gebiet": {
+		"358": {
+			"543": {
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz"
+			},
+			"544": {
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			},
+			"1059": {
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön"
+			}
+		},
+		"359": {
+			"542": {
+				"_00ES8GNCQK000000VV0AG08LVUPGND5I": "Bayern"
+			},
+			"543": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken",
+				"_00ES8GNHUK000014VV0AG08LVUPGND5I": "Bezirk Niederbayern",
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern",
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz",
+				"_00ES8GNJ2S000006VV0AG08LVUPGND5I": "Bezirk Schwaben",
+				"_00ES8GNKTO00000SVV0AG08LVUPGND5I": "Bezirk Unterfranken"
+			},
+			"544": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNJFC00000TVV0AG08LVUPGND5I": "Kreis Donau",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GND74000001VV0AG08LVUPGND5I": "Kreis München",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNKTO00000TVV0AG08LVUPGND5I": "Kreis Würzburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			},
+			"1059": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GND74000001VV0AG08LVUPGND5I": "Kreis München",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNKTO00000TVV0AG08LVUPGND5I": "Kreis Würzburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"360": {
+			"542": {
+				"_00ES8GNCQK000000VV0AG08LVUPGND5I": "Bayern"
+			},
+			"543": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken",
+				"_00ES8GNHUK000014VV0AG08LVUPGND5I": "Bezirk Niederbayern",
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern",
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz",
+				"_00ES8GNJ2S000006VV0AG08LVUPGND5I": "Bezirk Schwaben",
+				"_00ES8GNKTO00000SVV0AG08LVUPGND5I": "Bezirk Unterfranken"
+			},
+			"544": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNJFC00000TVV0AG08LVUPGND5I": "Kreis Donau",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNKTO00000TVV0AG08LVUPGND5I": "Kreis Würzburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			},
+			"1059": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"361": {
+			"542": {
+				"_00ES8GNCQK000000VV0AG08LVUPGND5I": "Bayern"
+			},
+			"543": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken",
+				"_00ES8GNHUK000014VV0AG08LVUPGND5I": "Bezirk Niederbayern",
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern",
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz",
+				"_00ES8GNJ2S000006VV0AG08LVUPGND5I": "Bezirk Schwaben",
+				"_00ES8GNKTO00000SVV0AG08LVUPGND5I": "Bezirk Unterfranken"
+			},
+			"544": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNJFC00000TVV0AG08LVUPGND5I": "Kreis Donau",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNKTO00000TVV0AG08LVUPGND5I": "Kreis Würzburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			},
+			"1059": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNKTO00000TVV0AG08LVUPGND5I": "Kreis Würzburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"362": {
+			"542": {
+				"_00ES8GNCQK000000VV0AG08LVUPGND5I": "Bayern"
+			},
+			"543": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken",
+				"_00ES8GNHUK000014VV0AG08LVUPGND5I": "Bezirk Niederbayern",
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern",
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz",
+				"_00ES8GNJ2S000006VV0AG08LVUPGND5I": "Bezirk Schwaben",
+				"_00ES8GNKTO00000SVV0AG08LVUPGND5I": "Bezirk Unterfranken"
+			},
+			"544": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNJFC00000TVV0AG08LVUPGND5I": "Kreis Donau",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNKTO00000TVV0AG08LVUPGND5I": "Kreis Würzburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			},
+			"1059": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GND74000001VV0AG08LVUPGND5I": "Kreis München",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNKTO00000TVV0AG08LVUPGND5I": "Kreis Würzburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"363": {
+			"542": {
+				"_00ES8GNCQK000000VV0AG08LVUPGND5I": "Bayern"
+			},
+			"543": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken",
+				"_00ES8GNHUK000014VV0AG08LVUPGND5I": "Bezirk Niederbayern",
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern",
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz",
+				"_00ES8GNJ2S000006VV0AG08LVUPGND5I": "Bezirk Schwaben",
+				"_00ES8GNKTO00000SVV0AG08LVUPGND5I": "Bezirk Unterfranken"
+			},
+			"544": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNJFC00000TVV0AG08LVUPGND5I": "Kreis Donau",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNKTO00000TVV0AG08LVUPGND5I": "Kreis Würzburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			},
+			"1059": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GND74000001VV0AG08LVUPGND5I": "Kreis München",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNKTO00000TVV0AG08LVUPGND5I": "Kreis Würzburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"364": {
+			"543": {
+				"_00ES8GNHUK000014VV0AG08LVUPGND5I": "Bezirk Niederbayern",
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz"
+			},
+			"544": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			},
+			"1059": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNJFC00000TVV0AG08LVUPGND5I": "Kreis Donau",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GND74000001VV0AG08LVUPGND5I": "Kreis München",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"365": {
+			"544": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt"
+			},
+			"1059": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNJFC00000TVV0AG08LVUPGND5I": "Kreis Donau",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"366": {
+			"544": {
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe"
+			},
+			"1059": {
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNLE000000CVV0AG08LVUPGND5I": "Kreis Aschaffenburg",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNK4O000017VV0AG08LVUPGND5I": "Kreis Coburg/Kronach/Lichtenf.",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNL4000000AVV0AG08LVUPGND5I": "Kreis Schweinfurt",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"367": {
+			"542": {
+				"_00ES8GNCQK000000VV0AG08LVUPGND5I": "Bayern"
+			},
+			"543": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken",
+				"_00ES8GNHUK000014VV0AG08LVUPGND5I": "Bezirk Niederbayern",
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern",
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz",
+				"_00ES8GNJ2S000006VV0AG08LVUPGND5I": "Bezirk Schwaben",
+				"_00ES8GNKTO00000SVV0AG08LVUPGND5I": "Bezirk Unterfranken"
+			},
+			"544": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJFC00000TVV0AG08LVUPGND5I": "Kreis Donau",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GND74000001VV0AG08LVUPGND5I": "Kreis München"
+			},
+			"1059": {
+				"_00ES8GNJPC00000FVV0AG08LVUPGND5I": "Kreis Amberg/Weiden",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"368": {
+			"542": {
+				"_00ES8GNCQK000000VV0AG08LVUPGND5I": "Bayern"
+			},
+			"543": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken",
+				"_00ES8GNHUK000014VV0AG08LVUPGND5I": "Bezirk Niederbayern",
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern",
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz",
+				"_00ES8GNJ2S000006VV0AG08LVUPGND5I": "Bezirk Schwaben",
+				"_00ES8GNKTO00000SVV0AG08LVUPGND5I": "Bezirk Unterfranken"
+			},
+			"544": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJFC00000TVV0AG08LVUPGND5I": "Kreis Donau",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GND74000001VV0AG08LVUPGND5I": "Kreis München",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			},
+			"1059": {
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJVO00000BVV0AG08LVUPGND5I": "Kreis Bamberg/Bayreuth/Kulmb.",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"369": {
+			"542": {
+				"_00ES8GNCQK000000VV0AG08LVUPGND5I": "Bayern"
+			},
+			"543": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken",
+				"_00ES8GNHUK000014VV0AG08LVUPGND5I": "Bezirk Niederbayern",
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern",
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz",
+				"_00ES8GNJ2S000006VV0AG08LVUPGND5I": "Bezirk Schwaben",
+				"_00ES8GNKTO00000SVV0AG08LVUPGND5I": "Bezirk Unterfranken"
+			},
+			"544": {
+				"_00ES8GNJCS00000HVV0AG08LVUPGND5I": "Kreis Allgäu",
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GND74000001VV0AG08LVUPGND5I": "Kreis München",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			},
+			"1059": {
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU4PK000000VTVG0001VSF0P9J2": "Kreis Niederbayern West",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg",
+				"_00KOFVVA9O000000VTVG0001VUTLU96F": "Kreis Rhön",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"370": {
+			"543": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken",
+				"_00ES8GNHUK000014VV0AG08LVUPGND5I": "Bezirk Niederbayern",
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern",
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken",
+				"_00ES8GNJLK000009VV0AG08LVUPGND5I": "Bezirk Oberpfalz",
+				"_00ES8GNJ2S000006VV0AG08LVUPGND5I": "Bezirk Schwaben"
+			},
+			"544": {
+				"_00ES8GNHPK00000DVV0AG08LVUPGND5I": "Kreis Inn/Salzach",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			},
+			"1059": {
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNHLS00001AVV0AG08LVUPGND5I": "Kreis Donau/Isar",
+				"_00ES8GNKIG00000TVV0AG08LVUPGND5I": "Kreis Neumarkt/Jura",
+				"_020HCNU638000000VTVG0001VSF0P9J2": "Kreis Niederbayern Ost",
+				"_00ES8GNKDG000011VV0AG08LVUPGND5I": "Kreis Nürnberg/Frankenhöhe",
+				"_00ES8GNHFK000016VV0AG08LVUPGND5I": "Kreis Zugspitze"
+			}
+		},
+		"371": {
+			"543": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken",
+				"_00ES8GNJVO00000AVV0AG08LVUPGND5I": "Bezirk Oberfranken"
+			},
+			"1059": {
+				"_00ES8GNJ7S00000IVV0AG08LVUPGND5I": "Kreis Augsburg",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg"
+			}
+		},
+		"372": {
+			"544": {
+				"_00ES8GND74000001VV0AG08LVUPGND5I": "Kreis München"
+			}
+		},
+		"379": {
+			"1059": {
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel"
+			}
+		},
+		"435": {
+			"544": {
+				"_00ES8GNK8G00000AVV0AG08LVUPGND5I": "Kreis Hof/Tirschenr./Wunsiedel"
+			}
+		}
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"Mannschaftsart": {
+		"_14": "E-Junioren",
+		"_15": "F-Junioren",
+		"_16": "G-Junioren",
+		"_17": "Frauen",
+		"_18": "B-Juniorinnen",
+		"_19": "C-Juniorinnen",
+		"_20": "D-Juniorinnen",
+		"_21": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"14": {
+			"_38": "1.Kreisklasse"
+		},
+		"15": {
+			"_36": "Kreisliga",
+			"_38": "1.Kreisklasse",
+			"_44": "7.Kreisklasse"
+		},
+		"16": {
+			"_36": "Kreisliga",
+			"_38": "1.Kreisklasse",
+			"_44": "7.Kreisklasse"
+		},
+		"17": {
+			"_36": "Kreisliga"
+		},
+		"18": {
+			"_36": "Kreisliga"
+		},
+		"19": {
+			"_36": "Kreisliga"
+		},
+		"20": {
+			"_38": "1.Kreisklasse"
+		},
+		"21": {
+			"_36": "Kreisliga"
+		}
+	},
+	"Gebiet": {
+		"14": {
+			"38": {
+				"_00ES8GMVD8000000VV0AG08LVUPGND5I": "Kreis Northeim-Einbeck"
+			}
+		},
+		"15": {
+			"36": {
+				"_00ES8GMVAO000002VV0AG08LVUPGND5I": "Kreis Celle",
+				"_00ES8GMV7000000AVV0AG08LVUPGND5I": "Kreis Rotenburg"
+			},
+			"38": {
+				"_00ES8GMVD8000005VV0AG08LVUPGND5I": "Kreis Braunschweig",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte",
+				"_00ES8GMVD8000000VV0AG08LVUPGND5I": "Kreis Northeim-Einbeck",
+				"_01UKIHT698000000VTVG0001VTA18D1N": "Kreis Ostfriesland"
+			},
+			"44": {
+				"_00ES8GMVC000000BVV0AG08LVUPGND5I": "Kreis Peine"
+			}
+		},
+		"16": {
+			"36": {
+				"_00ES8GMVAO000002VV0AG08LVUPGND5I": "Kreis Celle",
+				"_00ES8GMVC0000005VV0AG08LVUPGND5I": "Kreis Hameln-Pyrmont",
+				"_00ES8GMV7000000EVV0AG08LVUPGND5I": "Kreis Harburg"
+			},
+			"38": {
+				"_00ES8GMVD8000005VV0AG08LVUPGND5I": "Kreis Braunschweig",
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_0227FI140K000000VTVG0001VSTPT9U2": "Kreis Jade-Weser-Hunte"
+			},
+			"44": {
+				"_00ES8GMVC000000BVV0AG08LVUPGND5I": "Kreis Peine"
+			}
+		},
+		"17": {
+			"36": {
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover"
+			}
+		},
+		"18": {
+			"36": {
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover"
+			}
+		},
+		"19": {
+			"36": {
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim",
+				"_01UKIHT4TK000000VTVG0001VTA18D1N": "Kreis Region Hannover"
+			}
+		},
+		"20": {
+			"38": {
+				"_00ES8GMVC0000002VV0AG08LVUPGND5I": "Kreis Hildesheim"
+			}
+		},
+		"21": {
+			"36": {
+				"_00ES8GMVC000000BVV0AG08LVUPGND5I": "Kreis Peine"
+			}
+		}
+	}
+}

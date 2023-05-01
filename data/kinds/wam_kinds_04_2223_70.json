@@ -1,0 +1,270 @@
+{
+	"Mannschaftsart": {
+		"_952": "Ü50 Herren",
+		"_56": "Ü40 Herren",
+		"_57": "Altherren",
+		"_58": "Herren",
+		"_59": "A-Junioren",
+		"_60": "B-Junioren",
+		"_61": "C-Junioren",
+		"_62": "D-Junioren",
+		"_63": "E-Junioren",
+		"_64": "F-Junioren",
+		"_65": "G-Junioren",
+		"_66": "Frauen",
+		"_67": "B-Juniorinnen",
+		"_69": "D-Juniorinnen",
+		"_70": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"56": {
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"57": {
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"58": {
+			"_800": "Landesfreundschaftsspiele",
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"59": {
+			"_800": "Landesfreundschaftsspiele",
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"60": {
+			"_800": "Landesfreundschaftsspiele",
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"61": {
+			"_800": "Landesfreundschaftsspiele",
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"62": {
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"63": {
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"64": {
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"65": {
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"66": {
+			"_800": "Landesfreundschaftsspiele",
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"67": {
+			"_800": "Landesfreundschaftsspiele",
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"69": {
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"70": {
+			"_801": "Kreisfreundschaftsspiele"
+		},
+		"952": {
+			"_801": "Kreisfreundschaftsspiele"
+		}
+	},
+	"Gebiet": {
+		"56": {
+			"801": {
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn"
+			}
+		},
+		"57": {
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_01CQI7FEU0000000VTVG0001VTKE9GKI": "Kreis Schleswig-Flensburg",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn"
+			}
+		},
+		"58": {
+			"800": {
+				"_0123456789ABCDEF0123456700004070": "Schleswig-Holstein"
+			},
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_0277E77A74000000VS5489B1VTP2A4OD": "Kreis Holstein",
+				"_00ES8GMVJG00000AVV0AG08LVUPGND5I": "Kreis Kiel",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVJG000004VV0AG08LVUPGND5I": "Kreis Nordfriesland",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_00ES8GMVJG000007VV0AG08LVUPGND5I": "Kreis Rendsburg-Eckernförde",
+				"_01CQI7FEU0000000VTVG0001VTKE9GKI": "Kreis Schleswig-Flensburg",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn",
+				"_01VQS02IQO000000VTVG0001VTV2UGJT": "Kreis Westküste"
+			}
+		},
+		"59": {
+			"800": {
+				"_0123456789ABCDEF0123456700004070": "Schleswig-Holstein"
+			},
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_0277E77A74000000VS5489B1VTP2A4OD": "Kreis Holstein",
+				"_00ES8GMVJG00000AVV0AG08LVUPGND5I": "Kreis Kiel",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVJG000004VV0AG08LVUPGND5I": "Kreis Nordfriesland",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_00ES8GMVJG000007VV0AG08LVUPGND5I": "Kreis Rendsburg-Eckernförde",
+				"_01CQI7FEU0000000VTVG0001VTKE9GKI": "Kreis Schleswig-Flensburg",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn",
+				"_01VQS02IQO000000VTVG0001VTV2UGJT": "Kreis Westküste"
+			}
+		},
+		"60": {
+			"800": {
+				"_0123456789ABCDEF0123456700004070": "Schleswig-Holstein"
+			},
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_0277E77A74000000VS5489B1VTP2A4OD": "Kreis Holstein",
+				"_00ES8GMVJG00000AVV0AG08LVUPGND5I": "Kreis Kiel",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVJG000004VV0AG08LVUPGND5I": "Kreis Nordfriesland",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_00ES8GMVJG000007VV0AG08LVUPGND5I": "Kreis Rendsburg-Eckernförde",
+				"_01CQI7FEU0000000VTVG0001VTKE9GKI": "Kreis Schleswig-Flensburg",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn",
+				"_01VQS02IQO000000VTVG0001VTV2UGJT": "Kreis Westküste"
+			}
+		},
+		"61": {
+			"800": {
+				"_0123456789ABCDEF0123456700004070": "Schleswig-Holstein"
+			},
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_0277E77A74000000VS5489B1VTP2A4OD": "Kreis Holstein",
+				"_00ES8GMVJG00000AVV0AG08LVUPGND5I": "Kreis Kiel",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVJG000004VV0AG08LVUPGND5I": "Kreis Nordfriesland",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_00ES8GMVJG000007VV0AG08LVUPGND5I": "Kreis Rendsburg-Eckernförde",
+				"_01CQI7FEU0000000VTVG0001VTKE9GKI": "Kreis Schleswig-Flensburg",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn",
+				"_01VQS02IQO000000VTVG0001VTV2UGJT": "Kreis Westküste"
+			}
+		},
+		"62": {
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_0277E77A74000000VS5489B1VTP2A4OD": "Kreis Holstein",
+				"_00ES8GMVJG00000AVV0AG08LVUPGND5I": "Kreis Kiel",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVJG000004VV0AG08LVUPGND5I": "Kreis Nordfriesland",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_00ES8GMVJG000007VV0AG08LVUPGND5I": "Kreis Rendsburg-Eckernförde",
+				"_01CQI7FEU0000000VTVG0001VTKE9GKI": "Kreis Schleswig-Flensburg",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn",
+				"_01VQS02IQO000000VTVG0001VTV2UGJT": "Kreis Westküste"
+			}
+		},
+		"63": {
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_0277E77A74000000VS5489B1VTP2A4OD": "Kreis Holstein",
+				"_00ES8GMVJG00000AVV0AG08LVUPGND5I": "Kreis Kiel",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVJG000004VV0AG08LVUPGND5I": "Kreis Nordfriesland",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_00ES8GMVJG000007VV0AG08LVUPGND5I": "Kreis Rendsburg-Eckernförde",
+				"_01CQI7FEU0000000VTVG0001VTKE9GKI": "Kreis Schleswig-Flensburg",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn",
+				"_01VQS02IQO000000VTVG0001VTV2UGJT": "Kreis Westküste"
+			}
+		},
+		"64": {
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_0277E77A74000000VS5489B1VTP2A4OD": "Kreis Holstein",
+				"_00ES8GMVJG00000AVV0AG08LVUPGND5I": "Kreis Kiel",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVJG000004VV0AG08LVUPGND5I": "Kreis Nordfriesland",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_00ES8GMVJG000007VV0AG08LVUPGND5I": "Kreis Rendsburg-Eckernförde",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn",
+				"_01VQS02IQO000000VTVG0001VTV2UGJT": "Kreis Westküste"
+			}
+		},
+		"65": {
+			"801": {
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg"
+			}
+		},
+		"66": {
+			"800": {
+				"_0123456789ABCDEF0123456700004070": "Schleswig-Holstein"
+			},
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_0277E77A74000000VS5489B1VTP2A4OD": "Kreis Holstein",
+				"_00ES8GMVJG00000AVV0AG08LVUPGND5I": "Kreis Kiel",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVJG000004VV0AG08LVUPGND5I": "Kreis Nordfriesland",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_00ES8GMVJG000007VV0AG08LVUPGND5I": "Kreis Rendsburg-Eckernförde",
+				"_01CQI7FEU0000000VTVG0001VTKE9GKI": "Kreis Schleswig-Flensburg",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn",
+				"_01VQS02IQO000000VTVG0001VTV2UGJT": "Kreis Westküste"
+			}
+		},
+		"67": {
+			"800": {
+				"_0123456789ABCDEF0123456700004070": "Schleswig-Holstein"
+			},
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVJG000004VV0AG08LVUPGND5I": "Kreis Nordfriesland",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_01CQI7FEU0000000VTVG0001VTKE9GKI": "Kreis Schleswig-Flensburg",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn",
+				"_01VQS02IQO000000VTVG0001VTV2UGJT": "Kreis Westküste"
+			}
+		},
+		"69": {
+			"801": {
+				"_00ES8GMVJG00000AVV0AG08LVUPGND5I": "Kreis Kiel",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_00ES8GMVJG000007VV0AG08LVUPGND5I": "Kreis Rendsburg-Eckernförde",
+				"_01CQI7FEU0000000VTVG0001VTKE9GKI": "Kreis Schleswig-Flensburg",
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn"
+			}
+		},
+		"70": {
+			"801": {
+				"_00ES8GMVI8000009VV0AG08LVUPGND5I": "Kreis Herzogtum Lauenburg",
+				"_00ES8GMVI8000008VV0AG08LVUPGND5I": "Kreis Lübeck",
+				"_00ES8GMVI8000007VV0AG08LVUPGND5I": "Kreis Ostholstein",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn"
+			}
+		},
+		"952": {
+			"801": {
+				"_00ES8GMVI8000005VV0AG08LVUPGND5I": "Kreis Segeberg",
+				"_00ES8GMVI8000006VV0AG08LVUPGND5I": "Kreis Stormarn"
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"Mannschaftsart": {
+		"_948": "Herren - Handicap-Fußball"
+	},
+	"Spielklasse": {
+		"948": {
+			"_817": "Verbandsliga Beh.",
+			"_818": "Landesliga Beh."
+		}
+	},
+	"Gebiet": {
+		"948": {
+			"817": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"818": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		}
+	}
+}

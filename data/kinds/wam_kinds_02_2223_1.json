@@ -1,0 +1,291 @@
+{
+	"Mannschaftsart": {
+		"_944": "Alte-Herren Ü60",
+		"_301": "Alte-Herren Ü50",
+		"_172": "Alte-Herren Ü40",
+		"_173": "Alte Herren Ü32",
+		"_174": "Herren",
+		"_175": "A-Junioren",
+		"_176": "B-Junioren",
+		"_177": "C-Junioren",
+		"_178": "D-Junioren",
+		"_179": "E-Junioren",
+		"_182": "Frauen",
+		"_183": "B-Juniorinnen",
+		"_376": "C-Juniorinnen",
+		"_377": "D-Juniorinnen",
+		"_378": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"172": {
+			"_54": "1.Kreisklasse",
+			"_55": "2.Kreisklasse",
+			"_56": "3.Kreisklasse",
+			"_57": "4.Kreisklasse"
+		},
+		"173": {
+			"_54": "1.Kreisklasse",
+			"_55": "2.Kreisklasse",
+			"_56": "3.Kreisklasse"
+		},
+		"174": {
+			"_46": "Verbandsliga",
+			"_47": "Landesliga",
+			"_49": "Bezirksliga",
+			"_51": "1.Kreisliga (A) / Stadtliga",
+			"_52": "2.Kreisliga (B)",
+			"_53": "3.Kreisliga (C)",
+			"_54": "1.Kreisklasse",
+			"_55": "2.Kreisklasse"
+		},
+		"175": {
+			"_46": "Verbandsliga",
+			"_47": "Landesliga",
+			"_946": "1.Landesklasse"
+		},
+		"176": {
+			"_46": "Verbandsliga",
+			"_49": "Bezirksliga",
+			"_948": "1.Bezirksklasse",
+			"_949": "2.Bezirksklasse"
+		},
+		"177": {
+			"_46": "Verbandsliga",
+			"_49": "Bezirksliga",
+			"_948": "1.Bezirksklasse",
+			"_949": "2.Bezirksklasse",
+			"_51": "1.Kreisliga (A) / Stadtliga"
+		},
+		"178": {
+			"_46": "Verbandsliga",
+			"_49": "Bezirksliga",
+			"_51": "1.Kreisliga (A) / Stadtliga",
+			"_54": "1.Kreisklasse",
+			"_55": "2.Kreisklasse",
+			"_56": "3.Kreisklasse"
+		},
+		"179": {
+			"_54": "1.Kreisklasse",
+			"_55": "2.Kreisklasse",
+			"_56": "3.Kreisklasse",
+			"_57": "4.Kreisklasse"
+		},
+		"182": {
+			"_46": "Verbandsliga",
+			"_47": "Landesliga",
+			"_49": "Bezirksliga"
+		},
+		"183": {
+			"_47": "Landesliga"
+		},
+		"301": {
+			"_54": "1.Kreisklasse",
+			"_55": "2.Kreisklasse",
+			"_56": "3.Kreisklasse",
+			"_57": "4.Kreisklasse"
+		},
+		"376": {
+			"_47": "Landesliga"
+		},
+		"377": {
+			"_47": "Landesliga"
+		},
+		"378": {
+			"_47": "Landesliga"
+		},
+		"944": {
+			"_54": "1.Kreisklasse"
+		}
+	},
+	"Gebiet": {
+		"172": {
+			"54": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt",
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			},
+			"55": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"56": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"57": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			}
+		},
+		"173": {
+			"54": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"55": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"56": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			}
+		},
+		"174": {
+			"46": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"47": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"49": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			},
+			"51": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt",
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			},
+			"52": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"53": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"54": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"55": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			}
+		},
+		"175": {
+			"46": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"47": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"946": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			}
+		},
+		"176": {
+			"46": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"49": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			},
+			"948": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			},
+			"949": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			}
+		},
+		"177": {
+			"46": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"49": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			},
+			"51": {
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			},
+			"948": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			},
+			"949": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			}
+		},
+		"178": {
+			"46": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"49": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			},
+			"51": {
+				"_00ES8GMVI8000002VV0AG08LVUPGND5I": "Kreis Bremen-Nord",
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt",
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			},
+			"54": {
+				"_00ES8GMVI8000002VV0AG08LVUPGND5I": "Kreis Bremen-Nord",
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt",
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			},
+			"55": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"56": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			}
+		},
+		"179": {
+			"54": {
+				"_00ES8GMVI8000002VV0AG08LVUPGND5I": "Kreis Bremen-Nord",
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt",
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			},
+			"55": {
+				"_00ES8GMVI8000002VV0AG08LVUPGND5I": "Kreis Bremen-Nord",
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt",
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			},
+			"56": {
+				"_00ES8GMVI8000002VV0AG08LVUPGND5I": "Kreis Bremen-Nord",
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt",
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			},
+			"57": {
+				"_00ES8GMVI8000000VV0AG08LVUPGND5I": "Kreis Bremerhaven"
+			}
+		},
+		"182": {
+			"46": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"47": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			},
+			"49": {
+				"_00ES8GMVI8000004VV0AG08LVUPGND5I": "Bezirk Bremen"
+			}
+		},
+		"183": {
+			"47": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			}
+		},
+		"301": {
+			"54": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"55": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"56": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			},
+			"57": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			}
+		},
+		"376": {
+			"47": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			}
+		},
+		"377": {
+			"47": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			}
+		},
+		"378": {
+			"47": {
+				"_0123456789ABCDEF0123456700004090": "Bremen"
+			}
+		},
+		"944": {
+			"54": {
+				"_00ES8GMVI8000003VV0AG08LVUPGND5I": "Kreis Bremen-Stadt"
+			}
+		}
+	}
+}

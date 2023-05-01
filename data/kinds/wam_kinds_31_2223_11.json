@@ -1,0 +1,102 @@
+{
+	"Mannschaftsart": {
+		"_359": "Herren",
+		"_360": "A-Junioren",
+		"_361": "B-Junioren",
+		"_362": "C-Junioren",
+		"_363": "D-Junioren",
+		"_367": "Frauen",
+		"_369": "C-Juniorinnen",
+		"_370": "D-Juniorinnen"
+	},
+	"Spielklasse": {
+		"359": {
+			"_909": "Futsal-Bayernliga",
+			"_910": "Futsal-Bezirksliga",
+			"_911": "Futsal-Kreisliga"
+		},
+		"360": {
+			"_911": "Futsal-Kreisliga"
+		},
+		"361": {
+			"_910": "Futsal-Bezirksliga",
+			"_911": "Futsal-Kreisliga"
+		},
+		"362": {
+			"_910": "Futsal-Bezirksliga",
+			"_911": "Futsal-Kreisliga"
+		},
+		"363": {
+			"_910": "Futsal-Bezirksliga",
+			"_911": "Futsal-Kreisliga"
+		},
+		"367": {
+			"_910": "Futsal-Bezirksliga"
+		},
+		"369": {
+			"_910": "Futsal-Bezirksliga"
+		},
+		"370": {
+			"_910": "Futsal-Bezirksliga"
+		}
+	},
+	"Gebiet": {
+		"359": {
+			"909": {
+				"_00ES8GNCQK000000VV0AG08LVUPGND5I": "Bayern"
+			},
+			"910": {
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern"
+			},
+			"911": {
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNJLK00000AVV0AG08LVUPGND5I": "Kreis Regensburg"
+			}
+		},
+		"360": {
+			"911": {
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf"
+			}
+		},
+		"361": {
+			"910": {
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern"
+			},
+			"911": {
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf"
+			}
+		},
+		"362": {
+			"910": {
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern"
+			},
+			"911": {
+				"_00ES8GNJQK00001CVV0AG08LVUPGND5I": "Kreis Cham/Schwandorf",
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund"
+			}
+		},
+		"363": {
+			"910": {
+				"_00ES8GND74000000VV0AG08LVUPGND5I": "Bezirk Oberbayern"
+			},
+			"911": {
+				"_00ES8GNKR8000009VV0AG08LVUPGND5I": "Kreis Erlangen/Pegnitzgrund"
+			}
+		},
+		"367": {
+			"910": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken"
+			}
+		},
+		"369": {
+			"910": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken"
+			}
+		},
+		"370": {
+			"910": {
+				"_00ES8GNKDG000010VV0AG08LVUPGND5I": "Bezirk Mittelfranken"
+			}
+		}
+	}
+}

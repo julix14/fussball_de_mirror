@@ -1,0 +1,71 @@
+{
+	"Mannschaftsart": {
+		"_820": "Oldies Ü60",
+		"_821": "Oldies Ü50",
+		"_822": "Oldies Ü40",
+		"_320": "Alt-Herren Ü32",
+		"_343": "Herren",
+		"_346": "C-Junioren",
+		"_351": "Frauen"
+	},
+	"Spielklasse": {
+		"320": {
+			"_113": "Niederrheinliga"
+		},
+		"343": {
+			"_119": "Kreisliga A"
+		},
+		"346": {
+			"_123": "Kreisleistungsklasse"
+		},
+		"351": {
+			"_119": "Kreisliga A"
+		},
+		"820": {
+			"_1118": "Kleinfeldspielrunde"
+		},
+		"821": {
+			"_1118": "Kleinfeldspielrunde"
+		},
+		"822": {
+			"_1118": "Kleinfeldspielrunde"
+		}
+	},
+	"Gebiet": {
+		"320": {
+			"113": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			}
+		},
+		"343": {
+			"119": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak"
+			}
+		},
+		"346": {
+			"123": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak"
+			}
+		},
+		"351": {
+			"119": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak"
+			}
+		},
+		"820": {
+			"1118": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			}
+		},
+		"821": {
+			"1118": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			}
+		},
+		"822": {
+			"1118": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			}
+		}
+	}
+}

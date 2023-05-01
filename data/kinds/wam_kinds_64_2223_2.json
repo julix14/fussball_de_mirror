@@ -1,0 +1,221 @@
+{
+	"Mannschaftsart": {
+		"_126": "Altherren",
+		"_127": "Herren",
+		"_128": "A-Junioren",
+		"_129": "B-Junioren",
+		"_130": "C-Junioren",
+		"_131": "D-Junioren",
+		"_132": "E-Junioren",
+		"_133": "F-Junioren",
+		"_134": "G-Junioren",
+		"_135": "Frauen",
+		"_136": "B-Juniorinnen",
+		"_137": "C-Juniorinnen",
+		"_138": "D-Juniorinnen",
+		"_806": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"126": {
+			"_574": "Hallen-Kreisturnier"
+		},
+		"127": {
+			"_573": "Hallen-Landesturnier",
+			"_574": "Hallen-Kreisturnier",
+			"_1029": "Hallen-Vereinsturnier"
+		},
+		"128": {
+			"_573": "Hallen-Landesturnier",
+			"_574": "Hallen-Kreisturnier",
+			"_1029": "Hallen-Vereinsturnier"
+		},
+		"129": {
+			"_573": "Hallen-Landesturnier",
+			"_574": "Hallen-Kreisturnier",
+			"_1029": "Hallen-Vereinsturnier"
+		},
+		"130": {
+			"_573": "Hallen-Landesturnier",
+			"_574": "Hallen-Kreisturnier",
+			"_1029": "Hallen-Vereinsturnier"
+		},
+		"131": {
+			"_573": "Hallen-Landesturnier",
+			"_574": "Hallen-Kreisturnier",
+			"_1029": "Hallen-Vereinsturnier"
+		},
+		"132": {
+			"_574": "Hallen-Kreisturnier",
+			"_1029": "Hallen-Vereinsturnier"
+		},
+		"133": {
+			"_574": "Hallen-Kreisturnier",
+			"_1029": "Hallen-Vereinsturnier"
+		},
+		"134": {
+			"_574": "Hallen-Kreisturnier",
+			"_1029": "Hallen-Vereinsturnier"
+		},
+		"135": {
+			"_573": "Hallen-Landesturnier"
+		},
+		"136": {
+			"_573": "Hallen-Landesturnier"
+		},
+		"137": {
+			"_573": "Hallen-Landesturnier"
+		},
+		"138": {
+			"_573": "Hallen-Landesturnier"
+		},
+		"806": {
+			"_573": "Hallen-Landesturnier"
+		}
+	},
+	"Gebiet": {
+		"126": {
+			"574": {
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			}
+		},
+		"127": {
+			"573": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"574": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000005VV0AG08LVUPGND5I": "Kreis Anhalt",
+				"_00ES8GN19C000007VV0AG08LVUPGND5I": "Kreis Anhalt-Bitterfeld",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			},
+			"1029": {
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			}
+		},
+		"128": {
+			"573": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"574": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde"
+			},
+			"1029": {
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland"
+			}
+		},
+		"129": {
+			"573": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"574": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000007VV0AG08LVUPGND5I": "Kreis Anhalt-Bitterfeld",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN19C000001VV0AG08LVUPGND5I": "Kreis Saalekreis"
+			},
+			"1029": {
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland"
+			}
+		},
+		"130": {
+			"573": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"574": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN19C000001VV0AG08LVUPGND5I": "Kreis Saalekreis",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			},
+			"1029": {
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland"
+			}
+		},
+		"131": {
+			"573": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			},
+			"574": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000007VV0AG08LVUPGND5I": "Kreis Anhalt-Bitterfeld",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN19C000001VV0AG08LVUPGND5I": "Kreis Saalekreis",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			},
+			"1029": {
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			}
+		},
+		"132": {
+			"574": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN394000001VV0AG08LVUPGND5I": "Kreis Altmark West",
+				"_00ES8GN19C000005VV0AG08LVUPGND5I": "Kreis Anhalt",
+				"_00ES8GN394000006VV0AG08LVUPGND5I": "Kreis Börde",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz",
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			},
+			"1029": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland"
+			}
+		},
+		"133": {
+			"574": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost",
+				"_00ES8GN3AC000000VV0AG08LVUPGND5I": "Kreis Harz"
+			},
+			"1029": {
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland"
+			}
+		},
+		"134": {
+			"574": {
+				"_00ES8GN394000005VV0AG08LVUPGND5I": "Kreis Altmark Ost"
+			},
+			"1029": {
+				"_00ES8GN18400000JVV0AG08LVUPGND5I": "Kreis Burgenland"
+			}
+		},
+		"135": {
+			"573": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			}
+		},
+		"136": {
+			"573": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			}
+		},
+		"137": {
+			"573": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			}
+		},
+		"138": {
+			"573": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			}
+		},
+		"806": {
+			"573": {
+				"_0123456789ABCDEF0123456700004230": "Sachsen-Anhalt"
+			}
+		}
+	}
+}

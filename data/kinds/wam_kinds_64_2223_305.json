@@ -1,0 +1,26 @@
+{
+	"Mannschaftsart": {
+		"_126": "Altherren",
+		"_134": "G-Junioren"
+	},
+	"Spielklasse": {
+		"126": {
+			"_288": "1.Kreisklasse"
+		},
+		"134": {
+			"_287": "Kreisliga"
+		}
+	},
+	"Gebiet": {
+		"126": {
+			"288": {
+				"_00ES8GN3AC000002VV0AG08LVUPGND5I": "Kreis Salzland"
+			}
+		},
+		"134": {
+			"287": {
+				"_00ES8GN19C000007VV0AG08LVUPGND5I": "Kreis Anhalt-Bitterfeld"
+			}
+		}
+	}
+}

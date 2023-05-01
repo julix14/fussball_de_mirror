@@ -1,0 +1,209 @@
+{
+	"Mannschaftsart": {
+		"_1140": "Altsenioren Ü50",
+		"_39": "Altsenioren Ü40",
+		"_40": "Altherren",
+		"_41": "Herren",
+		"_42": "A-Junioren",
+		"_43": "B-Junioren",
+		"_44": "C-Junioren",
+		"_45": "D-Junioren",
+		"_46": "E-Junioren",
+		"_47": "F-Junioren",
+		"_49": "Frauen",
+		"_50": "B-Juniorinnen",
+		"_51": "C-Juniorinnen",
+		"_52": "D-Juniorinnen",
+		"_53": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"39": {
+			"_535": "Hallen-Kreisturnier"
+		},
+		"40": {
+			"_535": "Hallen-Kreisturnier"
+		},
+		"41": {
+			"_535": "Hallen-Kreisturnier",
+			"_1068": "Hallen-Vereinsturnier"
+		},
+		"42": {
+			"_533": "Hallen-Landesturnier",
+			"_535": "Hallen-Kreisturnier"
+		},
+		"43": {
+			"_533": "Hallen-Landesturnier",
+			"_535": "Hallen-Kreisturnier"
+		},
+		"44": {
+			"_533": "Hallen-Landesturnier",
+			"_535": "Hallen-Kreisturnier"
+		},
+		"45": {
+			"_535": "Hallen-Kreisturnier",
+			"_1068": "Hallen-Vereinsturnier"
+		},
+		"46": {
+			"_535": "Hallen-Kreisturnier",
+			"_1068": "Hallen-Vereinsturnier"
+		},
+		"47": {
+			"_535": "Hallen-Kreisturnier"
+		},
+		"49": {
+			"_533": "Hallen-Landesturnier",
+			"_535": "Hallen-Kreisturnier"
+		},
+		"50": {
+			"_533": "Hallen-Landesturnier",
+			"_535": "Hallen-Kreisturnier"
+		},
+		"51": {
+			"_535": "Hallen-Kreisturnier"
+		},
+		"52": {
+			"_535": "Hallen-Kreisturnier"
+		},
+		"53": {
+			"_535": "Hallen-Kreisturnier"
+		},
+		"1140": {
+			"_535": "Hallen-Kreisturnier"
+		}
+	},
+	"Gebiet": {
+		"39": {
+			"535": {
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn"
+			}
+		},
+		"40": {
+			"535": {
+				"_00ES8GMVUO000003VV0AG08LVUPGND5I": "Kreis Bielefeld",
+				"_00ES8GMVUO000002VV0AG08LVUPGND5I": "Kreis Bochum",
+				"_00ES8GMVTG000002VV0AG08LVUPGND5I": "Kreis Lippstadt",
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn",
+				"_00ES8GMVKO000005VV0AG08LVUPGND5I": "Kreis Soest"
+			}
+		},
+		"41": {
+			"535": {
+				"_00ES8GMVUO000003VV0AG08LVUPGND5I": "Kreis Bielefeld",
+				"_00ES8GMVUO000002VV0AG08LVUPGND5I": "Kreis Bochum",
+				"_00ES8GMVTG000004VV0AG08LVUPGND5I": "Kreis Iserlohn"
+			},
+			"1068": {
+				"_00ES8GMVUO000003VV0AG08LVUPGND5I": "Kreis Bielefeld",
+				"_00ES8GMVTG000004VV0AG08LVUPGND5I": "Kreis Iserlohn",
+				"_00ES8GMVTG000001VV0AG08LVUPGND5I": "Kreis Lübbecke",
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn"
+			}
+		},
+		"42": {
+			"533": {
+				"_0123456789ABCDEF0123456700004130": "Westfalen"
+			},
+			"535": {
+				"_00ES8GMVUO000002VV0AG08LVUPGND5I": "Kreis Bochum",
+				"_00ES8GMVKO000000VV0AG08LVUPGND5I": "Kreis Gütersloh",
+				"_01H67CHDSG000000VTVG0001VURV9JCL": "Kreis Hochsauerlandkreis",
+				"_00ES8GMVTG000001VV0AG08LVUPGND5I": "Kreis Lübbecke",
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn"
+			}
+		},
+		"43": {
+			"533": {
+				"_0123456789ABCDEF0123456700004130": "Westfalen"
+			},
+			"535": {
+				"_00ES8GMVKO000000VV0AG08LVUPGND5I": "Kreis Gütersloh",
+				"_01H67CHDSG000000VTVG0001VURV9JCL": "Kreis Hochsauerlandkreis",
+				"_00ES8GMVTG000001VV0AG08LVUPGND5I": "Kreis Lübbecke",
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn"
+			}
+		},
+		"44": {
+			"533": {
+				"_0123456789ABCDEF0123456700004130": "Westfalen"
+			},
+			"535": {
+				"_00ES8GMVKO000000VV0AG08LVUPGND5I": "Kreis Gütersloh",
+				"_01H67CHDSG000000VTVG0001VURV9JCL": "Kreis Hochsauerlandkreis",
+				"_00ES8GMVTG000001VV0AG08LVUPGND5I": "Kreis Lübbecke",
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn"
+			}
+		},
+		"45": {
+			"535": {
+				"_00ES8GMVKO000000VV0AG08LVUPGND5I": "Kreis Gütersloh",
+				"_00ES8GMVTG000001VV0AG08LVUPGND5I": "Kreis Lübbecke",
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn",
+				"_00ES8GMVKO000006VV0AG08LVUPGND5I": "Kreis Siegen-Wittgenstein"
+			},
+			"1068": {
+				"_00ES8GMVTG000007VV0AG08LVUPGND5I": "Kreis Herford"
+			}
+		},
+		"46": {
+			"535": {
+				"_00ES8GMVKO000000VV0AG08LVUPGND5I": "Kreis Gütersloh",
+				"_00ES8GMVTG000007VV0AG08LVUPGND5I": "Kreis Herford",
+				"_00ES8GMVTG000001VV0AG08LVUPGND5I": "Kreis Lübbecke",
+				"_00ES8GMVKO000006VV0AG08LVUPGND5I": "Kreis Siegen-Wittgenstein",
+				"_00ES8GMVKO000005VV0AG08LVUPGND5I": "Kreis Soest"
+			},
+			"1068": {
+				"_00ES8GMVTG000007VV0AG08LVUPGND5I": "Kreis Herford"
+			}
+		},
+		"47": {
+			"535": {
+				"_00ES8GMVKO000000VV0AG08LVUPGND5I": "Kreis Gütersloh",
+				"_00ES8GMVTG000007VV0AG08LVUPGND5I": "Kreis Herford",
+				"_00ES8GMVTG000001VV0AG08LVUPGND5I": "Kreis Lübbecke"
+			}
+		},
+		"49": {
+			"533": {
+				"_0123456789ABCDEF0123456700004130": "Westfalen"
+			},
+			"535": {
+				"_00ES8GMVUO000003VV0AG08LVUPGND5I": "Kreis Bielefeld",
+				"_00ES8GMVUO000002VV0AG08LVUPGND5I": "Kreis Bochum",
+				"_00ES8GMVTG000004VV0AG08LVUPGND5I": "Kreis Iserlohn",
+				"_00ES8GMVTG000002VV0AG08LVUPGND5I": "Kreis Lippstadt",
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn"
+			}
+		},
+		"50": {
+			"533": {
+				"_0123456789ABCDEF0123456700004130": "Westfalen"
+			},
+			"535": {
+				"_00ES8GMVTG000001VV0AG08LVUPGND5I": "Kreis Lübbecke",
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn"
+			}
+		},
+		"51": {
+			"535": {
+				"_00ES8GMVTG000007VV0AG08LVUPGND5I": "Kreis Herford",
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn"
+			}
+		},
+		"52": {
+			"535": {
+				"_00ES8GMVTG000007VV0AG08LVUPGND5I": "Kreis Herford"
+			}
+		},
+		"53": {
+			"535": {
+				"_00ES8GMVTG000007VV0AG08LVUPGND5I": "Kreis Herford"
+			}
+		},
+		"1140": {
+			"535": {
+				"_01H67CHES0000000VTVG0001VURV9JCL": "Kreis Paderborn"
+			}
+		}
+	}
+}

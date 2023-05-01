@@ -1,0 +1,199 @@
+{
+	"Mannschaftsart": {
+		"_110": "Alt-Senioren",
+		"_111": "Altherren",
+		"_112": "Herren",
+		"_113": "A-Junioren",
+		"_114": "B-Junioren",
+		"_115": "C-Junioren",
+		"_116": "D-Junioren",
+		"_117": "E-Junioren",
+		"_118": "F-Junioren",
+		"_120": "Frauen",
+		"_121": "B-Juniorinnen",
+		"_122": "C-Juniorinnen",
+		"_123": "D-Juniorinnen"
+	},
+	"Spielklasse": {
+		"110": {
+			"_250": "Kreispokal"
+		},
+		"111": {
+			"_250": "Kreispokal"
+		},
+		"112": {
+			"_246": "Brandenburg-Pokal",
+			"_250": "Kreispokal"
+		},
+		"113": {
+			"_246": "Brandenburg-Pokal",
+			"_250": "Kreispokal"
+		},
+		"114": {
+			"_246": "Brandenburg-Pokal",
+			"_250": "Kreispokal"
+		},
+		"115": {
+			"_246": "Brandenburg-Pokal",
+			"_250": "Kreispokal"
+		},
+		"116": {
+			"_250": "Kreispokal"
+		},
+		"117": {
+			"_250": "Kreispokal"
+		},
+		"118": {
+			"_250": "Kreispokal"
+		},
+		"120": {
+			"_246": "Brandenburg-Pokal",
+			"_250": "Kreispokal"
+		},
+		"121": {
+			"_246": "Brandenburg-Pokal"
+		},
+		"122": {
+			"_246": "Brandenburg-Pokal"
+		},
+		"123": {
+			"_246": "Brandenburg-Pokal"
+		}
+	},
+	"Gebiet": {
+		"110": {
+			"250": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"111": {
+			"250": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"112": {
+			"246": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"250": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"113": {
+			"246": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"250": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"114": {
+			"246": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"250": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg"
+			}
+		},
+		"115": {
+			"246": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"250": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"116": {
+			"250": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"117": {
+			"250": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"118": {
+			"250": {
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg"
+			}
+		},
+		"120": {
+			"246": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"250": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"121": {
+			"246": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			}
+		},
+		"122": {
+			"246": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			}
+		},
+		"123": {
+			"246": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			}
+		}
+	}
+}

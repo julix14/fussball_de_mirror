@@ -1,0 +1,30 @@
+{
+	"Mannschaftsart": {
+		"_1": "Herren",
+		"_4": "Frauen"
+	},
+	"Spielklasse": {
+		"1": {
+			"_59": "Futsal Meisterschaft",
+			"_60": "Futsal Regionalliga"
+		},
+		"4": {
+			"_60": "Futsal Regionalliga"
+		}
+	},
+	"Gebiet": {
+		"1": {
+			"59": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			},
+			"60": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		},
+		"4": {
+			"60": {
+				"_0123456789ABCDEF0123456700004010": "Deutschland"
+			}
+		}
+	}
+}

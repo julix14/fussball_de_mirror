@@ -1,0 +1,257 @@
+{
+	"Mannschaftsart": {
+		"_110": "Alt-Senioren",
+		"_111": "Altherren",
+		"_112": "Herren",
+		"_113": "A-Junioren",
+		"_114": "B-Junioren",
+		"_115": "C-Junioren",
+		"_116": "D-Junioren",
+		"_117": "E-Junioren",
+		"_118": "F-Junioren",
+		"_119": "G-Junioren",
+		"_120": "Frauen",
+		"_121": "B-Juniorinnen",
+		"_122": "C-Juniorinnen",
+		"_123": "D-Juniorinnen",
+		"_813": "E-Juniorinnen",
+		"_819": "F-Juniorinnen"
+	},
+	"Spielklasse": {
+		"110": {
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"111": {
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"112": {
+			"_758": "Landesfreundschaftsspiele",
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"113": {
+			"_758": "Landesfreundschaftsspiele",
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"114": {
+			"_758": "Landesfreundschaftsspiele",
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"115": {
+			"_758": "Landesfreundschaftsspiele",
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"116": {
+			"_758": "Landesfreundschaftsspiele",
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"117": {
+			"_758": "Landesfreundschaftsspiele",
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"118": {
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"119": {
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"120": {
+			"_758": "Landesfreundschaftsspiele",
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"121": {
+			"_758": "Landesfreundschaftsspiele"
+		},
+		"122": {
+			"_758": "Landesfreundschaftsspiele",
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"123": {
+			"_758": "Landesfreundschaftsspiele"
+		},
+		"813": {
+			"_759": "Kreisfreundschaftsspiele"
+		},
+		"819": {
+			"_759": "Kreisfreundschaftsspiele"
+		}
+	},
+	"Gebiet": {
+		"110": {
+			"759": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg"
+			}
+		},
+		"111": {
+			"759": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"112": {
+			"758": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"759": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"113": {
+			"758": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"759": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"114": {
+			"758": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"759": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"115": {
+			"758": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"759": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"116": {
+			"758": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"759": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"117": {
+			"758": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"759": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"118": {
+			"759": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"119": {
+			"759": {
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"120": {
+			"758": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"759": {
+				"_01KVSKB568000000VTVG0001VTS8P479": "Kreis Dahme/Fläming",
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9I0000000VTVG0001VTS8P479": "Kreis Niederlausitz",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim",
+				"_01KVSKBA0S000000VTVG0001VTS8P479": "Kreis Ostbrandenburg",
+				"_01KVSKBA50000000VTVG0001VTS8P479": "Kreis Prignitz/Ruppin",
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg",
+				"_01KVSKBABS000000VTVG0001VTS8P479": "Kreis Uckermark"
+			}
+		},
+		"121": {
+			"758": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			}
+		},
+		"122": {
+			"758": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			},
+			"759": {
+				"_01KVSKBA88000000VTVG0001VTS8P479": "Kreis Südbrandenburg"
+			}
+		},
+		"123": {
+			"758": {
+				"_0123456789ABCDEF0123456700004250": "Brandenburg"
+			}
+		},
+		"813": {
+			"759": {
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland",
+				"_01KVSKB9Q0000000VTVG0001VTS8P479": "Kreis Oberhavel/Barnim"
+			}
+		},
+		"819": {
+			"759": {
+				"_01KVSKB9F4000000VTVG0001VTS8P479": "Kreis Havelland"
+			}
+		}
+	}
+}

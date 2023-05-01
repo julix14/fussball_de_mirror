@@ -1,0 +1,274 @@
+{
+	"Mannschaftsart": {
+		"_381": "Altliga Ü 60",
+		"_23": "Altliga Ü 50",
+		"_25": "Altliga Ü 40",
+		"_26": "Senioren Ü 32",
+		"_27": "Herren",
+		"_995": "Altliga Ü 50-Freizeit/Betrieb",
+		"_996": "Altliga Ü 40-Freizeit/Betrieb",
+		"_997": "Senioren Ü 32-Freizeit/Betrieb",
+		"_998": "Herren - Freizeit/Betrieb",
+		"_28": "A-Junioren",
+		"_29": "B-Junioren",
+		"_30": "C-Junioren",
+		"_31": "D-Junioren",
+		"_32": "E-Junioren",
+		"_33": "F-Junioren",
+		"_385": "G-Junioren",
+		"_34": "Frauen",
+		"_418": "A-Juniorinnen",
+		"_35": "B-Juniorinnen",
+		"_36": "C-Juniorinnen",
+		"_37": "D-Juniorinnen",
+		"_380": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"23": {
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"25": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele",
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"26": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele",
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"27": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele",
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"28": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele"
+		},
+		"29": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele",
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"30": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele",
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"31": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele",
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"32": {
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"33": {
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"34": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele"
+		},
+		"35": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele"
+		},
+		"36": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele"
+		},
+		"37": {
+			"_742": "Landesfreundschaftsspiele",
+			"_743": "Bezirksfreundschaftsspiele"
+		},
+		"380": {
+			"_743": "Bezirksfreundschaftsspiele"
+		},
+		"381": {
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"385": {
+			"_744": "Kreisfreundschaftsspiele"
+		},
+		"418": {
+			"_743": "Bezirksfreundschaftsspiele"
+		},
+		"995": {
+			"_1018": "Landes-FS Freizeit/Betrieb"
+		},
+		"996": {
+			"_1018": "Landes-FS Freizeit/Betrieb"
+		},
+		"997": {
+			"_1018": "Landes-FS Freizeit/Betrieb"
+		},
+		"998": {
+			"_1018": "Landes-FS Freizeit/Betrieb"
+		}
+	},
+	"Gebiet": {
+		"23": {
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"25": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"26": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"27": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"28": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"29": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"30": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"31": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"32": {
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"33": {
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"34": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"35": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"36": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"37": {
+			"742": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"380": {
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"381": {
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"385": {
+			"744": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"418": {
+			"743": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"995": {
+			"1018": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"996": {
+			"1018": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"997": {
+			"1018": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"998": {
+			"1018": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		}
+	}
+}

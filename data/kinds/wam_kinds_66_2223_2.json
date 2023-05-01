@@ -1,0 +1,57 @@
+{
+	"Mannschaftsart": {
+		"_28": "A-Junioren",
+		"_29": "B-Junioren",
+		"_30": "C-Junioren",
+		"_31": "D-Junioren",
+		"_32": "E-Junioren"
+	},
+	"Spielklasse": {
+		"28": {
+			"_578": "Hallen-Landesturnier"
+		},
+		"29": {
+			"_578": "Hallen-Landesturnier"
+		},
+		"30": {
+			"_578": "Hallen-Landesturnier"
+		},
+		"31": {
+			"_578": "Hallen-Landesturnier",
+			"_1023": "Hallen-Vereinsturnier"
+		},
+		"32": {
+			"_1023": "Hallen-Vereinsturnier"
+		}
+	},
+	"Gebiet": {
+		"28": {
+			"578": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"29": {
+			"578": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"30": {
+			"578": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"31": {
+			"578": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"1023": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"32": {
+			"1023": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		}
+	}
+}

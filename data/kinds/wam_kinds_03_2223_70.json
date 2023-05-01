@@ -1,0 +1,214 @@
+{
+	"Mannschaftsart": {
+		"_302": "Super-Senioren",
+		"_303": "Senioren",
+		"_304": "Alte Herren",
+		"_305": "Herren",
+		"_307": "A-Junioren",
+		"_308": "B-Junioren",
+		"_309": "C-Junioren",
+		"_310": "D-Junioren",
+		"_311": "E-Junioren",
+		"_312": "F-Junioren",
+		"_313": "G-Junioren",
+		"_314": "Frauen",
+		"_315": "B-Juniorinnen",
+		"_316": "C-Juniorinnen",
+		"_317": "D-Juniorinnen",
+		"_318": "E-Juniorinnen",
+		"_746": "F-Juniorinnen",
+		"_319": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"302": {
+			"_803": "Landesfreundschaftsspiele",
+			"_804": "Bezirksfreundschaftsspiele",
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"303": {
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"304": {
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"305": {
+			"_803": "Landesfreundschaftsspiele",
+			"_804": "Bezirksfreundschaftsspiele",
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"307": {
+			"_803": "Landesfreundschaftsspiele",
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"308": {
+			"_803": "Landesfreundschaftsspiele",
+			"_804": "Bezirksfreundschaftsspiele",
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"309": {
+			"_803": "Landesfreundschaftsspiele",
+			"_804": "Bezirksfreundschaftsspiele",
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"310": {
+			"_804": "Bezirksfreundschaftsspiele",
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"311": {
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"312": {
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"313": {
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"314": {
+			"_803": "Landesfreundschaftsspiele",
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"315": {
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"316": {
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"317": {
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"318": {
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"319": {
+			"_805": "Kreisfreundschaftsspiele"
+		},
+		"746": {
+			"_805": "Kreisfreundschaftsspiele"
+		}
+	},
+	"Gebiet": {
+		"302": {
+			"803": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"804": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"303": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"304": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"305": {
+			"803": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"804": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"307": {
+			"803": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"308": {
+			"803": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"804": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"309": {
+			"803": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"804": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"310": {
+			"804": {
+				"_00GQ4CSN9C000000VTVG0001VS1O0TGP": "Bezirksebene Hamburg"
+			},
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"311": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"312": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"313": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"314": {
+			"803": {
+				"_0123456789ABCDEF0123456700004080": "Hamburg"
+			},
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"315": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"316": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"317": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"318": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"319": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		},
+		"746": {
+			"805": {
+				"_00GQ4CSO4K000000VTVG0001VS1O0TGP": "Kreisebene Hamburg"
+			}
+		}
+	}
+}

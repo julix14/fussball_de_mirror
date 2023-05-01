@@ -1,0 +1,323 @@
+{
+	"Mannschaftsart": {
+		"_280": "Alte Herren",
+		"_281": "Herren",
+		"_283": "A-Junioren",
+		"_284": "B-Junioren",
+		"_285": "C-Junioren",
+		"_286": "D-Junioren",
+		"_287": "E-Junioren",
+		"_288": "F-Junioren",
+		"_289": "G-Junioren",
+		"_291": "Frauen",
+		"_292": "B-Juniorinnen",
+		"_293": "C-Juniorinnen",
+		"_294": "D-Juniorinnen",
+		"_374": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"280": {
+			"_552": "Hallen-Kreisturnier"
+		},
+		"281": {
+			"_552": "Hallen-Kreisturnier",
+			"_1050": "Hallen-Vereinsturnier"
+		},
+		"283": {
+			"_550": "Hallen-Landesturnier",
+			"_551": "Hallen-Regionalturnier",
+			"_552": "Hallen-Kreisturnier"
+		},
+		"284": {
+			"_550": "Hallen-Landesturnier",
+			"_551": "Hallen-Regionalturnier",
+			"_552": "Hallen-Kreisturnier"
+		},
+		"285": {
+			"_550": "Hallen-Landesturnier",
+			"_551": "Hallen-Regionalturnier",
+			"_552": "Hallen-Kreisturnier"
+		},
+		"286": {
+			"_550": "Hallen-Landesturnier",
+			"_551": "Hallen-Regionalturnier",
+			"_552": "Hallen-Kreisturnier",
+			"_1050": "Hallen-Vereinsturnier"
+		},
+		"287": {
+			"_551": "Hallen-Regionalturnier",
+			"_552": "Hallen-Kreisturnier",
+			"_1050": "Hallen-Vereinsturnier"
+		},
+		"288": {
+			"_552": "Hallen-Kreisturnier"
+		},
+		"289": {
+			"_552": "Hallen-Kreisturnier"
+		},
+		"291": {
+			"_550": "Hallen-Landesturnier",
+			"_552": "Hallen-Kreisturnier"
+		},
+		"292": {
+			"_550": "Hallen-Landesturnier",
+			"_551": "Hallen-Regionalturnier",
+			"_552": "Hallen-Kreisturnier"
+		},
+		"293": {
+			"_550": "Hallen-Landesturnier",
+			"_551": "Hallen-Regionalturnier",
+			"_552": "Hallen-Kreisturnier"
+		},
+		"294": {
+			"_551": "Hallen-Regionalturnier",
+			"_552": "Hallen-Kreisturnier"
+		},
+		"374": {
+			"_551": "Hallen-Regionalturnier"
+		}
+	},
+	"Gebiet": {
+		"280": {
+			"552": {
+				"_00ES8GN0F0000003VV0AG08LVUPGND5I": "Kreis Alsfeld",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000007VV0AG08LVUPGND5I": "Kreis Hersfeld-Rotenburg",
+				"_00ES8GN0DO000009VV0AG08LVUPGND5I": "Kreis Schlüchtern"
+			}
+		},
+		"281": {
+			"552": {
+				"_00ES8GN0F0000003VV0AG08LVUPGND5I": "Kreis Alsfeld",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000001VV0AG08LVUPGND5I": "Kreis Hanau",
+				"_00ES8GN0DO000007VV0AG08LVUPGND5I": "Kreis Hersfeld-Rotenburg",
+				"_00ES8GN0F0000004VV0AG08LVUPGND5I": "Kreis Marburg",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus",
+				"_00ES8GN0DO000009VV0AG08LVUPGND5I": "Kreis Schlüchtern",
+				"_00ES8GN0A0000008VV0AG08LVUPGND5I": "Kreis Wiesbaden"
+			},
+			"1050": {
+				"_00ES8GN0F0000000VV0AG08LVUPGND5I": "Kreis Dillenburg"
+			}
+		},
+		"283": {
+			"550": {
+				"_0123456789ABCDEF0123456700004170": "Hessen"
+			},
+			"551": {
+				"_00ES8GN0A0000002VV0AG08LVUPGND5I": "Region Frankfurt",
+				"_00ES8GN0A0000003VV0AG08LVUPGND5I": "Region Fulda",
+				"_00ES8GN0A0000004VV0AG08LVUPGND5I": "Region Gießen / Marburg",
+				"_00ES8GN0A0000000VV0AG08LVUPGND5I": "Region Wiesbaden"
+			},
+			"552": {
+				"_00ES8GN0F0000003VV0AG08LVUPGND5I": "Kreis Alsfeld",
+				"_00ES8GN0DO00000CVV0AG08LVUPGND5I": "Kreis Biedenkopf",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000004VV0AG08LVUPGND5I": "Kreis Friedberg",
+				"_00ES8GN0DO00000AVV0AG08LVUPGND5I": "Kreis Fulda",
+				"_00ES8GN0F0000002VV0AG08LVUPGND5I": "Kreis Gießen",
+				"_00ES8GN0DO000001VV0AG08LVUPGND5I": "Kreis Hanau",
+				"_00ES8GN0DO000007VV0AG08LVUPGND5I": "Kreis Hersfeld-Rotenburg",
+				"_00ES8GN0DO000008VV0AG08LVUPGND5I": "Kreis Lauterbach-Hünfeld",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus",
+				"_00ES8GN0DO000009VV0AG08LVUPGND5I": "Kreis Schlüchtern",
+				"_00ES8GN0G8000006VV0AG08LVUPGND5I": "Kreis Werra/Meißner",
+				"_00ES8GN0F0000001VV0AG08LVUPGND5I": "Kreis Wetzlar"
+			}
+		},
+		"284": {
+			"550": {
+				"_0123456789ABCDEF0123456700004170": "Hessen"
+			},
+			"551": {
+				"_00ES8GN0A0000002VV0AG08LVUPGND5I": "Region Frankfurt",
+				"_00ES8GN0A0000003VV0AG08LVUPGND5I": "Region Fulda",
+				"_00ES8GN0A0000004VV0AG08LVUPGND5I": "Region Gießen / Marburg",
+				"_00ES8GN0A0000000VV0AG08LVUPGND5I": "Region Wiesbaden"
+			},
+			"552": {
+				"_00ES8GN0F0000003VV0AG08LVUPGND5I": "Kreis Alsfeld",
+				"_00ES8GN0DO00000CVV0AG08LVUPGND5I": "Kreis Biedenkopf",
+				"_00ES8GN0DO000003VV0AG08LVUPGND5I": "Kreis Büdingen",
+				"_00ES8GN0F0000000VV0AG08LVUPGND5I": "Kreis Dillenburg",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000004VV0AG08LVUPGND5I": "Kreis Friedberg",
+				"_00ES8GN0DO00000AVV0AG08LVUPGND5I": "Kreis Fulda",
+				"_00ES8GN0F0000002VV0AG08LVUPGND5I": "Kreis Gießen",
+				"_00ES8GN0DO000001VV0AG08LVUPGND5I": "Kreis Hanau",
+				"_00ES8GN0DO000007VV0AG08LVUPGND5I": "Kreis Hersfeld-Rotenburg",
+				"_00ES8GN0DO000008VV0AG08LVUPGND5I": "Kreis Lauterbach-Hünfeld",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus",
+				"_00ES8GN0DO000009VV0AG08LVUPGND5I": "Kreis Schlüchtern",
+				"_00ES8GN0G8000006VV0AG08LVUPGND5I": "Kreis Werra/Meißner",
+				"_00ES8GN0F0000001VV0AG08LVUPGND5I": "Kreis Wetzlar"
+			}
+		},
+		"285": {
+			"550": {
+				"_0123456789ABCDEF0123456700004170": "Hessen"
+			},
+			"551": {
+				"_00ES8GN0A0000002VV0AG08LVUPGND5I": "Region Frankfurt",
+				"_00ES8GN0A0000003VV0AG08LVUPGND5I": "Region Fulda",
+				"_00ES8GN0A0000004VV0AG08LVUPGND5I": "Region Gießen / Marburg",
+				"_00ES8GN0A0000000VV0AG08LVUPGND5I": "Region Wiesbaden"
+			},
+			"552": {
+				"_00ES8GN0F0000003VV0AG08LVUPGND5I": "Kreis Alsfeld",
+				"_00ES8GN0DO00000CVV0AG08LVUPGND5I": "Kreis Biedenkopf",
+				"_00ES8GN0DO000003VV0AG08LVUPGND5I": "Kreis Büdingen",
+				"_00ES8GN0F0000000VV0AG08LVUPGND5I": "Kreis Dillenburg",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000004VV0AG08LVUPGND5I": "Kreis Friedberg",
+				"_00ES8GN0DO00000AVV0AG08LVUPGND5I": "Kreis Fulda",
+				"_00ES8GN0F0000002VV0AG08LVUPGND5I": "Kreis Gießen",
+				"_00ES8GN0DO000001VV0AG08LVUPGND5I": "Kreis Hanau",
+				"_00ES8GN0DO000007VV0AG08LVUPGND5I": "Kreis Hersfeld-Rotenburg",
+				"_00ES8GN0DO000008VV0AG08LVUPGND5I": "Kreis Lauterbach-Hünfeld",
+				"_00ES8GN0F0000004VV0AG08LVUPGND5I": "Kreis Marburg",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus",
+				"_00ES8GN0DO000009VV0AG08LVUPGND5I": "Kreis Schlüchtern",
+				"_00ES8GN0G8000006VV0AG08LVUPGND5I": "Kreis Werra/Meißner",
+				"_00ES8GN0F0000001VV0AG08LVUPGND5I": "Kreis Wetzlar"
+			}
+		},
+		"286": {
+			"550": {
+				"_0123456789ABCDEF0123456700004170": "Hessen"
+			},
+			"551": {
+				"_00ES8GN0A0000002VV0AG08LVUPGND5I": "Region Frankfurt",
+				"_00ES8GN0A0000003VV0AG08LVUPGND5I": "Region Fulda",
+				"_00ES8GN0A0000004VV0AG08LVUPGND5I": "Region Gießen / Marburg",
+				"_00ES8GN0A0000000VV0AG08LVUPGND5I": "Region Wiesbaden"
+			},
+			"552": {
+				"_00ES8GN0F0000003VV0AG08LVUPGND5I": "Kreis Alsfeld",
+				"_00ES8GN0DO00000CVV0AG08LVUPGND5I": "Kreis Biedenkopf",
+				"_00ES8GN0DO000003VV0AG08LVUPGND5I": "Kreis Büdingen",
+				"_00ES8GN0F0000000VV0AG08LVUPGND5I": "Kreis Dillenburg",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000004VV0AG08LVUPGND5I": "Kreis Friedberg",
+				"_00ES8GN0DO00000AVV0AG08LVUPGND5I": "Kreis Fulda",
+				"_00ES8GN0F0000002VV0AG08LVUPGND5I": "Kreis Gießen",
+				"_00ES8GN0DO000001VV0AG08LVUPGND5I": "Kreis Hanau",
+				"_00ES8GN0DO000007VV0AG08LVUPGND5I": "Kreis Hersfeld-Rotenburg",
+				"_00ES8GN0DO000008VV0AG08LVUPGND5I": "Kreis Lauterbach-Hünfeld",
+				"_00ES8GN0F0000004VV0AG08LVUPGND5I": "Kreis Marburg",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus",
+				"_00ES8GN0DO000009VV0AG08LVUPGND5I": "Kreis Schlüchtern",
+				"_00ES8GN0G8000006VV0AG08LVUPGND5I": "Kreis Werra/Meißner",
+				"_00ES8GN0F0000001VV0AG08LVUPGND5I": "Kreis Wetzlar"
+			},
+			"1050": {
+				"_00ES8GN0F0000000VV0AG08LVUPGND5I": "Kreis Dillenburg"
+			}
+		},
+		"287": {
+			"551": {
+				"_00ES8GN0A0000002VV0AG08LVUPGND5I": "Region Frankfurt",
+				"_00ES8GN0A0000003VV0AG08LVUPGND5I": "Region Fulda",
+				"_00ES8GN0A0000004VV0AG08LVUPGND5I": "Region Gießen / Marburg"
+			},
+			"552": {
+				"_00ES8GN0F0000003VV0AG08LVUPGND5I": "Kreis Alsfeld",
+				"_00ES8GN0DO00000CVV0AG08LVUPGND5I": "Kreis Biedenkopf",
+				"_00ES8GN0DO000003VV0AG08LVUPGND5I": "Kreis Büdingen",
+				"_00ES8GN0F0000000VV0AG08LVUPGND5I": "Kreis Dillenburg",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000004VV0AG08LVUPGND5I": "Kreis Friedberg",
+				"_00ES8GN0DO00000AVV0AG08LVUPGND5I": "Kreis Fulda",
+				"_00ES8GN0F0000002VV0AG08LVUPGND5I": "Kreis Gießen",
+				"_00ES8GN0DO000001VV0AG08LVUPGND5I": "Kreis Hanau",
+				"_00ES8GN0DO000007VV0AG08LVUPGND5I": "Kreis Hersfeld-Rotenburg",
+				"_00ES8GN0G8000007VV0AG08LVUPGND5I": "Kreis Kassel",
+				"_00ES8GN0DO000008VV0AG08LVUPGND5I": "Kreis Lauterbach-Hünfeld",
+				"_00ES8GN0F0000004VV0AG08LVUPGND5I": "Kreis Marburg",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus",
+				"_00ES8GN0DO000009VV0AG08LVUPGND5I": "Kreis Schlüchtern",
+				"_00ES8GN0G8000006VV0AG08LVUPGND5I": "Kreis Werra/Meißner",
+				"_00ES8GN0F0000001VV0AG08LVUPGND5I": "Kreis Wetzlar"
+			},
+			"1050": {
+				"_00ES8GN0F0000000VV0AG08LVUPGND5I": "Kreis Dillenburg"
+			}
+		},
+		"288": {
+			"552": {
+				"_00ES8GN0DO00000CVV0AG08LVUPGND5I": "Kreis Biedenkopf",
+				"_00ES8GN0DO000003VV0AG08LVUPGND5I": "Kreis Büdingen",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000004VV0AG08LVUPGND5I": "Kreis Friedberg",
+				"_00ES8GN0F0000002VV0AG08LVUPGND5I": "Kreis Gießen",
+				"_00ES8GN0DO000001VV0AG08LVUPGND5I": "Kreis Hanau",
+				"_00ES8GN0G8000007VV0AG08LVUPGND5I": "Kreis Kassel",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus",
+				"_00ES8GN0DO000009VV0AG08LVUPGND5I": "Kreis Schlüchtern",
+				"_00ES8GN0G8000006VV0AG08LVUPGND5I": "Kreis Werra/Meißner"
+			}
+		},
+		"289": {
+			"552": {
+				"_00ES8GN0DO00000CVV0AG08LVUPGND5I": "Kreis Biedenkopf",
+				"_00ES8GN0DO000003VV0AG08LVUPGND5I": "Kreis Büdingen",
+				"_00ES8GN0DO00000BVV0AG08LVUPGND5I": "Kreis Frankenberg",
+				"_00ES8GN0DO000004VV0AG08LVUPGND5I": "Kreis Friedberg",
+				"_00ES8GN0F0000002VV0AG08LVUPGND5I": "Kreis Gießen",
+				"_00ES8GN0DO000001VV0AG08LVUPGND5I": "Kreis Hanau",
+				"_00ES8GN0G8000007VV0AG08LVUPGND5I": "Kreis Kassel",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus",
+				"_00ES8GN0G8000006VV0AG08LVUPGND5I": "Kreis Werra/Meißner"
+			}
+		},
+		"291": {
+			"550": {
+				"_0123456789ABCDEF0123456700004170": "Hessen"
+			},
+			"552": {
+				"_00ES8GN0DO000007VV0AG08LVUPGND5I": "Kreis Hersfeld-Rotenburg",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus"
+			}
+		},
+		"292": {
+			"550": {
+				"_0123456789ABCDEF0123456700004170": "Hessen"
+			},
+			"551": {
+				"_00ES8GN0A0000004VV0AG08LVUPGND5I": "Region Gießen / Marburg",
+				"_00ES8GN0A0000000VV0AG08LVUPGND5I": "Region Wiesbaden"
+			},
+			"552": {
+				"_00ES8GN0DO000007VV0AG08LVUPGND5I": "Kreis Hersfeld-Rotenburg",
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus"
+			}
+		},
+		"293": {
+			"550": {
+				"_0123456789ABCDEF0123456700004170": "Hessen"
+			},
+			"551": {
+				"_00ES8GN0A0000004VV0AG08LVUPGND5I": "Region Gießen / Marburg",
+				"_00ES8GN0A0000000VV0AG08LVUPGND5I": "Region Wiesbaden"
+			},
+			"552": {
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus"
+			}
+		},
+		"294": {
+			"551": {
+				"_00ES8GN0A0000004VV0AG08LVUPGND5I": "Region Gießen / Marburg"
+			},
+			"552": {
+				"_00ES8GN0A0000007VV0AG08LVUPGND5I": "Kreis Rheingau-Taunus"
+			}
+		},
+		"374": {
+			"551": {
+				"_00ES8GN0A0000004VV0AG08LVUPGND5I": "Region Gießen / Marburg"
+			}
+		}
+	}
+}

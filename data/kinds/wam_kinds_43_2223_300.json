@@ -1,0 +1,246 @@
+{
+	"Mannschaftsart": {
+		"_744": "Altherren-C Ü50",
+		"_156": "Altherren-B Ü40",
+		"_157": "Altherren-A Ü32",
+		"_158": "Herren",
+		"_159": "A-Junioren",
+		"_160": "B-Junioren",
+		"_161": "C-Junioren",
+		"_162": "D-Junioren",
+		"_163": "E-Junioren",
+		"_164": "F-Junioren",
+		"_165": "G-Junioren",
+		"_166": "Frauen",
+		"_167": "B-Juniorinnen",
+		"_168": "C-Juniorinnen",
+		"_169": "D-Juniorinnen"
+	},
+	"Spielklasse": {
+		"156": {
+			"_974": "Landesturnier",
+			"_976": "Kreisturnier"
+		},
+		"157": {
+			"_976": "Kreisturnier",
+			"_1039": "Vereinsturnier"
+		},
+		"158": {
+			"_974": "Landesturnier",
+			"_975": "Bezirksturnier",
+			"_976": "Kreisturnier",
+			"_1039": "Vereinsturnier"
+		},
+		"159": {
+			"_974": "Landesturnier",
+			"_976": "Kreisturnier",
+			"_1039": "Vereinsturnier"
+		},
+		"160": {
+			"_974": "Landesturnier",
+			"_976": "Kreisturnier",
+			"_1039": "Vereinsturnier"
+		},
+		"161": {
+			"_974": "Landesturnier",
+			"_976": "Kreisturnier",
+			"_1039": "Vereinsturnier"
+		},
+		"162": {
+			"_974": "Landesturnier",
+			"_976": "Kreisturnier",
+			"_1039": "Vereinsturnier"
+		},
+		"163": {
+			"_974": "Landesturnier",
+			"_976": "Kreisturnier",
+			"_1039": "Vereinsturnier"
+		},
+		"164": {
+			"_976": "Kreisturnier",
+			"_1039": "Vereinsturnier"
+		},
+		"165": {
+			"_976": "Kreisturnier",
+			"_1039": "Vereinsturnier"
+		},
+		"166": {
+			"_974": "Landesturnier",
+			"_976": "Kreisturnier"
+		},
+		"167": {
+			"_974": "Landesturnier"
+		},
+		"168": {
+			"_974": "Landesturnier"
+		},
+		"169": {
+			"_974": "Landesturnier",
+			"_976": "Kreisturnier"
+		},
+		"744": {
+			"_974": "Landesturnier",
+			"_1039": "Vereinsturnier"
+		}
+	},
+	"Gebiet": {
+		"156": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"976": {
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar"
+			}
+		},
+		"157": {
+			"976": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar"
+			},
+			"1039": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"158": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"975": {
+				"_00GQ4EOC10000000VTVG0001VS1O0TGP": "Bezirk Saarland"
+			},
+			"976": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			},
+			"1039": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"159": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"976": {
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar"
+			},
+			"1039": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar"
+			}
+		},
+		"160": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"976": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar"
+			},
+			"1039": {
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"161": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"976": {
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar"
+			},
+			"1039": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"162": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"976": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar"
+			},
+			"1039": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"163": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"976": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			},
+			"1039": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar",
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"164": {
+			"976": {
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar"
+			},
+			"1039": {
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"165": {
+			"976": {
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar"
+			},
+			"1039": {
+				"_00ES8GN0L8000004VV0AG08LVUPGND5I": "Kreis Westsaar"
+			}
+		},
+		"166": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"976": {
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar",
+				"_00ES8GN0L8000005VV0AG08LVUPGND5I": "Kreis Südsaar"
+			}
+		},
+		"167": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			}
+		},
+		"168": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			}
+		},
+		"169": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"976": {
+				"_00ES8GN0L8000006VV0AG08LVUPGND5I": "Kreis Ostsaar"
+			}
+		},
+		"744": {
+			"974": {
+				"_0123456789ABCDEF0123456700004150": "Saarland"
+			},
+			"1039": {
+				"_00ES8GN0L8000007VV0AG08LVUPGND5I": "Kreis Nordsaar"
+			}
+		}
+	}
+}

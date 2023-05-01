@@ -1,0 +1,455 @@
+{
+	"Mannschaftsart": {
+		"_1147": "Altsenioren Ü50",
+		"_210": "Altsenioren Ü40",
+		"_211": "Altherren",
+		"_212": "Herren",
+		"_213": "A-Junioren",
+		"_214": "B-Junioren",
+		"_215": "C-Junioren",
+		"_216": "D-Junioren",
+		"_217": "E-Junioren",
+		"_218": "F-Junioren",
+		"_220": "Frauen",
+		"_221": "B-Juniorinnen",
+		"_222": "C-Juniorinnen",
+		"_223": "D-Juniorinnen",
+		"_226": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"210": {
+			"_273": "1.Kreisliga (A)"
+		},
+		"211": {
+			"_702": "Kreisoberliga",
+			"_273": "1.Kreisliga (A)",
+			"_277": "1.Kreisklasse",
+			"_278": "2.Kreisklasse",
+			"_279": "3.Kreisklasse"
+		},
+		"212": {
+			"_268": "Landesliga",
+			"_815": "Landesklasse",
+			"_702": "Kreisoberliga",
+			"_273": "1.Kreisliga (A)",
+			"_274": "2.Kreisliga (B)",
+			"_275": "3.Kreisliga (C)",
+			"_277": "1.Kreisklasse",
+			"_278": "2.Kreisklasse"
+		},
+		"213": {
+			"_268": "Landesliga",
+			"_815": "Landesklasse",
+			"_702": "Kreisoberliga",
+			"_273": "1.Kreisliga (A)"
+		},
+		"214": {
+			"_268": "Landesliga",
+			"_815": "Landesklasse",
+			"_702": "Kreisoberliga",
+			"_273": "1.Kreisliga (A)",
+			"_277": "1.Kreisklasse"
+		},
+		"215": {
+			"_268": "Landesliga",
+			"_815": "Landesklasse",
+			"_702": "Kreisoberliga",
+			"_273": "1.Kreisliga (A)",
+			"_274": "2.Kreisliga (B)",
+			"_277": "1.Kreisklasse"
+		},
+		"216": {
+			"_268": "Landesliga",
+			"_815": "Landesklasse",
+			"_702": "Kreisoberliga",
+			"_273": "1.Kreisliga (A)",
+			"_274": "2.Kreisliga (B)",
+			"_275": "3.Kreisliga (C)",
+			"_277": "1.Kreisklasse",
+			"_278": "2.Kreisklasse"
+		},
+		"217": {
+			"_702": "Kreisoberliga",
+			"_273": "1.Kreisliga (A)",
+			"_274": "2.Kreisliga (B)",
+			"_277": "1.Kreisklasse",
+			"_278": "2.Kreisklasse"
+		},
+		"218": {
+			"_702": "Kreisoberliga",
+			"_273": "1.Kreisliga (A)",
+			"_274": "2.Kreisliga (B)",
+			"_277": "1.Kreisklasse"
+		},
+		"220": {
+			"_268": "Landesliga",
+			"_815": "Landesklasse",
+			"_702": "Kreisoberliga",
+			"_273": "1.Kreisliga (A)",
+			"_277": "1.Kreisklasse"
+		},
+		"221": {
+			"_268": "Landesliga",
+			"_815": "Landesklasse"
+		},
+		"222": {
+			"_815": "Landesklasse"
+		},
+		"223": {
+			"_702": "Kreisoberliga"
+		},
+		"226": {
+			"_273": "1.Kreisliga (A)",
+			"_277": "1.Kreisklasse"
+		},
+		"1147": {
+			"_273": "1.Kreisliga (A)"
+		}
+	},
+	"Gebiet": {
+		"210": {
+			"273": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig"
+			}
+		},
+		"211": {
+			"273": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz"
+			},
+			"277": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden"
+			},
+			"278": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden"
+			},
+			"279": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden"
+			},
+			"702": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig"
+			}
+		},
+		"212": {
+			"268": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			},
+			"273": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQLK000000VTVG0001VS7OQRVF": "Kreis Muldental/Leipziger Land",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb.",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"274": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQLK000000VTVG0001VS7OQRVF": "Kreis Muldental/Leipziger Land",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb.",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland"
+			},
+			"275": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden"
+			},
+			"277": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb.",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"278": {
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"702": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQLK000000VTVG0001VS7OQRVF": "Kreis Muldental/Leipziger Land",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb.",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"815": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"213": {
+			"268": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			},
+			"273": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"702": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb."
+			},
+			"815": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"214": {
+			"268": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			},
+			"273": {
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQLK000000VTVG0001VS7OQRVF": "Kreis Muldental/Leipziger Land",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"277": {
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig"
+			},
+			"702": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb."
+			},
+			"815": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"215": {
+			"268": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			},
+			"273": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQLK000000VTVG0001VS7OQRVF": "Kreis Muldental/Leipziger Land",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"274": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden"
+			},
+			"277": {
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"702": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb."
+			},
+			"815": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"216": {
+			"268": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			},
+			"273": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQLK000000VTVG0001VS7OQRVF": "Kreis Muldental/Leipziger Land",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"274": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQLK000000VTVG0001VS7OQRVF": "Kreis Muldental/Leipziger Land",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz"
+			},
+			"275": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden"
+			},
+			"277": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"278": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig"
+			},
+			"702": {
+				"_016FQ2MPJO000000VTVG0001VS7OQRVF": "Kreis Chemnitz",
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb.",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"815": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"217": {
+			"273": {
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQLK000000VTVG0001VS7OQRVF": "Kreis Muldental/Leipziger Land",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"274": {
+				"_016FQ2MQLK000000VTVG0001VS7OQRVF": "Kreis Muldental/Leipziger Land",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz"
+			},
+			"277": {
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MR0G000000VTVG0001VS7OQRVF": "Kreis Meißen",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland"
+			},
+			"278": {
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig"
+			},
+			"702": {
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb.",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			}
+		},
+		"218": {
+			"273": {
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MQUO000000VTVG0001VS7OQRVF": "Kreis Nordsachsen",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz",
+				"_016FQ2MQFS000000VTVG0001VS7OQRVF": "Kreis Zwickau"
+			},
+			"274": {
+				"_016FQ2MQLK000000VTVG0001VS7OQRVF": "Kreis Muldental/Leipziger Land"
+			},
+			"277": {
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland"
+			},
+			"702": {
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig"
+			}
+		},
+		"220": {
+			"268": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			},
+			"273": {
+				"_016FQ2MPRK000000VTVG0001VS7OQRVF": "Kreis Erzgebirge",
+				"_016FQ2MOJO000000VTVG0001VS7OQRVF": "Kreis Oberlausitz"
+			},
+			"277": {
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen",
+				"_016FQ2MQ38000000VTVG0001VS7OQRVF": "Kreis Vogtland",
+				"_016FQ2MO9G000000VTVG0001VS7OQRVF": "Kreis Westlausitz"
+			},
+			"702": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MP0S000000VTVG0001VS7OQRVF": "Kreis Sächs.Schweiz/Osterzgeb."
+			},
+			"815": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"221": {
+			"268": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			},
+			"815": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"222": {
+			"815": {
+				"_0123456789ABCDEF0123456700004270": "Sachsen"
+			}
+		},
+		"223": {
+			"702": {
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig"
+			}
+		},
+		"226": {
+			"273": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig"
+			},
+			"277": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden",
+				"_016FQ2MQT0000000VTVG0001VS7OQRVF": "Kreis Leipzig",
+				"_016FQ2MPCK000000VTVG0001VS7OQRVF": "Kreis Mittelsachsen"
+			}
+		},
+		"1147": {
+			"273": {
+				"_016FQ2MM5K000000VTVG0001VS7OQRVF": "Kreis Dresden"
+			}
+		}
+	}
+}

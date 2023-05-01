@@ -1,0 +1,269 @@
+{
+	"Mannschaftsart": {
+		"_94": "Altherren",
+		"_95": "Herren",
+		"_96": "A-Junioren",
+		"_97": "B-Junioren",
+		"_98": "C-Junioren",
+		"_99": "D-Junioren",
+		"_100": "E-Junioren",
+		"_101": "F-Junioren",
+		"_102": "Bambini",
+		"_103": "Frauen",
+		"_389": "A-Juniorinnen",
+		"_104": "B-Juniorinnen",
+		"_105": "C-Juniorinnen",
+		"_106": "D-Juniorinnen",
+		"_107": "E-Juniorinnen",
+		"_108": "F-Juniorinnen",
+		"_109": "Freizeitsport"
+	},
+	"Spielklasse": {
+		"94": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"95": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"96": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"97": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"98": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"99": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"100": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"101": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"102": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"103": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"104": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"105": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"106": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"107": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"108": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"109": {
+			"_790": "Kreisfreundschaftsspiele"
+		},
+		"389": {
+			"_790": "Kreisfreundschaftsspiele"
+		}
+	},
+	"Gebiet": {
+		"94": {
+			"790": {
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"95": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"96": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"97": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"98": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"99": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"100": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"101": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"102": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"103": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"104": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"105": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"106": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft",
+				"_00ES8GN018000002VV0AG08LVUPGND5I": "Kreis Sieg"
+			}
+		},
+		"107": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000001VV0AG08LVUPGND5I": "Kreis Berg",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft"
+			}
+		},
+		"108": {
+			"790": {
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft"
+			}
+		},
+		"109": {
+			"790": {
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft"
+			}
+		},
+		"389": {
+			"790": {
+				"_00ES8GN000000007VV0AG08LVUPGND5I": "Kreis Aachen",
+				"_00ES8GN018000003VV0AG08LVUPGND5I": "Kreis Bonn",
+				"_00ES8GN000000006VV0AG08LVUPGND5I": "Kreis Düren",
+				"_00ES8GN018000000VV0AG08LVUPGND5I": "Kreis Euskirchen",
+				"_00ES8GN000000005VV0AG08LVUPGND5I": "Kreis Heinsberg",
+				"_00ES8GN018000004VV0AG08LVUPGND5I": "Kreis Köln",
+				"_00ES8GN000000008VV0AG08LVUPGND5I": "Kreis Rhein-Erft"
+			}
+		}
+	}
+}

@@ -1,0 +1,437 @@
+{
+	"Mannschaftsart": {
+		"_381": "Altliga Ü 60",
+		"_23": "Altliga Ü 50",
+		"_25": "Altliga Ü 40",
+		"_26": "Senioren Ü 32",
+		"_27": "Herren",
+		"_994": "Altliga Ü 60-Freizeit/Betrieb",
+		"_995": "Altliga Ü 50-Freizeit/Betrieb",
+		"_996": "Altliga Ü 40-Freizeit/Betrieb",
+		"_997": "Senioren Ü 32-Freizeit/Betrieb",
+		"_998": "Herren - Freizeit/Betrieb",
+		"_28": "A-Junioren",
+		"_29": "B-Junioren",
+		"_30": "C-Junioren",
+		"_31": "D-Junioren",
+		"_32": "E-Junioren",
+		"_33": "F-Junioren",
+		"_34": "Frauen",
+		"_35": "B-Juniorinnen",
+		"_36": "C-Juniorinnen",
+		"_37": "D-Juniorinnen",
+		"_380": "E-Juniorinnen"
+	},
+	"Spielklasse": {
+		"23": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_310": "Bezirksliga",
+			"_313": "Kreisliga A"
+		},
+		"25": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_310": "Bezirksliga",
+			"_313": "Kreisliga A"
+		},
+		"26": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_310": "Bezirksliga",
+			"_313": "Kreisliga A"
+		},
+		"27": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_310": "Bezirksliga",
+			"_313": "Kreisliga A",
+			"_314": "Kreisliga B",
+			"_315": "Kreisliga C"
+		},
+		"28": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_310": "Bezirksliga"
+		},
+		"29": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_310": "Bezirksliga",
+			"_313": "Kreisliga A",
+			"_319": "Kreisklasse A"
+		},
+		"30": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_307": "Landesklasse",
+			"_310": "Bezirksliga",
+			"_311": "Bezirksklasse",
+			"_313": "Kreisliga A",
+			"_319": "Kreisklasse A",
+			"_320": "Kreisklasse B",
+			"_321": "Kreisklasse C",
+			"_630": "Kreisklasse D"
+		},
+		"31": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_307": "Landesklasse",
+			"_310": "Bezirksliga",
+			"_311": "Bezirksklasse",
+			"_319": "Kreisklasse A",
+			"_320": "Kreisklasse B",
+			"_321": "Kreisklasse C",
+			"_630": "Kreisklasse D"
+		},
+		"32": {
+			"_307": "Landesklasse",
+			"_311": "Bezirksklasse",
+			"_313": "Kreisliga A",
+			"_320": "Kreisklasse B",
+			"_321": "Kreisklasse C"
+		},
+		"33": {
+			"_307": "Landesklasse",
+			"_311": "Bezirksklasse",
+			"_320": "Kreisklasse B"
+		},
+		"34": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_310": "Bezirksliga"
+		},
+		"35": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_311": "Bezirksklasse"
+		},
+		"36": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_311": "Bezirksklasse"
+		},
+		"37": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_310": "Bezirksliga"
+		},
+		"380": {
+			"_307": "Landesklasse"
+		},
+		"381": {
+			"_305": "Verbandsliga",
+			"_306": "Landesliga",
+			"_310": "Bezirksliga"
+		},
+		"994": {
+			"_821": "Verbandsliga Freizeit/Betrieb"
+		},
+		"995": {
+			"_821": "Verbandsliga Freizeit/Betrieb",
+			"_822": "Landesliga Freizeit/Betrieb"
+		},
+		"996": {
+			"_821": "Verbandsliga Freizeit/Betrieb",
+			"_822": "Landesliga Freizeit/Betrieb",
+			"_825": "Bezirksliga Freizeit/Betrieb"
+		},
+		"997": {
+			"_821": "Verbandsliga Freizeit/Betrieb",
+			"_822": "Landesliga Freizeit/Betrieb"
+		},
+		"998": {
+			"_821": "Verbandsliga Freizeit/Betrieb",
+			"_822": "Landesliga Freizeit/Betrieb",
+			"_825": "Bezirksliga Freizeit/Betrieb",
+			"_940": "Kreisliga A Freizeit/Betrieb"
+		}
+	},
+	"Gebiet": {
+		"23": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"313": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"25": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"313": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"26": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"313": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"27": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"313": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"314": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"315": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"28": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"29": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"313": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"319": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"30": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"307": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"311": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"313": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"319": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"320": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"321": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"630": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"31": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"307": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"311": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"319": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"320": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"321": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"630": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"32": {
+			"307": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"311": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"313": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"320": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			},
+			"321": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"33": {
+			"307": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"311": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"320": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		},
+		"34": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"35": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"311": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"36": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"311": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"37": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"380": {
+			"307": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"381": {
+			"305": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"306": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"310": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"994": {
+			"821": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"995": {
+			"821": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"822": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"996": {
+			"821": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"822": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"825": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			}
+		},
+		"997": {
+			"821": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"822": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			}
+		},
+		"998": {
+			"821": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"822": {
+				"_0123456789ABCDEF0123456700004240": "Berlin"
+			},
+			"825": {
+				"_00GQ4FH0E0000000VTVG0001VS1O0TGP": "Bezirk Berlin"
+			},
+			"940": {
+				"_00GQ4FH0EG000000VTVG0001VS1O0TGP": "Kreis Berlin"
+			}
+		}
+	}
+}

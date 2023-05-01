@@ -1,0 +1,443 @@
+{
+	"Mannschaftsart": {
+		"_343": "Herren",
+		"_344": "A-Junioren",
+		"_345": "B-Junioren",
+		"_346": "C-Junioren",
+		"_347": "D-Junioren",
+		"_348": "E-Junioren",
+		"_349": "F-Junioren",
+		"_350": "Bambini",
+		"_351": "Frauen",
+		"_390": "A-Juniorinnen",
+		"_352": "B-Juniorinnen",
+		"_353": "C-Juniorinnen",
+		"_354": "D-Juniorinnen",
+		"_355": "E-Juniorinnen",
+		"_357": "F-Juniorinnen"
+	},
+	"Spielklasse": {
+		"343": {
+			"_584": "Oberliga Niederrhein",
+			"_114": "Landesliga",
+			"_116": "Bezirksliga",
+			"_119": "Kreisliga A",
+			"_120": "Kreisliga B",
+			"_121": "Kreisliga C",
+			"_122": "Kreisliga D"
+		},
+		"344": {
+			"_113": "Niederrheinliga",
+			"_119": "Kreisliga A",
+			"_123": "Kreisleistungsklasse",
+			"_124": "Kreisklasse"
+		},
+		"345": {
+			"_113": "Niederrheinliga",
+			"_119": "Kreisliga A",
+			"_120": "Kreisliga B",
+			"_123": "Kreisleistungsklasse",
+			"_124": "Kreisklasse"
+		},
+		"346": {
+			"_113": "Niederrheinliga",
+			"_119": "Kreisliga A",
+			"_123": "Kreisleistungsklasse",
+			"_124": "Kreisklasse"
+		},
+		"347": {
+			"_113": "Niederrheinliga",
+			"_119": "Kreisliga A",
+			"_120": "Kreisliga B",
+			"_121": "Kreisliga C",
+			"_123": "Kreisleistungsklasse",
+			"_124": "Kreisklasse"
+		},
+		"348": {
+			"_124": "Kreisklasse"
+		},
+		"349": {
+			"_124": "Kreisklasse"
+		},
+		"350": {
+			"_124": "Kreisklasse"
+		},
+		"351": {
+			"_113": "Niederrheinliga",
+			"_114": "Landesliga",
+			"_116": "Bezirksliga",
+			"_119": "Kreisliga A"
+		},
+		"352": {
+			"_113": "Niederrheinliga",
+			"_1019": "Leistungsklasse",
+			"_124": "Kreisklasse"
+		},
+		"353": {
+			"_1019": "Leistungsklasse",
+			"_124": "Kreisklasse"
+		},
+		"354": {
+			"_124": "Kreisklasse"
+		},
+		"355": {
+			"_124": "Kreisklasse"
+		},
+		"357": {
+			"_121": "Kreisliga C"
+		},
+		"390": {
+			"_124": "Kreisklasse"
+		}
+	},
+	"Gebiet": {
+		"343": {
+			"114": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			},
+			"116": {
+				"_00GQ4DD83K000000VTVG0001VS1O0TGP": "Bezirk Niederrhein"
+			},
+			"119": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			},
+			"120": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			},
+			"121": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			},
+			"122": {
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen"
+			},
+			"584": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			}
+		},
+		"344": {
+			"113": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			},
+			"119": {
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop"
+			},
+			"123": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			},
+			"124": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			}
+		},
+		"345": {
+			"113": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			},
+			"119": {
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop"
+			},
+			"120": {
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop"
+			},
+			"123": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			},
+			"124": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			}
+		},
+		"346": {
+			"113": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			},
+			"119": {
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop"
+			},
+			"123": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			},
+			"124": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			}
+		},
+		"347": {
+			"113": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			},
+			"119": {
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop"
+			},
+			"120": {
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop"
+			},
+			"121": {
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop"
+			},
+			"123": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			},
+			"124": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			}
+		},
+		"348": {
+			"124": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			}
+		},
+		"349": {
+			"124": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			}
+		},
+		"350": {
+			"124": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			}
+		},
+		"351": {
+			"113": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			},
+			"114": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			},
+			"116": {
+				"_00GQ4DD83K000000VTVG0001VS1O0TGP": "Bezirk Niederrhein"
+			},
+			"119": {
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			}
+		},
+		"352": {
+			"113": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			},
+			"124": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen"
+			},
+			"1019": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			}
+		},
+		"353": {
+			"124": {
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_00ES8GMVUO00000GVV0AG08LVUPGND5I": "Kreis Kempen-Krefeld",
+				"_00ES8GMVUO00000EVV0AG08LVUPGND5I": "Kreis Kleve-Geldern",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GN000000001VV0AG08LVUPGND5I": "Kreis Mönchengladbach-Viersen",
+				"_00ES8GMVUO00000CVV0AG08LVUPGND5I": "Kreis Oberhausen-Bottrop",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			},
+			"1019": {
+				"_0123456789ABCDEF0123456700004110": "Niederrhein"
+			}
+		},
+		"354": {
+			"124": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_01RCTV8JT0000000VTVG0001VTSNKVTH": "Kreis Essen",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000FVV0AG08LVUPGND5I": "Kreis Moers",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen",
+				"_00ES8GN000000002VV0AG08LVUPGND5I": "Kreis Wuppertal-Niederberg"
+			}
+		},
+		"355": {
+			"124": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GMVUO000008VV0AG08LVUPGND5I": "Kreis Remscheid"
+			}
+		},
+		"357": {
+			"121": {
+				"_00ES8GMVUO00000DVV0AG08LVUPGND5I": "Kreis Duisburg-Mülheim-Dinslak",
+				"_00ES8GN000000004VV0AG08LVUPGND5I": "Kreis Düsseldorf",
+				"_00ES8GN000000000VV0AG08LVUPGND5I": "Kreis Grevenbroich-Neuss",
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt",
+				"_00ES8GN000000003VV0AG08LVUPGND5I": "Kreis Solingen"
+			}
+		},
+		"390": {
+			"124": {
+				"_00ES8GMVUO00000BVV0AG08LVUPGND5I": "Kreis Rees-Bocholt"
+			}
+		}
+	}
+}
