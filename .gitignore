@@ -9,7 +9,8 @@
 
 # IntelliJ
 /out/
-.idea/
+.idea/*
+.idea/sonarlint
 
 node_modules
 *.iml
