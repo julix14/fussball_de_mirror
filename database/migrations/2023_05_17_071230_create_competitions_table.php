@@ -16,7 +16,7 @@ return new class extends Migration
             $table->string('mandant_id');
             $table->string('saison_id');
             $table->string('competition_type_id');
-            $table->foreign('mandant_id')->references('id')->on('mandants');
+            $table->foreign('mandant_id')->references('mandant_id')->on('mandants');
             $table->foreign('saison_id')->references('saison_id')->on('saisons');
             $table->foreign('competition_type_id')->references('competition_type_id')->on('competition_types');
             $table->jsonb('data')->nullable();

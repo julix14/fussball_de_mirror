@@ -2,8 +2,11 @@
 
 namespace Database\Seeders;
 
+use App\Models\Mandant;
+use App\Models\Saison;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
 
 class SaisonsSeeder extends Seeder
 {
@@ -12,15 +15,26 @@ class SaisonsSeeder extends Seeder
      */
     public function run(): void
     {
-        $base = $this->getBase();
+        $baseJson = DB::table('base_data')
+            ->where('is_current_year', true)
+            ->first()
+            ->data;
 
-        //Read the Mandanten from the base.json file and create them in the database
-        foreach ($base['Mandanten'] as $key => $value) {
-
-            Mandant::factory()->create([
-                'id' => $key,
-                'name' => $value
-            ]);
+        $base = json_decode($baseJson, true);
+        $alreadyCreatedSaisons = [];
+        //Read the Saisons from the base.json file and create them in the database
+        foreach ($base['Saisons'] as $saisons) {
+            foreach ($saisons as $key => $value) {
+                $formattedKey = str_replace('_', '', $key);
+                if (in_array($key, $alreadyCreatedSaisons)) {
+                    continue;
+                }
+                Saison::factory()->create([
+                    'saison_id' => $formattedKey,
+                    'name' => $value
+                ]);
+                $alreadyCreatedSaisons[] = $formattedKey;
+            }
         }
     }
 }

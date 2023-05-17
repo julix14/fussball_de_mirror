@@ -17,7 +17,7 @@ class Saison extends Model
     protected $primaryKey = 'id';
 
     protected $fillable = [
-        'id',
+        'saison_id',
         'name'
     ];
 
