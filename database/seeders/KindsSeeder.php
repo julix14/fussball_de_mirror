@@ -14,8 +14,5 @@ class KindsSeeder extends Seeder
     {
 
 
-
-
-
     }
 }
