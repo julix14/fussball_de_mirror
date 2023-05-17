@@ -28,6 +28,8 @@ class CompetitionSeeder extends Seeder
         $base = json_decode($baseJson, true);
         $alreadyCreatedCompetitionTypes = [];
 
+        $competitionsToSave = [];
+
         foreach ($base['CompetitionTypes'] as $mandant => $competitionTypesByMandant) {
             foreach ($competitionTypesByMandant as $saison => $competitionTypesBySaison) {
                 foreach ($competitionTypesBySaison as $key => $value) {
@@ -61,18 +63,21 @@ class CompetitionSeeder extends Seeder
                         continue;
                     }
 
-                    Competition::factory()->create([
+                    $competitionsToSave[] = [
                         'mandant_id' => $mandantId,
                         'saison_id' => $saisonId,
                         'competition_type_id' => $formattedKey,
                         'data' => $data,
-                    ]);
+                    ];
 
                     echo "Created Competition for {$mandantId}, {$saisonId}, {$formattedKey}\n";
 
                 }
             }
         }
+
+        // Save all competitions at once
+        Competition::insert($competitionsToSave);
 
         curl_close($curl);
 
