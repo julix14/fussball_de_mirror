@@ -15,8 +15,9 @@ class League extends Model
      */
     protected $primaryKey = 'league_id';
 
-    protected $attributes = [
+    protected $fillable = [
         'league_id',
+        'data'
     ];
 
     /**

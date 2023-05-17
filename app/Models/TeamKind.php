@@ -15,7 +15,7 @@ class TeamKind extends Model
      */
     protected $primaryKey = 'team_kind_id';
 
-    protected $attributes = [
+    protected $fillable = [
         'team_kind_id',
         'name'
     ];

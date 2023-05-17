@@ -15,7 +15,7 @@ class Area extends Model
      */
     protected $primaryKey = 'area_id';
 
-    protected $attributes = [
+    protected $fillable = [
         'area_id',
         'name'
     ];

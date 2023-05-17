@@ -17,8 +17,9 @@ class Competition extends Model
      */
     protected $primaryKey = 'competition_id';
 
-    protected $attributes = [
+    protected $fillable = [
         'competition_id',
+        'data'
     ];
 
     /**

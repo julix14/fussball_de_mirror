@@ -15,7 +15,7 @@ class GameClass extends Model
      */
     protected $primaryKey = 'id';
 
-    protected $attributes = [
+    protected $fillable = [
         'id',
         'name'
     ];

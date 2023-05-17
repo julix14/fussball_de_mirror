@@ -2,24 +2,25 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Concerns\HasAttributes;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\HasMany;
 
-class CompetitionType extends Model
+class BaseData extends Model
 {
     use HasFactory;
+
     /**
      * The primary key associated with the table.
      *
      * @var string
      */
-    protected $primaryKey = 'id';
+    protected $primaryKey = 'base_data_id';
 
     protected $fillable = [
-        'id',
-        'name'
+        'base_data_id',
+        'data',
+        'year',
+        'is_current_year'
     ];
 
     /**
@@ -27,10 +28,5 @@ class CompetitionType extends Model
      *
      * @var bool
      */
-    public $incrementing = false;
-
-    public function competition(): HasMany
-    {
-        return $this->hasMany(Competition::class);
-    }
+    public $incrementing = true;
 }
