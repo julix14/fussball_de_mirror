@@ -14,10 +14,10 @@ class BaseData extends Model
      *
      * @var string
      */
-    protected $primaryKey = 'base_data_id';
+    protected $primaryKey = 'id';
 
     protected $fillable = [
-        'base_data_id',
+        'id',
         'data',
         'year',
         'is_current_year'
