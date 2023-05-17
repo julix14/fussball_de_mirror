@@ -26,7 +26,7 @@ class SaisonsSeeder extends Seeder
         foreach ($base['Saisons'] as $saisons) {
             foreach ($saisons as $key => $value) {
                 $formattedKey = str_replace('_', '', $key);
-                if (in_array($key, $alreadyCreatedSaisons)) {
+                if (in_array($formattedKey, $alreadyCreatedSaisons)) {
                     continue;
                 }
                 Saison::factory()->create([

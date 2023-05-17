@@ -35,6 +35,7 @@ class DatabaseSeeder extends Seeder
         $this->call([
             MandantenSeeder::class,
             SaisonsSeeder::class,
+            CompetitionSeeder::class,
         ]);
 
 
