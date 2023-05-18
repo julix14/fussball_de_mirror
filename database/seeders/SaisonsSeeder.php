@@ -23,7 +23,7 @@ class SaisonsSeeder extends Seeder
         $base = json_decode($baseJson, true);
         $alreadyCreatedSaisons = Saison::all()
             ->pluck('saison_id')
-            ->map(fn ($item) => FormatHelper::class->formatKey($item))
+            ->map(fn ($item) => FormatHelper::formatKey($item))
             ->toArray();
         //Read the Saisons from the base.json file and create them in the database
         foreach ($base['Saisons'] as $saisons) {

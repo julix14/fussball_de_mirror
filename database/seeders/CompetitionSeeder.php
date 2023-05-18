@@ -28,7 +28,7 @@ class CompetitionSeeder extends Seeder
         $base = json_decode($baseJson, true);
         $alreadyCreatedCompetitionTypes = CompetitionType::all()
             ->pluck('competition_type_id')
-            ->map(fn ($item) => FormatHelper::class->formatKey($item))
+            ->map(fn ($item) => FormatHelper::formatKey($item))
             ->toArray();
 
         $competitionsToSave = [];
@@ -36,7 +36,7 @@ class CompetitionSeeder extends Seeder
         foreach ($base['CompetitionTypes'] as $mandant => $competitionTypesByMandant) {
             foreach ($competitionTypesByMandant as $saison => $competitionTypesBySaison) {
                 foreach ($competitionTypesBySaison as $key => $value) {
-                    $formattedKey = FormatHelper::class->formatKey($key);
+                    $formattedKey = FormatHelper::formatKey($key);
 
                     if (!in_array($formattedKey, $alreadyCreatedCompetitionTypes)) {
                         CompetitionType::factory()->create([
@@ -47,8 +47,8 @@ class CompetitionSeeder extends Seeder
 
                     }
 
-                    $mandantId = FormatHelper::class->formatKey($mandant);
-                    $saisonId = FormatHelper::class->formatKey($saison);
+                    $mandantId = FormatHelper::formatKey($mandant);
+                    $saisonId = FormatHelper::formatKey($saison);
 
                     $url = "https://www.fussball.de/wam_kinds_{$mandantId}_{$saisonId}_{$formattedKey}.json";
 
