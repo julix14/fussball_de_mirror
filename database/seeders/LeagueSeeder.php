@@ -32,60 +32,54 @@ class LeagueSeeder extends Seeder
 
             $createdTeamKinds = TeamKind::all()
                 ->pluck('team_kind_id')
-                ->map(function ($item) {
-                    return $this->formatKey($item);
-                })
+                ->map(fn ($item) => FormatHelper::class->formatKey($item))
                 ->toArray();
             $createdGameClasses = GameClass::all()
                 ->pluck('game_class_id')
-                ->map(function ($item) {
-                    return $this->formatKey($item);
-                })
+                ->map(fn ($item) => FormatHelper::class->formatKey($item))
                 ->toArray();
 
             $createdAreas = Area::all()
                 ->pluck('area_id')
-                ->map(function ($item) {
-                    return $this->formatKey($item);
-                })
+                ->map(fn ($item) => FormatHelper::class->formatKey($item))
                 ->toArray();
 
             foreach ($teamKinds as $teamKindKey => $teamKindValue) {
 
                 if (!in_array($teamKindKey, $createdTeamKinds)) {
                     TeamKind::factory()->create([
-                        'team_kind_id' => $this->formatKey($teamKindKey),
+                        'team_kind_id' => FormatHelper::class->formatKey($teamKindKey),
                         'name' => $teamKindValue
                     ]);
                     $createdTeamKinds[] = $teamKindKey;
 
                 }
-                $teamKindId = $this->formatKey($teamKindKey);
+                $teamKindId = FormatHelper::class->formatKey($teamKindKey);
                 $gameClassesByTeamKind = $gameClasses[$teamKindId];
                 foreach ($gameClassesByTeamKind as $gameClassKey => $gameClassValue) {
                     if (!in_array($gameClassKey, $createdGameClasses)) {
                         GameClass::factory()->create([
-                            'game_class_id' => $this->formatKey($gameClassKey),
+                            'game_class_id' => FormatHelper::class->formatKey($gameClassKey),
                             'name' => $gameClassValue,
                         ]);
                         $createdGameClasses[] = $gameClassKey;
                     }
-                    $gameClassId = $this->formatKey($gameClassKey);
+                    $gameClassId = FormatHelper::class->formatKey($gameClassKey);
 
                     $areasByGameClass = $areas[$teamKindId][$gameClassId];
                     foreach ($areasByGameClass as $areaKey => $areaValue) {
                         if (!in_array($areaKey, $createdAreas)) {
                             Area::factory()->create([
-                                'area_id' => $this->formatKey($areaKey),
+                                'area_id' => FormatHelper::class->formatKey($areaKey),
                                 'name' => $areaValue,
                             ]);
                             $createdAreas[] = $areaKey;
                         }
-                        $mandantId = $this->formatKey($competition->mandant_id);
-                        $saisonId = $this->formatKey($competition->saison_id);
-                        $competitionTypeId = $this->formatKey($competition->competition_type_id);
+                        $mandantId = FormatHelper::class->formatKey($competition->mandant_id);
+                        $saisonId = FormatHelper::class->formatKey($competition->saison_id);
+                        $competitionTypeId = FormatHelper::class->formatKey($competition->competition_type_id);
 
-                        $areaId = $this->formatKey($areaKey);
+                        $areaId = FormatHelper::class->formatKey($areaKey);
 
                         $url = "https://www.fussball.de/wam_competitions_{$mandantId}_{$saisonId}_{$competitionTypeId}_{$teamKindId}_{$gameClassId}_{$areaId}.json";
 
@@ -99,7 +93,7 @@ class LeagueSeeder extends Seeder
                         $leaguesToSave[] = [
                             'game_class_id' => $gameClassId,
                             'team_kind_id' => $teamKindId,
-                            'competition_id' => $this->formatKey($competition->competition_id),
+                            'competition_id' => FormatHelper::class->formatKey($competition->competition_id),
                             'area_id' => $areaId,
                             'data' => $data
                         ];
@@ -115,11 +109,5 @@ class LeagueSeeder extends Seeder
 
         League::insert($leaguesToSave);
     }
-    private function formatKey($key): string
-    {
-        if (Str::startsWith($key, '_')) {
-            return str_replace('_', '', $key);
-        }
-        return '_'.$key;
-    }
+
 }

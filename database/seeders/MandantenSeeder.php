@@ -20,13 +20,23 @@ class MandantenSeeder extends Seeder
             ->first()
             ->data;
         $base = json_decode($baseJson, true);
+
+        $alreadyCreatedMandanten = Mandanten::all()
+            ->pluck('mandant_id')
+            ->map(fn ($item) => FormatHelper::class->formatKey($item))
+            ->toArray();
         //Read the Mandanten from the base.json file and create them in the database
         foreach ($base['Mandanten'] as $key => $value) {
             $formattedKey = str_replace('_', '', $key);
-            Mandant::factory()->create([
-                'mandant_id' => $formattedKey,
-                'name' => $value
-            ]);
+            if (!in_array($formattedKey, $alreadyCreatedMandanten)) {
+                Mandant::factory()->create([
+                    'mandant_id' => $formattedKey,
+                    'name' => $value
+                ]);
+                $alreadyCreatedMandanten[] = $formattedKey;
+            }
+
+
         }
     }
 }

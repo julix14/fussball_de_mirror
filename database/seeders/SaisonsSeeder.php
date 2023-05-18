@@ -21,19 +21,22 @@ class SaisonsSeeder extends Seeder
             ->data;
 
         $base = json_decode($baseJson, true);
-        $alreadyCreatedSaisons = [];
+        $alreadyCreatedSaisons = Saison::all()
+            ->pluck('saison_id')
+            ->map(fn ($item) => FormatHelper::class->formatKey($item))
+            ->toArray();
         //Read the Saisons from the base.json file and create them in the database
         foreach ($base['Saisons'] as $saisons) {
             foreach ($saisons as $key => $value) {
                 $formattedKey = str_replace('_', '', $key);
                 if (in_array($formattedKey, $alreadyCreatedSaisons)) {
-                    continue;
+                    Saison::factory()->create([
+                        'saison_id' => $formattedKey,
+                        'name' => $value
+                    ]);
+                    $alreadyCreatedSaisons[] = $formattedKey;
                 }
-                Saison::factory()->create([
-                    'saison_id' => $formattedKey,
-                    'name' => $value
-                ]);
-                $alreadyCreatedSaisons[] = $formattedKey;
+
             }
         }
     }
