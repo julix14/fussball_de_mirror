@@ -26,4 +26,9 @@ class TeamKind extends Model
      * @var bool
      */
     public $incrementing = false;
+
+    public function leagues()
+    {
+        return $this->hasMany(League::class);
+    }
 }

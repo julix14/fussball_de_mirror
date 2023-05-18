@@ -15,10 +15,10 @@ class CompetitionType extends Model
      *
      * @var string
      */
-    protected $primaryKey = 'id';
+    protected $primaryKey = 'competition_type_id';
 
     protected $fillable = [
-        'id',
+        'competition_type_id',
         'name'
     ];
 

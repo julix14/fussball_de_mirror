@@ -14,7 +14,7 @@ class Mandant extends Model
      *
      * @var string
      */
-    protected $primaryKey = 'id';
+    protected $primaryKey = 'mandant_id';
 
     protected $fillable = [
         'mandant_id',

@@ -15,12 +15,12 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-//         User::factory(10)->create();
-//
-//         User::factory()->create([
-//             'name' => 'Test User',
-//             'email' => 'test@example.com',
-//         ]);
+         User::factory(10)->create();
+
+         User::factory()->create([
+             'name' => 'Test User',
+             'email' => 'test@example.com',
+         ]);
 
          $baseJsonUrl = 'https://www.fussball.de/wam_base.json';
          $baseJson = file_get_contents($baseJsonUrl);
@@ -36,15 +36,7 @@ class DatabaseSeeder extends Seeder
             MandantenSeeder::class,
             SaisonsSeeder::class,
             CompetitionSeeder::class,
+            LeagueSeeder::class,
         ]);
-
-
-
-
-
-
-
-
-
     }
 }
